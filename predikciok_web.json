@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17 08:41 (magyar idő)",
+  "generated_at": "2026-06-17 08:55 (magyar idő)",
   "rows": [
     {
       "Meccs": 1,
@@ -17,7 +17,8 @@
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": 3,
       "Tizenegyespárbaj": "",
-      "Státusz": "Lejátszott"
+      "Státusz": "Lejátszott",
+      "Pontosság (%)": "50%"
     },
     {
       "Meccs": 2,
@@ -35,7 +36,8 @@
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": 1,
       "Tizenegyespárbaj": "",
-      "Státusz": "Lejátszott"
+      "Státusz": "Lejátszott",
+      "Pontosság (%)": "0%"
     },
     {
       "Meccs": 3,
@@ -53,7 +55,8 @@
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": 5,
       "Tizenegyespárbaj": "",
-      "Státusz": "Lejátszott"
+      "Státusz": "Lejátszott",
+      "Pontosság (%)": "50%"
     },
     {
       "Meccs": 4,
@@ -71,7 +74,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": 6,
       "Tizenegyespárbaj": "",
-      "Státusz": "Lejátszott"
+      "Státusz": "Lejátszott",
+      "Pontosság (%)": "25%"
     },
     {
       "Meccs": 5,
@@ -89,7 +93,8 @@
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": 3,
       "Tizenegyespárbaj": "",
-      "Státusz": "Lejátszott"
+      "Státusz": "Lejátszott",
+      "Pontosság (%)": "25%"
     },
     {
       "Meccs": 6,
@@ -107,7 +112,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": 2,
       "Tizenegyespárbaj": "",
-      "Státusz": "Lejátszott"
+      "Státusz": "Lejátszott",
+      "Pontosság (%)": "0%"
     },
     {
       "Meccs": 7,
@@ -125,7 +131,8 @@
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": 4,
       "Tizenegyespárbaj": "",
-      "Státusz": "Lejátszott"
+      "Státusz": "Lejátszott",
+      "Pontosság (%)": "25%"
     },
     {
       "Meccs": 8,
@@ -143,7 +150,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": 1,
       "Tizenegyespárbaj": "",
-      "Státusz": "Lejátszott"
+      "Státusz": "Lejátszott",
+      "Pontosság (%)": "0%"
     },
     {
       "Meccs": 9,
@@ -161,7 +169,8 @@
       "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": 0,
       "Tizenegyespárbaj": "",
-      "Státusz": "Lejátszott"
+      "Státusz": "Lejátszott",
+      "Pontosság (%)": "25%"
     },
     {
       "Meccs": 10,
@@ -179,7 +188,8 @@
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": 3,
       "Tizenegyespárbaj": "",
-      "Státusz": "Lejátszott"
+      "Státusz": "Lejátszott",
+      "Pontosság (%)": "50%"
     },
     {
       "Meccs": 11,
@@ -197,7 +207,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": 4,
       "Tizenegyespárbaj": "",
-      "Státusz": "Lejátszott"
+      "Státusz": "Lejátszott",
+      "Pontosság (%)": "50%"
     },
     {
       "Meccs": 12,
@@ -215,7 +226,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": 1,
       "Tizenegyespárbaj": "",
-      "Státusz": "Lejátszott"
+      "Státusz": "Lejátszott",
+      "Pontosság (%)": "25%"
     },
     {
       "Meccs": 13,
@@ -233,7 +245,8 @@
       "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": 2,
       "Tizenegyespárbaj": "",
-      "Státusz": "Lejátszott"
+      "Státusz": "Lejátszott",
+      "Pontosság (%)": "25%"
     },
     {
       "Meccs": 14,
@@ -251,7 +264,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": 4,
       "Tizenegyespárbaj": "",
-      "Státusz": "Lejátszott"
+      "Státusz": "Lejátszott",
+      "Pontosság (%)": "50%"
     },
     {
       "Meccs": 15,
@@ -269,7 +283,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": 1,
       "Tizenegyespárbaj": "",
-      "Státusz": "Lejátszott"
+      "Státusz": "Lejátszott",
+      "Pontosság (%)": "0%"
     },
     {
       "Meccs": 16,
@@ -287,7 +302,8 @@
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": 1,
       "Tizenegyespárbaj": "",
-      "Státusz": "Lejátszott"
+      "Státusz": "Lejátszott",
+      "Pontosság (%)": "0%"
     },
     {
       "Meccs": 17,
@@ -305,7 +321,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": 0,
       "Tizenegyespárbaj": "",
-      "Státusz": "Lejátszott"
+      "Státusz": "Lejátszott",
+      "Pontosság (%)": "50%"
     },
     {
       "Meccs": 18,
@@ -323,7 +340,8 @@
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": 1,
       "Tizenegyespárbaj": "",
-      "Státusz": "Lejátszott"
+      "Státusz": "Lejátszott",
+      "Pontosság (%)": "25%"
     },
     {
       "Meccs": 19,
@@ -341,7 +359,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": 0,
       "Tizenegyespárbaj": "",
-      "Státusz": "Lejátszott"
+      "Státusz": "Lejátszott",
+      "Pontosság (%)": "25%"
     },
     {
       "Meccs": 20,
@@ -359,7 +378,8 @@
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": 1,
       "Tizenegyespárbaj": "",
-      "Státusz": "Lejátszott"
+      "Státusz": "Lejátszott",
+      "Pontosság (%)": "25%"
     },
     {
       "Meccs": 21,
@@ -377,7 +397,8 @@
       "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 22,
@@ -395,7 +416,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 23,
@@ -413,7 +435,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 24,
@@ -431,7 +454,8 @@
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 25,
@@ -449,7 +473,8 @@
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 26,
@@ -467,7 +492,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 27,
@@ -485,7 +511,8 @@
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 28,
@@ -503,7 +530,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 29,
@@ -521,7 +549,8 @@
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 30,
@@ -539,7 +568,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 31,
@@ -557,7 +587,8 @@
       "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 32,
@@ -575,7 +606,8 @@
       "Sárga lapok (tipp)": 5,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 33,
@@ -593,7 +625,8 @@
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 34,
@@ -611,7 +644,8 @@
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 35,
@@ -629,7 +663,8 @@
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 36,
@@ -647,7 +682,8 @@
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 37,
@@ -665,7 +701,8 @@
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 38,
@@ -683,7 +720,8 @@
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 39,
@@ -701,7 +739,8 @@
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 40,
@@ -719,7 +758,8 @@
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 41,
@@ -737,7 +777,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 42,
@@ -755,7 +796,8 @@
       "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 43,
@@ -773,7 +815,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 44,
@@ -791,7 +834,8 @@
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 45,
@@ -809,7 +853,8 @@
       "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 46,
@@ -827,7 +872,8 @@
       "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 47,
@@ -845,7 +891,8 @@
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 48,
@@ -863,7 +910,8 @@
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 49,
@@ -881,7 +929,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 50,
@@ -899,7 +948,8 @@
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 51,
@@ -917,7 +967,8 @@
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 52,
@@ -935,7 +986,8 @@
       "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 53,
@@ -953,7 +1005,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 54,
@@ -971,7 +1024,8 @@
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 55,
@@ -989,7 +1043,8 @@
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 56,
@@ -1007,7 +1062,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 57,
@@ -1025,7 +1081,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 58,
@@ -1043,7 +1100,8 @@
       "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 59,
@@ -1061,7 +1119,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 60,
@@ -1079,7 +1138,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 61,
@@ -1097,7 +1157,8 @@
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 62,
@@ -1115,7 +1176,8 @@
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 63,
@@ -1133,7 +1195,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 64,
@@ -1151,7 +1214,8 @@
       "Sárga lapok (tipp)": 5,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 65,
@@ -1169,7 +1233,8 @@
       "Sárga lapok (tipp)": 5,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 66,
@@ -1187,7 +1252,8 @@
       "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 67,
@@ -1205,7 +1271,8 @@
       "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 68,
@@ -1223,7 +1290,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 69,
@@ -1241,7 +1309,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 70,
@@ -1259,7 +1328,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 71,
@@ -1277,7 +1347,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 72,
@@ -1295,7 +1366,8 @@
       "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Frissített előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 73,
@@ -1313,7 +1385,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Előrejelzés"
+      "Státusz": "Előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 74,
@@ -1331,7 +1404,8 @@
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Előrejelzés"
+      "Státusz": "Előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 75,
@@ -1349,7 +1423,8 @@
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Előrejelzés"
+      "Státusz": "Előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 76,
@@ -1367,7 +1442,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Előrejelzés"
+      "Státusz": "Előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 77,
@@ -1385,7 +1461,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Előrejelzés"
+      "Státusz": "Előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 78,
@@ -1403,7 +1480,8 @@
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Előrejelzés"
+      "Státusz": "Előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 79,
@@ -1421,7 +1499,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Előrejelzés"
+      "Státusz": "Előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 80,
@@ -1439,7 +1518,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Előrejelzés"
+      "Státusz": "Előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 81,
@@ -1457,7 +1537,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Előrejelzés"
+      "Státusz": "Előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 82,
@@ -1475,7 +1556,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Előrejelzés"
+      "Státusz": "Előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 83,
@@ -1493,7 +1575,8 @@
       "Sárga lapok (tipp)": 5,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "Igen",
-      "Státusz": "Előrejelzés"
+      "Státusz": "Előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 84,
@@ -1511,7 +1594,8 @@
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Előrejelzés"
+      "Státusz": "Előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 85,
@@ -1529,7 +1613,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Előrejelzés"
+      "Státusz": "Előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 86,
@@ -1547,7 +1632,8 @@
       "Sárga lapok (tipp)": 5,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Előrejelzés"
+      "Státusz": "Előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 87,
@@ -1565,7 +1651,8 @@
       "Sárga lapok (tipp)": 5,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Előrejelzés"
+      "Státusz": "Előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 88,
@@ -1583,7 +1670,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Előrejelzés"
+      "Státusz": "Előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 89,
@@ -1601,7 +1689,8 @@
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Előrejelzés"
+      "Státusz": "Előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 90,
@@ -1619,7 +1708,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Előrejelzés"
+      "Státusz": "Előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 91,
@@ -1637,7 +1727,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Előrejelzés"
+      "Státusz": "Előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 92,
@@ -1655,7 +1746,8 @@
       "Sárga lapok (tipp)": 5,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Előrejelzés"
+      "Státusz": "Előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 93,
@@ -1673,7 +1765,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Előrejelzés"
+      "Státusz": "Előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 94,
@@ -1691,7 +1784,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Előrejelzés"
+      "Státusz": "Előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 95,
@@ -1709,7 +1803,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Előrejelzés"
+      "Státusz": "Előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 96,
@@ -1727,7 +1822,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Előrejelzés"
+      "Státusz": "Előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 97,
@@ -1745,7 +1841,8 @@
       "Sárga lapok (tipp)": 5,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "Igen",
-      "Státusz": "Előrejelzés"
+      "Státusz": "Előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 98,
@@ -1763,7 +1860,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Előrejelzés"
+      "Státusz": "Előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 99,
@@ -1781,7 +1879,8 @@
       "Sárga lapok (tipp)": 5,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Előrejelzés"
+      "Státusz": "Előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 100,
@@ -1799,7 +1898,8 @@
       "Sárga lapok (tipp)": 5,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "Igen",
-      "Státusz": "Előrejelzés"
+      "Státusz": "Előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 101,
@@ -1817,7 +1917,8 @@
       "Sárga lapok (tipp)": 5,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Előrejelzés"
+      "Státusz": "Előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 102,
@@ -1835,7 +1936,8 @@
       "Sárga lapok (tipp)": 5,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Előrejelzés"
+      "Státusz": "Előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 103,
@@ -1853,7 +1955,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Előrejelzés"
+      "Státusz": "Előrejelzés",
+      "Pontosság (%)": ""
     },
     {
       "Meccs": 104,
@@ -1871,7 +1974,8 @@
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
-      "Státusz": "Előrejelzés"
+      "Státusz": "Előrejelzés",
+      "Pontosság (%)": ""
     }
   ]
 }
