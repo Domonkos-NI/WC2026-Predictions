@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17 07:59 (magyar idő)",
+  "generated_at": "2026-06-17 08:22 (magyar idő)",
   "rows": [
     {
       "Meccs": 1,
@@ -76,24 +76,6 @@
     {
       "Meccs": 5,
       "Szakasz": "Csoportkör",
-      "Forduló / Csoport": "Group D",
-      "Dátum (magyar idő)": "2026-06-13 06:00",
-      "Hazai csapat": "Ausztrália",
-      "Vendég csapat": "Törökország",
-      "Eredmény (tipp)": "1-2",
-      "Eredmény (tény)": "2-0",
-      "Találat": "❌ Nem",
-      "Győztes (tipp)": "Vendég",
-      "Szögletek (tipp)": 9,
-      "Szögletek (tény)": 13,
-      "Sárga lapok (tipp)": 4,
-      "Sárga lapok (tény)": 1,
-      "Tizenegyespárbaj": "",
-      "Státusz": "Lejátszott"
-    },
-    {
-      "Meccs": 6,
-      "Szakasz": "Csoportkör",
       "Forduló / Csoport": "Group B",
       "Dátum (magyar idő)": "2026-06-13 21:00",
       "Hazai csapat": "Katar",
@@ -110,7 +92,7 @@
       "Státusz": "Lejátszott"
     },
     {
-      "Meccs": 7,
+      "Meccs": 6,
       "Szakasz": "Csoportkör",
       "Forduló / Csoport": "Group C",
       "Dátum (magyar idő)": "2026-06-14 00:00",
@@ -128,7 +110,7 @@
       "Státusz": "Lejátszott"
     },
     {
-      "Meccs": 8,
+      "Meccs": 7,
       "Szakasz": "Csoportkör",
       "Forduló / Csoport": "Group C",
       "Dátum (magyar idő)": "2026-06-14 03:00",
@@ -142,6 +124,24 @@
       "Szögletek (tény)": 7,
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": 4,
+      "Tizenegyespárbaj": "",
+      "Státusz": "Lejátszott"
+    },
+    {
+      "Meccs": 8,
+      "Szakasz": "Csoportkör",
+      "Forduló / Csoport": "Group D",
+      "Dátum (magyar idő)": "2026-06-14 06:00",
+      "Hazai csapat": "Ausztrália",
+      "Vendég csapat": "Törökország",
+      "Eredmény (tipp)": "1-2",
+      "Eredmény (tény)": "2-0",
+      "Találat": "❌ Nem",
+      "Győztes (tipp)": "Vendég",
+      "Szögletek (tipp)": 9,
+      "Szögletek (tény)": 13,
+      "Sárga lapok (tipp)": 4,
+      "Sárga lapok (tény)": 1,
       "Tizenegyespárbaj": "",
       "Státusz": "Lejátszott"
     },
@@ -292,24 +292,6 @@
     {
       "Meccs": 17,
       "Szakasz": "Csoportkör",
-      "Forduló / Csoport": "Group J",
-      "Dátum (magyar idő)": "2026-06-16 06:00",
-      "Hazai csapat": "Ausztria",
-      "Vendég csapat": "Jordánia",
-      "Eredmény (tipp)": "2-0",
-      "Eredmény (tény)": "",
-      "Találat": "",
-      "Győztes (tipp)": "Hazai",
-      "Szögletek (tipp)": 8,
-      "Szögletek (tény)": "",
-      "Sárga lapok (tipp)": 3,
-      "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
-      "Státusz": "Lejátszott"
-    },
-    {
-      "Meccs": 18,
-      "Szakasz": "Csoportkör",
       "Forduló / Csoport": "Group I",
       "Dátum (magyar idő)": "2026-06-16 21:00",
       "Hazai csapat": "Franciaország",
@@ -326,7 +308,7 @@
       "Státusz": "Lejátszott"
     },
     {
-      "Meccs": 19,
+      "Meccs": 18,
       "Szakasz": "Csoportkör",
       "Forduló / Csoport": "Group I",
       "Dátum (magyar idő)": "2026-06-17 00:00",
@@ -344,7 +326,7 @@
       "Státusz": "Lejátszott"
     },
     {
-      "Meccs": 20,
+      "Meccs": 19,
       "Szakasz": "Csoportkör",
       "Forduló / Csoport": "Group J",
       "Dátum (magyar idő)": "2026-06-17 03:00",
@@ -358,6 +340,24 @@
       "Szögletek (tény)": 4,
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": 0,
+      "Tizenegyespárbaj": "",
+      "Státusz": "Lejátszott"
+    },
+    {
+      "Meccs": 20,
+      "Szakasz": "Csoportkör",
+      "Forduló / Csoport": "Group J",
+      "Dátum (magyar idő)": "2026-06-17 06:00",
+      "Hazai csapat": "Ausztria",
+      "Vendég csapat": "Jordánia",
+      "Eredmény (tipp)": "2-0",
+      "Eredmény (tény)": "",
+      "Találat": "",
+      "Győztes (tipp)": "Hazai",
+      "Szögletek (tipp)": 8,
+      "Szögletek (tény)": "",
+      "Sárga lapok (tipp)": 3,
+      "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
       "Státusz": "Frissített előrejelzés"
     },
@@ -509,24 +509,6 @@
       "Meccs": 29,
       "Szakasz": "Csoportkör",
       "Forduló / Csoport": "Group D",
-      "Dátum (magyar idő)": "2026-06-19 06:00",
-      "Hazai csapat": "Törökország",
-      "Vendég csapat": "Paraguay",
-      "Eredmény (tipp)": "1-1",
-      "Eredmény (tény)": "",
-      "Találat": "",
-      "Győztes (tipp)": "Döntetlen",
-      "Szögletek (tipp)": 9,
-      "Szögletek (tény)": "",
-      "Sárga lapok (tipp)": 5,
-      "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
-    },
-    {
-      "Meccs": 30,
-      "Szakasz": "Csoportkör",
-      "Forduló / Csoport": "Group D",
       "Dátum (magyar idő)": "2026-06-19 21:00",
       "Hazai csapat": "Egyesült Államok",
       "Vendég csapat": "Ausztrália",
@@ -542,7 +524,7 @@
       "Státusz": "Frissített előrejelzés"
     },
     {
-      "Meccs": 31,
+      "Meccs": 30,
       "Szakasz": "Csoportkör",
       "Forduló / Csoport": "Group C",
       "Dátum (magyar idő)": "2026-06-20 00:00",
@@ -560,10 +542,10 @@
       "Státusz": "Frissített előrejelzés"
     },
     {
-      "Meccs": 32,
+      "Meccs": 31,
       "Szakasz": "Csoportkör",
       "Forduló / Csoport": "Group C",
-      "Dátum (magyar idő)": "2026-06-20 03:00",
+      "Dátum (magyar idő)": "2026-06-20 02:30",
       "Hazai csapat": "Brazília",
       "Vendég csapat": "Haiti",
       "Eredmény (tipp)": "3-0",
@@ -578,25 +560,25 @@
       "Státusz": "Frissített előrejelzés"
     },
     {
-      "Meccs": 33,
+      "Meccs": 32,
       "Szakasz": "Csoportkör",
-      "Forduló / Csoport": "Group F",
-      "Dátum (magyar idő)": "2026-06-20 06:00",
-      "Hazai csapat": "Tunézia",
-      "Vendég csapat": "Japán",
-      "Eredmény (tipp)": "0-2",
+      "Forduló / Csoport": "Group D",
+      "Dátum (magyar idő)": "2026-06-20 05:00",
+      "Hazai csapat": "Törökország",
+      "Vendég csapat": "Paraguay",
+      "Eredmény (tipp)": "1-1",
       "Eredmény (tény)": "",
       "Találat": "",
-      "Győztes (tipp)": "Vendég",
-      "Szögletek (tipp)": 8,
+      "Győztes (tipp)": "Döntetlen",
+      "Szögletek (tipp)": 9,
       "Szögletek (tény)": "",
-      "Sárga lapok (tipp)": 3,
+      "Sárga lapok (tipp)": 5,
       "Sárga lapok (tény)": "",
       "Tizenegyespárbaj": "",
       "Státusz": "Frissített előrejelzés"
     },
     {
-      "Meccs": 34,
+      "Meccs": 33,
       "Szakasz": "Csoportkör",
       "Forduló / Csoport": "Group F",
       "Dátum (magyar idő)": "2026-06-20 19:00",
@@ -614,7 +596,7 @@
       "Státusz": "Frissített előrejelzés"
     },
     {
-      "Meccs": 35,
+      "Meccs": 34,
       "Szakasz": "Csoportkör",
       "Forduló / Csoport": "Group E",
       "Dátum (magyar idő)": "2026-06-20 22:00",
@@ -632,7 +614,7 @@
       "Státusz": "Frissített előrejelzés"
     },
     {
-      "Meccs": 36,
+      "Meccs": 35,
       "Szakasz": "Csoportkör",
       "Forduló / Csoport": "Group E",
       "Dátum (magyar idő)": "2026-06-21 02:00",
@@ -642,6 +624,24 @@
       "Eredmény (tény)": "",
       "Találat": "",
       "Győztes (tipp)": "Hazai",
+      "Szögletek (tipp)": 8,
+      "Szögletek (tény)": "",
+      "Sárga lapok (tipp)": 3,
+      "Sárga lapok (tény)": "",
+      "Tizenegyespárbaj": "",
+      "Státusz": "Frissített előrejelzés"
+    },
+    {
+      "Meccs": 36,
+      "Szakasz": "Csoportkör",
+      "Forduló / Csoport": "Group F",
+      "Dátum (magyar idő)": "2026-06-21 06:00",
+      "Hazai csapat": "Tunézia",
+      "Vendég csapat": "Japán",
+      "Eredmény (tipp)": "0-2",
+      "Eredmény (tény)": "",
+      "Találat": "",
+      "Győztes (tipp)": "Vendég",
       "Szögletek (tipp)": 8,
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 3,
