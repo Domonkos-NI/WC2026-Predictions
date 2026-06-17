@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17 08:22 (magyar idő)",
+  "generated_at": "2026-06-17 08:41 (magyar idő)",
   "rows": [
     {
       "Meccs": 1,
@@ -351,15 +351,15 @@
       "Hazai csapat": "Ausztria",
       "Vendég csapat": "Jordánia",
       "Eredmény (tipp)": "2-0",
-      "Eredmény (tény)": "",
-      "Találat": "",
+      "Eredmény (tény)": "3-1",
+      "Találat": "✅ Kimenetel",
       "Győztes (tipp)": "Hazai",
       "Szögletek (tipp)": 8,
-      "Szögletek (tény)": "",
+      "Szögletek (tény)": 7,
       "Sárga lapok (tipp)": 3,
-      "Sárga lapok (tény)": "",
+      "Sárga lapok (tény)": 1,
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés"
+      "Státusz": "Lejátszott"
     },
     {
       "Meccs": 21,
