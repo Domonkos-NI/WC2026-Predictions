@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17 08:55 (magyar idő)",
+  "generated_at": "2026-06-18 10:09 (magyar idő)",
   "rows": [
     {
       "Meccs": 1,
@@ -389,16 +389,16 @@
       "Hazai csapat": "Portugália",
       "Vendég csapat": "Kongói DK",
       "Eredmény (tipp)": "3-0",
-      "Eredmény (tény)": "",
-      "Találat": "",
+      "Eredmény (tény)": "1-1",
+      "Találat": "❌ Nem",
       "Győztes (tipp)": "Hazai",
       "Szögletek (tipp)": 10,
-      "Szögletek (tény)": "",
+      "Szögletek (tény)": 9,
       "Sárga lapok (tipp)": 2,
-      "Sárga lapok (tény)": "",
+      "Sárga lapok (tény)": 4,
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés",
-      "Pontosság (%)": ""
+      "Státusz": "Lejátszott",
+      "Pontosság (%)": "0%"
     },
     {
       "Meccs": 22,
@@ -408,16 +408,16 @@
       "Hazai csapat": "Anglia",
       "Vendég csapat": "Horvátország",
       "Eredmény (tipp)": "2-1",
-      "Eredmény (tény)": "",
-      "Találat": "",
+      "Eredmény (tény)": "4-2",
+      "Találat": "✅ Kimenetel",
       "Győztes (tipp)": "Hazai",
       "Szögletek (tipp)": 10,
-      "Szögletek (tény)": "",
+      "Szögletek (tény)": 10,
       "Sárga lapok (tipp)": 4,
-      "Sárga lapok (tény)": "",
+      "Sárga lapok (tény)": 0,
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés",
-      "Pontosság (%)": ""
+      "Státusz": "Lejátszott",
+      "Pontosság (%)": "50%"
     },
     {
       "Meccs": 23,
@@ -427,16 +427,16 @@
       "Hazai csapat": "Ghána",
       "Vendég csapat": "Panama",
       "Eredmény (tipp)": "1-1",
-      "Eredmény (tény)": "",
-      "Találat": "",
+      "Eredmény (tény)": "1-0",
+      "Találat": "❌ Nem",
       "Győztes (tipp)": "Döntetlen",
       "Szögletek (tipp)": 8,
-      "Szögletek (tény)": "",
+      "Szögletek (tény)": 4,
       "Sárga lapok (tipp)": 4,
-      "Sárga lapok (tény)": "",
+      "Sárga lapok (tény)": 3,
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés",
-      "Pontosság (%)": ""
+      "Státusz": "Lejátszott",
+      "Pontosság (%)": "0%"
     },
     {
       "Meccs": 24,
@@ -446,16 +446,16 @@
       "Hazai csapat": "Üzbegisztán",
       "Vendég csapat": "Kolumbia",
       "Eredmény (tipp)": "1-2",
-      "Eredmény (tény)": "",
-      "Találat": "",
+      "Eredmény (tény)": "1-3",
+      "Találat": "✅ Kimenetel",
       "Győztes (tipp)": "Vendég",
       "Szögletek (tipp)": 8,
-      "Szögletek (tény)": "",
+      "Szögletek (tény)": 7,
       "Sárga lapok (tipp)": 3,
-      "Sárga lapok (tény)": "",
+      "Sárga lapok (tény)": 2,
       "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés",
-      "Pontosság (%)": ""
+      "Státusz": "Lejátszott",
+      "Pontosság (%)": "25%"
     },
     {
       "Meccs": 25,
