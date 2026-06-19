@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18 14:19 (magyar idő)",
+  "generated_at": "2026-06-19 08:35 (magyar idő)",
   "rows": [
     {
       "Meccs": 1,
@@ -16,7 +16,7 @@
       "Szögletek (tény)": 4,
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": 3,
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "65 / 21 / 14",
       "Státusz": "Lejátszott",
       "Pontosság (%)": "50%",
       "__mid": 1
@@ -36,7 +36,7 @@
       "Szögletek (tény)": 9,
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": 1,
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "56 / 24 / 20",
       "Státusz": "Lejátszott",
       "Pontosság (%)": "0%",
       "__mid": 2
@@ -56,7 +56,7 @@
       "Szögletek (tény)": 13,
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": 5,
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "65 / 21 / 14",
       "Státusz": "Lejátszott",
       "Pontosság (%)": "50%",
       "__mid": 3
@@ -76,7 +76,7 @@
       "Szögletek (tény)": 4,
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": 6,
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "54 / 24 / 22",
       "Státusz": "Lejátszott",
       "Pontosság (%)": "25%",
       "__mid": 4
@@ -96,7 +96,7 @@
       "Szögletek (tény)": 13,
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": 3,
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "16 / 23 / 61",
       "Státusz": "Lejátszott",
       "Pontosság (%)": "25%",
       "__mid": 6
@@ -116,7 +116,7 @@
       "Szögletek (tény)": 8,
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": 2,
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "53 / 25 / 22",
       "Státusz": "Lejátszott",
       "Pontosság (%)": "0%",
       "__mid": 7
@@ -136,7 +136,7 @@
       "Szögletek (tény)": 7,
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": 4,
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "16 / 23 / 61",
       "Státusz": "Lejátszott",
       "Pontosság (%)": "25%",
       "__mid": 8
@@ -156,7 +156,7 @@
       "Szögletek (tény)": 13,
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": 1,
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "39 / 27 / 35",
       "Státusz": "Lejátszott",
       "Pontosság (%)": "0%",
       "__mid": 5
@@ -176,7 +176,7 @@
       "Szögletek (tény)": 9,
       "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": 0,
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "61 / 23 / 16",
       "Státusz": "Lejátszott",
       "Pontosság (%)": "25%",
       "__mid": 9
@@ -196,7 +196,7 @@
       "Szögletek (tény)": 9,
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": 3,
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "49 / 26 / 25",
       "Státusz": "Lejátszott",
       "Pontosság (%)": "50%",
       "__mid": 10
@@ -216,7 +216,7 @@
       "Szögletek (tény)": 8,
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": 4,
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "27 / 26 / 47",
       "Státusz": "Lejátszott",
       "Pontosság (%)": "50%",
       "__mid": 11
@@ -236,7 +236,7 @@
       "Szögletek (tény)": 6,
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": 1,
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "61 / 23 / 16",
       "Státusz": "Lejátszott",
       "Pontosság (%)": "25%",
       "__mid": 12
@@ -256,7 +256,7 @@
       "Szögletek (tény)": 12,
       "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": 2,
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "61 / 23 / 16",
       "Státusz": "Lejátszott",
       "Pontosság (%)": "25%",
       "__mid": 13
@@ -276,7 +276,7 @@
       "Szögletek (tény)": 9,
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": 4,
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "56 / 24 / 20",
       "Státusz": "Lejátszott",
       "Pontosság (%)": "50%",
       "__mid": 14
@@ -296,7 +296,7 @@
       "Szögletek (tény)": 18,
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": 1,
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "16 / 23 / 61",
       "Státusz": "Lejátszott",
       "Pontosság (%)": "0%",
       "__mid": 15
@@ -316,7 +316,7 @@
       "Szögletek (tény)": 5,
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": 1,
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "56 / 24 / 19",
       "Státusz": "Lejátszott",
       "Pontosság (%)": "0%",
       "__mid": 16
@@ -336,7 +336,7 @@
       "Szögletek (tény)": 10,
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": 0,
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "61 / 23 / 16",
       "Státusz": "Lejátszott",
       "Pontosság (%)": "50%",
       "__mid": 18
@@ -356,7 +356,7 @@
       "Szögletek (tény)": 7,
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": 1,
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "16 / 23 / 61",
       "Státusz": "Lejátszott",
       "Pontosság (%)": "25%",
       "__mid": 19
@@ -376,7 +376,7 @@
       "Szögletek (tény)": 4,
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": 0,
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "61 / 23 / 16",
       "Státusz": "Lejátszott",
       "Pontosság (%)": "25%",
       "__mid": 20
@@ -396,7 +396,7 @@
       "Szögletek (tény)": 7,
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": 1,
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "61 / 23 / 16",
       "Státusz": "Lejátszott",
       "Pontosság (%)": "25%",
       "__mid": 17
@@ -416,7 +416,7 @@
       "Szögletek (tény)": 9,
       "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": 4,
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "61 / 23 / 16",
       "Státusz": "Lejátszott",
       "Pontosság (%)": "0%",
       "__mid": 21
@@ -436,7 +436,7 @@
       "Szögletek (tény)": 10,
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": 0,
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "61 / 23 / 16",
       "Státusz": "Lejátszott",
       "Pontosság (%)": "50%",
       "__mid": 22
@@ -456,7 +456,7 @@
       "Szögletek (tény)": 4,
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": 3,
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "23 / 25 / 51",
       "Státusz": "Lejátszott",
       "Pontosság (%)": "0%",
       "__mid": 23
@@ -476,7 +476,7 @@
       "Szögletek (tény)": 7,
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": 2,
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "16 / 23 / 61",
       "Státusz": "Lejátszott",
       "Pontosság (%)": "25%",
       "__mid": 24
@@ -489,16 +489,16 @@
       "Hazai csapat": "Csehország",
       "Vendég csapat": "Dél-Afrika",
       "Eredmény (tipp)": "1-0",
-      "Eredmény (tény)": "",
-      "Találat": "",
+      "Eredmény (tény)": "1-1",
+      "Találat": "❌ Nem",
       "Győztes (tipp)": "Hazai",
       "Szögletek (tipp)": 8,
-      "Szögletek (tény)": "",
+      "Szögletek (tény)": 10,
       "Sárga lapok (tipp)": 3,
-      "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés",
-      "Pontosság (%)": "",
+      "Sárga lapok (tény)": 3,
+      "Esély H/D/V (%)": "58 / 24 / 18",
+      "Státusz": "Lejátszott",
+      "Pontosság (%)": "25%",
       "__mid": 25
     },
     {
@@ -509,16 +509,16 @@
       "Hazai csapat": "Svájc",
       "Vendég csapat": "Bosznia-Hercegovina",
       "Eredmény (tipp)": "2-1",
-      "Eredmény (tény)": "",
-      "Találat": "",
+      "Eredmény (tény)": "4-1",
+      "Találat": "✅ Kimenetel",
       "Győztes (tipp)": "Hazai",
       "Szögletek (tipp)": 9,
-      "Szögletek (tény)": "",
+      "Szögletek (tény)": 10,
       "Sárga lapok (tipp)": 4,
-      "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés",
-      "Pontosság (%)": "",
+      "Sárga lapok (tény)": 3,
+      "Esély H/D/V (%)": "61 / 23 / 16",
+      "Státusz": "Lejátszott",
+      "Pontosság (%)": "25%",
       "__mid": 26
     },
     {
@@ -529,16 +529,16 @@
       "Hazai csapat": "Kanada",
       "Vendég csapat": "Katar",
       "Eredmény (tipp)": "2-1",
-      "Eredmény (tény)": "",
-      "Találat": "",
+      "Eredmény (tény)": "6-0",
+      "Találat": "✅ Kimenetel",
       "Győztes (tipp)": "Hazai",
       "Szögletek (tipp)": 8,
-      "Szögletek (tény)": "",
+      "Szögletek (tény)": 19,
       "Sárga lapok (tipp)": 3,
-      "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés",
-      "Pontosság (%)": "",
+      "Sárga lapok (tény)": 2,
+      "Esély H/D/V (%)": "65 / 21 / 14",
+      "Státusz": "Lejátszott",
+      "Pontosság (%)": "25%",
       "__mid": 27
     },
     {
@@ -549,16 +549,16 @@
       "Hazai csapat": "Mexikó",
       "Vendég csapat": "Dél-Korea",
       "Eredmény (tipp)": "2-1",
-      "Eredmény (tény)": "",
-      "Találat": "",
+      "Eredmény (tény)": "1-0",
+      "Találat": "✅ Kimenetel",
       "Győztes (tipp)": "Hazai",
       "Szögletek (tipp)": 9,
-      "Szögletek (tény)": "",
+      "Szögletek (tény)": 2,
       "Sárga lapok (tipp)": 4,
-      "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
-      "Státusz": "Frissített előrejelzés",
-      "Pontosság (%)": "",
+      "Sárga lapok (tény)": 2,
+      "Esély H/D/V (%)": "52 / 24 / 24",
+      "Státusz": "Lejátszott",
+      "Pontosság (%)": "25%",
       "__mid": 28
     },
     {
@@ -568,15 +568,15 @@
       "Dátum (magyar idő)": "2026-06-19 21:00",
       "Hazai csapat": "Egyesült Államok",
       "Vendég csapat": "Ausztrália",
-      "Eredmény (tipp)": "2-0",
+      "Eredmény (tipp)": "1-2",
       "Eredmény (tény)": "",
       "Találat": "",
-      "Győztes (tipp)": "Hazai",
+      "Győztes (tipp)": "Vendég",
       "Szögletek (tipp)": 9,
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "37 / 26 / 37",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 30
@@ -588,15 +588,15 @@
       "Dátum (magyar idő)": "2026-06-20 00:00",
       "Hazai csapat": "Skócia",
       "Vendég csapat": "Marokkó",
-      "Eredmény (tipp)": "1-1",
+      "Eredmény (tipp)": "1-2",
       "Eredmény (tény)": "",
       "Találat": "",
-      "Győztes (tipp)": "Döntetlen",
+      "Győztes (tipp)": "Vendég",
       "Szögletek (tipp)": 9,
       "Szögletek (tény)": "",
-      "Sárga lapok (tipp)": 4,
+      "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "30 / 26 / 44",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 31
@@ -608,15 +608,15 @@
       "Dátum (magyar idő)": "2026-06-20 02:30",
       "Hazai csapat": "Brazília",
       "Vendég csapat": "Haiti",
-      "Eredmény (tipp)": "3-0",
+      "Eredmény (tipp)": "2-0",
       "Eredmény (tény)": "",
       "Találat": "",
       "Győztes (tipp)": "Hazai",
-      "Szögletek (tipp)": 10,
+      "Szögletek (tipp)": 8,
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "61 / 23 / 16",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 32
@@ -628,15 +628,15 @@
       "Dátum (magyar idő)": "2026-06-20 05:00",
       "Hazai csapat": "Törökország",
       "Vendég csapat": "Paraguay",
-      "Eredmény (tipp)": "1-1",
+      "Eredmény (tipp)": "2-1",
       "Eredmény (tény)": "",
       "Találat": "",
-      "Győztes (tipp)": "Döntetlen",
-      "Szögletek (tipp)": 9,
+      "Győztes (tipp)": "Hazai",
+      "Szögletek (tipp)": 8,
       "Szögletek (tény)": "",
-      "Sárga lapok (tipp)": 5,
+      "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "52 / 25 / 23",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 29
@@ -648,15 +648,15 @@
       "Dátum (magyar idő)": "2026-06-20 19:00",
       "Hazai csapat": "Hollandia",
       "Vendég csapat": "Svédország",
-      "Eredmény (tipp)": "2-1",
+      "Eredmény (tipp)": "2-0",
       "Eredmény (tény)": "",
       "Találat": "",
       "Győztes (tipp)": "Hazai",
-      "Szögletek (tipp)": 10,
+      "Szögletek (tipp)": 9,
       "Szögletek (tény)": "",
-      "Sárga lapok (tipp)": 3,
+      "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "61 / 23 / 16",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 34
@@ -668,15 +668,15 @@
       "Dátum (magyar idő)": "2026-06-20 22:00",
       "Hazai csapat": "Németország",
       "Vendég csapat": "Elefántcsontpart",
-      "Eredmény (tipp)": "2-1",
+      "Eredmény (tipp)": "2-0",
       "Eredmény (tény)": "",
       "Találat": "",
       "Győztes (tipp)": "Hazai",
       "Szögletek (tipp)": 9,
       "Szögletek (tény)": "",
-      "Sárga lapok (tipp)": 3,
+      "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "61 / 23 / 16",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 35
@@ -694,9 +694,9 @@
       "Győztes (tipp)": "Hazai",
       "Szögletek (tipp)": 8,
       "Szögletek (tény)": "",
-      "Sárga lapok (tipp)": 3,
+      "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "61 / 23 / 16",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 36
@@ -714,9 +714,9 @@
       "Győztes (tipp)": "Vendég",
       "Szögletek (tipp)": 8,
       "Szögletek (tény)": "",
-      "Sárga lapok (tipp)": 3,
+      "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "16 / 23 / 61",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 33
@@ -728,15 +728,15 @@
       "Dátum (magyar idő)": "2026-06-21 18:00",
       "Hazai csapat": "Spanyolország",
       "Vendég csapat": "Szaúd-Arábia",
-      "Eredmény (tipp)": "3-0",
+      "Eredmény (tipp)": "2-0",
       "Eredmény (tény)": "",
       "Találat": "",
       "Győztes (tipp)": "Hazai",
-      "Szögletek (tipp)": 10,
+      "Szögletek (tipp)": 9,
       "Szögletek (tény)": "",
-      "Sárga lapok (tipp)": 3,
+      "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "61 / 23 / 16",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 37
@@ -748,15 +748,15 @@
       "Dátum (magyar idő)": "2026-06-21 21:00",
       "Hazai csapat": "Belgium",
       "Vendég csapat": "Irán",
-      "Eredmény (tipp)": "2-0",
+      "Eredmény (tipp)": "2-1",
       "Eredmény (tény)": "",
       "Találat": "",
       "Győztes (tipp)": "Hazai",
-      "Szögletek (tipp)": 9,
+      "Szögletek (tipp)": 8,
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "52 / 25 / 23",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 38
@@ -772,11 +772,11 @@
       "Eredmény (tény)": "",
       "Találat": "",
       "Győztes (tipp)": "Hazai",
-      "Szögletek (tipp)": 9,
+      "Szögletek (tipp)": 8,
       "Szögletek (tény)": "",
-      "Sárga lapok (tipp)": 3,
+      "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "61 / 23 / 16",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 39
@@ -788,7 +788,7 @@
       "Dátum (magyar idő)": "2026-06-22 03:00",
       "Hazai csapat": "Új-Zéland",
       "Vendég csapat": "Egyiptom",
-      "Eredmény (tipp)": "0-2",
+      "Eredmény (tipp)": "1-2",
       "Eredmény (tény)": "",
       "Találat": "",
       "Győztes (tipp)": "Vendég",
@@ -796,7 +796,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "23 / 25 / 52",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 40
@@ -808,15 +808,15 @@
       "Dátum (magyar idő)": "2026-06-22 19:00",
       "Hazai csapat": "Argentína",
       "Vendég csapat": "Ausztria",
-      "Eredmény (tipp)": "2-1",
+      "Eredmény (tipp)": "2-0",
       "Eredmény (tény)": "",
       "Találat": "",
       "Győztes (tipp)": "Hazai",
-      "Szögletek (tipp)": 10,
+      "Szögletek (tipp)": 9,
       "Szögletek (tény)": "",
-      "Sárga lapok (tipp)": 4,
+      "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "61 / 23 / 16",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 41
@@ -828,15 +828,15 @@
       "Dátum (magyar idő)": "2026-06-22 23:00",
       "Hazai csapat": "Franciaország",
       "Vendég csapat": "Irak",
-      "Eredmény (tipp)": "3-0",
+      "Eredmény (tipp)": "2-0",
       "Eredmény (tény)": "",
       "Találat": "",
       "Győztes (tipp)": "Hazai",
-      "Szögletek (tipp)": 10,
+      "Szögletek (tipp)": 9,
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "61 / 23 / 16",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 42
@@ -848,15 +848,15 @@
       "Dátum (magyar idő)": "2026-06-23 02:00",
       "Hazai csapat": "Norvégia",
       "Vendég csapat": "Szenegál",
-      "Eredmény (tipp)": "1-2",
+      "Eredmény (tipp)": "2-1",
       "Eredmény (tény)": "",
       "Találat": "",
-      "Győztes (tipp)": "Vendég",
+      "Győztes (tipp)": "Hazai",
       "Szögletek (tipp)": 9,
       "Szögletek (tény)": "",
-      "Sárga lapok (tipp)": 4,
+      "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "56 / 24 / 20",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 43
@@ -868,15 +868,15 @@
       "Dátum (magyar idő)": "2026-06-23 05:00",
       "Hazai csapat": "Jordánia",
       "Vendég csapat": "Algéria",
-      "Eredmény (tipp)": "0-2",
+      "Eredmény (tipp)": "2-1",
       "Eredmény (tény)": "",
       "Találat": "",
-      "Győztes (tipp)": "Vendég",
+      "Győztes (tipp)": "Hazai",
       "Szögletek (tipp)": 8,
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "45 / 26 / 29",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 44
@@ -896,7 +896,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "61 / 23 / 16",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 45
@@ -912,11 +912,11 @@
       "Eredmény (tény)": "",
       "Találat": "",
       "Győztes (tipp)": "Hazai",
-      "Szögletek (tipp)": 10,
+      "Szögletek (tipp)": 9,
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "61 / 23 / 16",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 46
@@ -934,9 +934,9 @@
       "Győztes (tipp)": "Vendég",
       "Szögletek (tipp)": 8,
       "Szögletek (tény)": "",
-      "Sárga lapok (tipp)": 3,
+      "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "16 / 23 / 61",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 47
@@ -948,15 +948,15 @@
       "Dátum (magyar idő)": "2026-06-24 04:00",
       "Hazai csapat": "Kolumbia",
       "Vendég csapat": "Kongói DK",
-      "Eredmény (tipp)": "2-1",
+      "Eredmény (tipp)": "2-0",
       "Eredmény (tény)": "",
       "Találat": "",
       "Győztes (tipp)": "Hazai",
-      "Szögletek (tipp)": 8,
+      "Szögletek (tipp)": 9,
       "Szögletek (tény)": "",
-      "Sárga lapok (tipp)": 3,
+      "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "61 / 23 / 16",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 48
@@ -968,15 +968,15 @@
       "Dátum (magyar idő)": "2026-06-24 21:00",
       "Hazai csapat": "Svájc",
       "Vendég csapat": "Kanada",
-      "Eredmény (tipp)": "1-1",
+      "Eredmény (tipp)": "2-1",
       "Eredmény (tény)": "",
       "Találat": "",
-      "Győztes (tipp)": "Döntetlen",
+      "Győztes (tipp)": "Hazai",
       "Szögletek (tipp)": 9,
       "Szögletek (tény)": "",
-      "Sárga lapok (tipp)": 4,
+      "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "48 / 25 / 27",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 49
@@ -988,7 +988,7 @@
       "Dátum (magyar idő)": "2026-06-24 21:00",
       "Hazai csapat": "Bosznia-Hercegovina",
       "Vendég csapat": "Katar",
-      "Eredmény (tipp)": "1-0",
+      "Eredmény (tipp)": "2-1",
       "Eredmény (tény)": "",
       "Találat": "",
       "Győztes (tipp)": "Hazai",
@@ -996,7 +996,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "57 / 24 / 19",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 50
@@ -1014,9 +1014,9 @@
       "Győztes (tipp)": "Vendég",
       "Szögletek (tipp)": 9,
       "Szögletek (tény)": "",
-      "Sárga lapok (tipp)": 3,
+      "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "17 / 23 / 60",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 51
@@ -1036,7 +1036,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "61 / 23 / 16",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 52
@@ -1048,15 +1048,15 @@
       "Dátum (magyar idő)": "2026-06-25 03:00",
       "Hazai csapat": "Csehország",
       "Vendég csapat": "Mexikó",
-      "Eredmény (tipp)": "1-1",
+      "Eredmény (tipp)": "0-2",
       "Eredmény (tény)": "",
       "Találat": "",
-      "Győztes (tipp)": "Döntetlen",
-      "Szögletek (tipp)": 9,
+      "Győztes (tipp)": "Vendég",
+      "Szögletek (tipp)": 8,
       "Szögletek (tény)": "",
-      "Sárga lapok (tipp)": 4,
+      "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "14 / 21 / 65",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 53
@@ -1068,15 +1068,15 @@
       "Dátum (magyar idő)": "2026-06-25 03:00",
       "Hazai csapat": "Dél-Afrika",
       "Vendég csapat": "Dél-Korea",
-      "Eredmény (tipp)": "1-1",
+      "Eredmény (tipp)": "0-2",
       "Eredmény (tény)": "",
       "Találat": "",
-      "Győztes (tipp)": "Döntetlen",
+      "Győztes (tipp)": "Vendég",
       "Szögletek (tipp)": 8,
       "Szögletek (tény)": "",
-      "Sárga lapok (tipp)": 3,
+      "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "16 / 23 / 61",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 54
@@ -1094,9 +1094,9 @@
       "Győztes (tipp)": "Vendég",
       "Szögletek (tipp)": 8,
       "Szögletek (tény)": "",
-      "Sárga lapok (tipp)": 3,
+      "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "16 / 23 / 61",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 55
@@ -1114,9 +1114,9 @@
       "Győztes (tipp)": "Vendég",
       "Szögletek (tipp)": 9,
       "Szögletek (tény)": "",
-      "Sárga lapok (tipp)": 4,
+      "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "19 / 24 / 58",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 56
@@ -1128,15 +1128,15 @@
       "Dátum (magyar idő)": "2026-06-26 01:00",
       "Hazai csapat": "Japán",
       "Vendég csapat": "Svédország",
-      "Eredmény (tipp)": "1-1",
+      "Eredmény (tipp)": "2-1",
       "Eredmény (tény)": "",
       "Találat": "",
-      "Győztes (tipp)": "Döntetlen",
+      "Győztes (tipp)": "Hazai",
       "Szögletek (tipp)": 9,
       "Szögletek (tény)": "",
-      "Sárga lapok (tipp)": 4,
+      "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "50 / 26 / 25",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 57
@@ -1152,11 +1152,11 @@
       "Eredmény (tény)": "",
       "Találat": "",
       "Győztes (tipp)": "Vendég",
-      "Szögletek (tipp)": 9,
+      "Szögletek (tipp)": 8,
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "16 / 23 / 61",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 58
@@ -1168,15 +1168,15 @@
       "Dátum (magyar idő)": "2026-06-26 04:00",
       "Hazai csapat": "Egyesült Államok",
       "Vendég csapat": "Törökország",
-      "Eredmény (tipp)": "1-1",
+      "Eredmény (tipp)": "2-1",
       "Eredmény (tény)": "",
       "Találat": "",
-      "Győztes (tipp)": "Döntetlen",
+      "Győztes (tipp)": "Hazai",
       "Szögletek (tipp)": 9,
       "Szögletek (tény)": "",
-      "Sárga lapok (tipp)": 4,
+      "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "39 / 26 / 35",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 59
@@ -1188,15 +1188,15 @@
       "Dátum (magyar idő)": "2026-06-26 04:00",
       "Hazai csapat": "Paraguay",
       "Vendég csapat": "Ausztrália",
-      "Eredmény (tipp)": "2-1",
+      "Eredmény (tipp)": "1-2",
       "Eredmény (tény)": "",
       "Találat": "",
-      "Győztes (tipp)": "Hazai",
-      "Szögletek (tipp)": 9,
+      "Győztes (tipp)": "Vendég",
+      "Szögletek (tipp)": 8,
       "Szögletek (tény)": "",
-      "Sárga lapok (tipp)": 4,
+      "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "21 / 25 / 54",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 60
@@ -1212,11 +1212,11 @@
       "Eredmény (tény)": "",
       "Találat": "",
       "Győztes (tipp)": "Vendég",
-      "Szögletek (tipp)": 10,
+      "Szögletek (tipp)": 9,
       "Szögletek (tény)": "",
-      "Sárga lapok (tipp)": 3,
+      "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "19 / 24 / 57",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 61
@@ -1234,9 +1234,9 @@
       "Győztes (tipp)": "Hazai",
       "Szögletek (tipp)": 8,
       "Szögletek (tény)": "",
-      "Sárga lapok (tipp)": 3,
+      "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "61 / 23 / 16",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 62
@@ -1248,15 +1248,15 @@
       "Dátum (magyar idő)": "2026-06-27 02:00",
       "Hazai csapat": "Zöld-foki Köztársaság",
       "Vendég csapat": "Szaúd-Arábia",
-      "Eredmény (tipp)": "0-1",
+      "Eredmény (tipp)": "1-2",
       "Eredmény (tény)": "",
       "Találat": "",
       "Győztes (tipp)": "Vendég",
-      "Szögletek (tipp)": 7,
+      "Szögletek (tipp)": 8,
       "Szögletek (tény)": "",
-      "Sárga lapok (tipp)": 4,
+      "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "34 / 27 / 39",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 63
@@ -1268,15 +1268,15 @@
       "Dátum (magyar idő)": "2026-06-27 02:00",
       "Hazai csapat": "Uruguay",
       "Vendég csapat": "Spanyolország",
-      "Eredmény (tipp)": "1-2",
+      "Eredmény (tipp)": "0-2",
       "Eredmény (tény)": "",
       "Találat": "",
       "Győztes (tipp)": "Vendég",
-      "Szögletek (tipp)": 10,
+      "Szögletek (tipp)": 9,
       "Szögletek (tény)": "",
-      "Sárga lapok (tipp)": 5,
+      "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "16 / 23 / 61",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 64
@@ -1288,15 +1288,15 @@
       "Dátum (magyar idő)": "2026-06-27 05:00",
       "Hazai csapat": "Egyiptom",
       "Vendég csapat": "Irán",
-      "Eredmény (tipp)": "1-1",
+      "Eredmény (tipp)": "1-2",
       "Eredmény (tény)": "",
       "Találat": "",
-      "Győztes (tipp)": "Döntetlen",
+      "Győztes (tipp)": "Vendég",
       "Szögletek (tipp)": 8,
       "Szögletek (tény)": "",
-      "Sárga lapok (tipp)": 5,
+      "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "33 / 27 / 41",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 65
@@ -1308,15 +1308,15 @@
       "Dátum (magyar idő)": "2026-06-27 05:00",
       "Hazai csapat": "Új-Zéland",
       "Vendég csapat": "Belgium",
-      "Eredmény (tipp)": "0-3",
+      "Eredmény (tipp)": "0-2",
       "Eredmény (tény)": "",
       "Találat": "",
       "Győztes (tipp)": "Vendég",
-      "Szögletek (tipp)": 9,
+      "Szögletek (tipp)": 8,
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "16 / 23 / 61",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 66
@@ -1328,7 +1328,7 @@
       "Dátum (magyar idő)": "2026-06-27 23:00",
       "Hazai csapat": "Panama",
       "Vendég csapat": "Anglia",
-      "Eredmény (tipp)": "0-3",
+      "Eredmény (tipp)": "0-2",
       "Eredmény (tény)": "",
       "Találat": "",
       "Győztes (tipp)": "Vendég",
@@ -1336,7 +1336,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "16 / 23 / 61",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 67
@@ -1348,15 +1348,15 @@
       "Dátum (magyar idő)": "2026-06-27 23:00",
       "Hazai csapat": "Horvátország",
       "Vendég csapat": "Ghána",
-      "Eredmény (tipp)": "1-1",
+      "Eredmény (tipp)": "2-0",
       "Eredmény (tény)": "",
       "Találat": "",
-      "Győztes (tipp)": "Döntetlen",
+      "Győztes (tipp)": "Hazai",
       "Szögletek (tipp)": 8,
       "Szögletek (tény)": "",
-      "Sárga lapok (tipp)": 4,
+      "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "61 / 23 / 16",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 68
@@ -1368,15 +1368,15 @@
       "Dátum (magyar idő)": "2026-06-28 01:30",
       "Hazai csapat": "Kolumbia",
       "Vendég csapat": "Portugália",
-      "Eredmény (tipp)": "1-2",
+      "Eredmény (tipp)": "2-1",
       "Eredmény (tény)": "",
       "Találat": "",
-      "Győztes (tipp)": "Vendég",
-      "Szögletek (tipp)": 10,
+      "Győztes (tipp)": "Hazai",
+      "Szögletek (tipp)": 9,
       "Szögletek (tény)": "",
-      "Sárga lapok (tipp)": 4,
+      "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "44 / 26 / 30",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 69
@@ -1392,11 +1392,11 @@
       "Eredmény (tény)": "",
       "Találat": "",
       "Győztes (tipp)": "Hazai",
-      "Szögletek (tipp)": 7,
+      "Szögletek (tipp)": 8,
       "Szögletek (tény)": "",
-      "Sárga lapok (tipp)": 4,
+      "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "38 / 27 / 35",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 70
@@ -1408,15 +1408,15 @@
       "Dátum (magyar idő)": "2026-06-28 04:00",
       "Hazai csapat": "Algéria",
       "Vendég csapat": "Ausztria",
-      "Eredmény (tipp)": "1-1",
+      "Eredmény (tipp)": "0-2",
       "Eredmény (tény)": "",
       "Találat": "",
-      "Győztes (tipp)": "Döntetlen",
+      "Győztes (tipp)": "Vendég",
       "Szögletek (tipp)": 8,
       "Szögletek (tény)": "",
-      "Sárga lapok (tipp)": 4,
+      "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "16 / 23 / 61",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 71
@@ -1428,7 +1428,7 @@
       "Dátum (magyar idő)": "2026-06-28 04:00",
       "Hazai csapat": "Jordánia",
       "Vendég csapat": "Argentína",
-      "Eredmény (tipp)": "0-3",
+      "Eredmény (tipp)": "0-2",
       "Eredmény (tény)": "",
       "Találat": "",
       "Győztes (tipp)": "Vendég",
@@ -1436,7 +1436,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 2,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "16 / 23 / 61",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 72
@@ -1456,7 +1456,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "19 / 28 / 54",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 73
@@ -1476,7 +1476,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "42 / 31 / 27",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 74
@@ -1496,7 +1496,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "55 / 29 / 16",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 75
@@ -1516,7 +1516,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "51 / 30 / 19",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 76
@@ -1536,7 +1536,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "38 / 32 / 30",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 77
@@ -1556,7 +1556,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "55 / 29 / 16",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 78
@@ -1576,7 +1576,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "52 / 28 / 20",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 79
@@ -1596,7 +1596,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "48 / 30 / 22",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 80
@@ -1616,7 +1616,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "43 / 31 / 25",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 81
@@ -1636,7 +1636,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "60 / 26 / 14",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 82
@@ -1656,7 +1656,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 5,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "Igen",
+      "Esély H/D/V (%)": "51 / 30 / 19",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 83
@@ -1676,7 +1676,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "55 / 29 / 16",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 84
@@ -1696,7 +1696,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "55 / 29 / 16",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 85
@@ -1716,7 +1716,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 5,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "48 / 30 / 21",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 86
@@ -1736,7 +1736,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 5,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "55 / 29 / 16",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 87
@@ -1756,7 +1756,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "55 / 29 / 16",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 88
@@ -1776,7 +1776,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "16 / 29 / 55",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 89
@@ -1796,7 +1796,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "51 / 30 / 19",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 90
@@ -1816,7 +1816,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "21 / 30 / 49",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 91
@@ -1836,7 +1836,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 5,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "21 / 29 / 50",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 92
@@ -1856,7 +1856,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "21 / 30 / 49",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 93
@@ -1876,7 +1876,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "34 / 30 / 36",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 94
@@ -1896,7 +1896,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "22 / 31 / 47",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 95
@@ -1916,7 +1916,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "16 / 29 / 55",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 96
@@ -1936,7 +1936,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 5,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "Igen",
+      "Esély H/D/V (%)": "40 / 32 / 29",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 97
@@ -1956,7 +1956,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "55 / 29 / 16",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 98
@@ -1976,7 +1976,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 5,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "38 / 32 / 31",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 99
@@ -1996,7 +1996,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 5,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "Igen",
+      "Esély H/D/V (%)": "16 / 29 / 55",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 100
@@ -2016,7 +2016,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 5,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "17 / 29 / 55",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 101
@@ -2036,7 +2036,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 5,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "30 / 32 / 39",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 102
@@ -2056,7 +2056,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "16 / 29 / 55",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 103
@@ -2076,7 +2076,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
-      "Tizenegyespárbaj": "",
+      "Esély H/D/V (%)": "37 / 32 / 31",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 104
@@ -10984,59 +10984,1491 @@
       "home": "Csehország",
       "away": "Dél-Afrika",
       "date": "2026-06-18 18:00",
-      "played": false,
+      "played": true,
       "pred_score": "1-0",
       "pred_winner": "Hazai",
       "pred_corners": 8,
-      "pred_yellows": 3
+      "pred_yellows": 3,
+      "act_score": "1-1",
+      "act_corners": 10,
+      "act_yellows": 3,
+      "stats": [
+        {
+          "label": "Labdabirtoklás",
+          "home": "38%",
+          "away": "62%"
+        },
+        {
+          "label": "Várható gól (xG)",
+          "home": "1.02",
+          "away": "1.37"
+        },
+        {
+          "label": "Összes lövés",
+          "home": 14,
+          "away": 17
+        },
+        {
+          "label": "Kaput eltaláló lövés",
+          "home": 3,
+          "away": 4
+        },
+        {
+          "label": "Kapu mellé lőtt lövés",
+          "home": 8,
+          "away": 5
+        },
+        {
+          "label": "Blokkolt lövés",
+          "home": 3,
+          "away": 8
+        },
+        {
+          "label": "Lövés a tizenhatoson belül",
+          "home": 11,
+          "away": 6
+        },
+        {
+          "label": "Lövés a tizenhatoson kívül",
+          "home": 3,
+          "away": 11
+        },
+        {
+          "label": "Szöglet",
+          "home": 5,
+          "away": 5
+        },
+        {
+          "label": "Les",
+          "home": 2,
+          "away": 3
+        },
+        {
+          "label": "Szabálytalanság",
+          "home": 12,
+          "away": 10
+        },
+        {
+          "label": "Sárga lap",
+          "home": 1,
+          "away": 2
+        },
+        {
+          "label": "Kapusvédés",
+          "home": 3,
+          "away": 2
+        },
+        {
+          "label": "Passzok száma",
+          "home": 339,
+          "away": 563
+        },
+        {
+          "label": "Pontos passz",
+          "home": 270,
+          "away": 508
+        },
+        {
+          "label": "Passzpontosság",
+          "home": "80%",
+          "away": "90%"
+        }
+      ],
+      "lineups": {
+        "home": {
+          "formation": "3-5-2",
+          "coach": "Miroslav Koubek",
+          "startXI": [
+            {
+              "n": 1,
+              "name": "Matěj Kovář",
+              "pos": "G"
+            },
+            {
+              "n": 3,
+              "name": "Tomáš Holeš",
+              "pos": "D"
+            },
+            {
+              "n": 4,
+              "name": "Robin Hranáč",
+              "pos": "D"
+            },
+            {
+              "n": 7,
+              "name": "Ladislav Krejčí",
+              "pos": "D"
+            },
+            {
+              "n": 5,
+              "name": "Vladimír Coufal",
+              "pos": "M"
+            },
+            {
+              "n": 8,
+              "name": "Vladimír Darida",
+              "pos": "M"
+            },
+            {
+              "n": 12,
+              "name": "Lukáš Červ",
+              "pos": "M"
+            },
+            {
+              "n": 18,
+              "name": "Michal Sadílek",
+              "pos": "M"
+            },
+            {
+              "n": 24,
+              "name": "Alexandr Sojka",
+              "pos": "M"
+            },
+            {
+              "n": 10,
+              "name": "Patrik Schick",
+              "pos": "F"
+            },
+            {
+              "n": 9,
+              "name": "Adam Hložek",
+              "pos": "F"
+            }
+          ],
+          "subs": [
+            {
+              "n": 20,
+              "name": "Jaroslav Zelený",
+              "pos": "D"
+            },
+            {
+              "n": 15,
+              "name": "Pavel Šulc",
+              "pos": "M"
+            },
+            {
+              "n": 22,
+              "name": "Tomáš Souček",
+              "pos": "M"
+            },
+            {
+              "n": 17,
+              "name": "Lukáš Provod",
+              "pos": "M"
+            },
+            {
+              "n": 2,
+              "name": "David Zima",
+              "pos": "D"
+            },
+            {
+              "n": 16,
+              "name": "Jindřich Staněk",
+              "pos": "G"
+            },
+            {
+              "n": 23,
+              "name": "Lukáš Horníček",
+              "pos": "G"
+            },
+            {
+              "n": 6,
+              "name": "Štěpán Chaloupek",
+              "pos": "D"
+            },
+            {
+              "n": 21,
+              "name": "David Douděra",
+              "pos": "M"
+            },
+            {
+              "n": 25,
+              "name": "Hugo Sochurek",
+              "pos": "M"
+            },
+            {
+              "n": 26,
+              "name": "Denis Višinský",
+              "pos": "M"
+            },
+            {
+              "n": 11,
+              "name": "Jan Kuchta",
+              "pos": "F"
+            },
+            {
+              "n": 13,
+              "name": "Mojmír Chytil",
+              "pos": "F"
+            },
+            {
+              "n": 19,
+              "name": "Tomáš Chorý",
+              "pos": "F"
+            }
+          ]
+        },
+        "away": {
+          "formation": "4-3-3",
+          "coach": "Hugo Broos",
+          "startXI": [
+            {
+              "n": 1,
+              "name": "Ronwen Williams",
+              "pos": "G"
+            },
+            {
+              "n": 20,
+              "name": "Khuliso Mudau",
+              "pos": "D"
+            },
+            {
+              "n": 21,
+              "name": "Ime Okon",
+              "pos": "D"
+            },
+            {
+              "n": 14,
+              "name": "Mbekezeli Mbokazi",
+              "pos": "D"
+            },
+            {
+              "n": 6,
+              "name": "Aubrey Modiba",
+              "pos": "D"
+            },
+            {
+              "n": 5,
+              "name": "Thalente Mbatha",
+              "pos": "M"
+            },
+            {
+              "n": 4,
+              "name": "Teboho Mokoena",
+              "pos": "M"
+            },
+            {
+              "n": 23,
+              "name": "Jayden Adams",
+              "pos": "M"
+            },
+            {
+              "n": 12,
+              "name": "Thapelo Maseko",
+              "pos": "F"
+            },
+            {
+              "n": 15,
+              "name": "Iqraam Rayners",
+              "pos": "F"
+            },
+            {
+              "n": 7,
+              "name": "Oswin Appollis",
+              "pos": "F"
+            }
+          ],
+          "subs": [
+            {
+              "n": 10,
+              "name": "Relebohile Mofokeng",
+              "pos": "F"
+            },
+            {
+              "n": 17,
+              "name": "Evidence Makgopa",
+              "pos": "F"
+            },
+            {
+              "n": 25,
+              "name": "Kamogelo Sebelebele",
+              "pos": "M"
+            },
+            {
+              "n": 16,
+              "name": "Sipho Chaine",
+              "pos": "G"
+            },
+            {
+              "n": 22,
+              "name": "Ricardo Goss",
+              "pos": "G"
+            },
+            {
+              "n": 2,
+              "name": "Tholo Thabang Matuludi",
+              "pos": "D"
+            },
+            {
+              "n": 3,
+              "name": "Khulumani Ndamane",
+              "pos": "D"
+            },
+            {
+              "n": 18,
+              "name": "Samukelo Kabini",
+              "pos": "D"
+            },
+            {
+              "n": 19,
+              "name": "Nkosinathi Sibisi",
+              "pos": "D"
+            },
+            {
+              "n": 24,
+              "name": "Olwethu Makhanya",
+              "pos": "D"
+            },
+            {
+              "n": 26,
+              "name": "Bradley Cross",
+              "pos": "D"
+            },
+            {
+              "n": 8,
+              "name": "Tshepang Moremi",
+              "pos": "F"
+            },
+            {
+              "n": 9,
+              "name": "Lyle Foster",
+              "pos": "F"
+            }
+          ]
+        }
+      }
     },
     "26": {
       "home": "Svájc",
       "away": "Bosznia-Hercegovina",
       "date": "2026-06-18 21:00",
-      "played": false,
+      "played": true,
       "pred_score": "2-1",
       "pred_winner": "Hazai",
       "pred_corners": 9,
-      "pred_yellows": 4
+      "pred_yellows": 4,
+      "act_score": "4-1",
+      "act_corners": 10,
+      "act_yellows": 3,
+      "stats": [
+        {
+          "label": "Labdabirtoklás",
+          "home": "62%",
+          "away": "38%"
+        },
+        {
+          "label": "Várható gól (xG)",
+          "home": "2.01",
+          "away": "0.24"
+        },
+        {
+          "label": "Összes lövés",
+          "home": 13,
+          "away": 5
+        },
+        {
+          "label": "Kaput eltaláló lövés",
+          "home": 7,
+          "away": 3
+        },
+        {
+          "label": "Kapu mellé lőtt lövés",
+          "home": 3,
+          "away": 1
+        },
+        {
+          "label": "Blokkolt lövés",
+          "home": 3,
+          "away": 1
+        },
+        {
+          "label": "Lövés a tizenhatoson belül",
+          "home": 9,
+          "away": 3
+        },
+        {
+          "label": "Lövés a tizenhatoson kívül",
+          "home": 4,
+          "away": 2
+        },
+        {
+          "label": "Szöglet",
+          "home": 7,
+          "away": 3
+        },
+        {
+          "label": "Les",
+          "home": 3,
+          "away": 1
+        },
+        {
+          "label": "Szabálytalanság",
+          "home": 7,
+          "away": 18
+        },
+        {
+          "label": "Sárga lap",
+          "home": 1,
+          "away": 2
+        },
+        {
+          "label": "Piros lap",
+          "home": 0,
+          "away": 1
+        },
+        {
+          "label": "Kapusvédés",
+          "home": 2,
+          "away": 3
+        },
+        {
+          "label": "Passzok száma",
+          "home": 587,
+          "away": 353
+        },
+        {
+          "label": "Pontos passz",
+          "home": 517,
+          "away": 285
+        },
+        {
+          "label": "Passzpontosság",
+          "home": "88%",
+          "away": "81%"
+        }
+      ],
+      "lineups": {
+        "home": {
+          "formation": "4-3-1-2",
+          "coach": "Murat Yakin",
+          "startXI": [
+            {
+              "n": 1,
+              "name": "Gregor Kobel",
+              "pos": "G"
+            },
+            {
+              "n": 3,
+              "name": "Silvan Widmer",
+              "pos": "D"
+            },
+            {
+              "n": 4,
+              "name": "Nico Elvedi",
+              "pos": "D"
+            },
+            {
+              "n": 5,
+              "name": "Manuel Akanji",
+              "pos": "D"
+            },
+            {
+              "n": 13,
+              "name": "Ricardo Rodríguez",
+              "pos": "D"
+            },
+            {
+              "n": 20,
+              "name": "Michel Aebischer",
+              "pos": "M"
+            },
+            {
+              "n": 10,
+              "name": "Granit Xhaka",
+              "pos": "M"
+            },
+            {
+              "n": 8,
+              "name": "Remo Freuler",
+              "pos": "M"
+            },
+            {
+              "n": 22,
+              "name": "Fabian Rieder",
+              "pos": "M"
+            },
+            {
+              "n": 7,
+              "name": "Breel Embolo",
+              "pos": "F"
+            },
+            {
+              "n": 11,
+              "name": "Dan Ndoye",
+              "pos": "F"
+            }
+          ],
+          "subs": [
+            {
+              "n": 9,
+              "name": "Johan Manzambi",
+              "pos": "M"
+            },
+            {
+              "n": 15,
+              "name": "Djibril Sow",
+              "pos": "M"
+            },
+            {
+              "n": 17,
+              "name": "Rubén Vargas",
+              "pos": "M"
+            },
+            {
+              "n": 25,
+              "name": "Luca Jaquez",
+              "pos": "D"
+            },
+            {
+              "n": 26,
+              "name": "Cédric Itten",
+              "pos": "F"
+            },
+            {
+              "n": 12,
+              "name": "Yvon Mvogo",
+              "pos": "G"
+            },
+            {
+              "n": 21,
+              "name": "Marvin Keller",
+              "pos": "G"
+            },
+            {
+              "n": 18,
+              "name": "Eray Cömert",
+              "pos": "D"
+            },
+            {
+              "n": 24,
+              "name": "Aurèle Amenda",
+              "pos": "D"
+            },
+            {
+              "n": 6,
+              "name": "Denis Zakaria",
+              "pos": "M"
+            },
+            {
+              "n": 14,
+              "name": "Ardon Jashari",
+              "pos": "M"
+            },
+            {
+              "n": 16,
+              "name": "Christian Fassnacht",
+              "pos": "M"
+            },
+            {
+              "n": 19,
+              "name": "Noah Okafor",
+              "pos": "F"
+            },
+            {
+              "n": 23,
+              "name": "Zeki Amdouni",
+              "pos": "F"
+            }
+          ]
+        },
+        "away": {
+          "formation": "4-4-2",
+          "coach": "Sergej Barbarez",
+          "startXI": [
+            {
+              "n": 1,
+              "name": "Nikola Vasilj",
+              "pos": "G"
+            },
+            {
+              "n": 7,
+              "name": "Amar Dedić",
+              "pos": "D"
+            },
+            {
+              "n": 18,
+              "name": "Nikola Katić",
+              "pos": "D"
+            },
+            {
+              "n": 4,
+              "name": "Tarik Muharemović",
+              "pos": "D"
+            },
+            {
+              "n": 5,
+              "name": "Sead Kolašinac",
+              "pos": "D"
+            },
+            {
+              "n": 15,
+              "name": "Amar Memić",
+              "pos": "M"
+            },
+            {
+              "n": 6,
+              "name": "Benjamin Tahirović",
+              "pos": "M"
+            },
+            {
+              "n": 14,
+              "name": "Ivan Šunjić",
+              "pos": "M"
+            },
+            {
+              "n": 19,
+              "name": "Kerim Alajbegović",
+              "pos": "M"
+            },
+            {
+              "n": 10,
+              "name": "Ermedin Demirović",
+              "pos": "F"
+            },
+            {
+              "n": 11,
+              "name": "Edin Džeko",
+              "pos": "F"
+            }
+          ],
+          "subs": [
+            {
+              "n": 13,
+              "name": "Ivan Bašić",
+              "pos": "M"
+            },
+            {
+              "n": 20,
+              "name": "Esmir Bajraktarević",
+              "pos": "F"
+            },
+            {
+              "n": 16,
+              "name": "Amir Hadžiahmetović",
+              "pos": "M"
+            },
+            {
+              "n": 25,
+              "name": "Jovo Lukić",
+              "pos": "F"
+            },
+            {
+              "n": 26,
+              "name": "Ermin Mahmić",
+              "pos": "M"
+            },
+            {
+              "n": 22,
+              "name": "Martin Zlomislić",
+              "pos": "G"
+            },
+            {
+              "n": 12,
+              "name": "Mladen Jurkas",
+              "pos": "G"
+            },
+            {
+              "n": 24,
+              "name": "Arjan Malić",
+              "pos": "D"
+            },
+            {
+              "n": 3,
+              "name": "Dennis Hadžikadunić",
+              "pos": "D"
+            },
+            {
+              "n": 2,
+              "name": "Nihad Mujakić",
+              "pos": "D"
+            },
+            {
+              "n": 21,
+              "name": "Stjepan Radeljić",
+              "pos": "D"
+            },
+            {
+              "n": 8,
+              "name": "Armin Gigović",
+              "pos": "M"
+            },
+            {
+              "n": 17,
+              "name": "Dženis Burnić",
+              "pos": "M"
+            },
+            {
+              "n": 23,
+              "name": "Haris Tabaković",
+              "pos": "F"
+            },
+            {
+              "n": 9,
+              "name": "Samed Baždar",
+              "pos": "F"
+            }
+          ]
+        }
+      }
     },
     "27": {
       "home": "Kanada",
       "away": "Katar",
       "date": "2026-06-19 00:00",
-      "played": false,
+      "played": true,
       "pred_score": "2-1",
       "pred_winner": "Hazai",
       "pred_corners": 8,
-      "pred_yellows": 3
+      "pred_yellows": 3,
+      "act_score": "6-0",
+      "act_corners": 19,
+      "act_yellows": 2,
+      "stats": [
+        {
+          "label": "Labdabirtoklás",
+          "home": "79%",
+          "away": "21%"
+        },
+        {
+          "label": "Várható gól (xG)",
+          "home": "4.11",
+          "away": "0.18"
+        },
+        {
+          "label": "Összes lövés",
+          "home": 30,
+          "away": 2
+        },
+        {
+          "label": "Kaput eltaláló lövés",
+          "home": 10,
+          "away": 0
+        },
+        {
+          "label": "Kapu mellé lőtt lövés",
+          "home": 6,
+          "away": 1
+        },
+        {
+          "label": "Blokkolt lövés",
+          "home": 14,
+          "away": 1
+        },
+        {
+          "label": "Lövés a tizenhatoson belül",
+          "home": 19,
+          "away": 1
+        },
+        {
+          "label": "Lövés a tizenhatoson kívül",
+          "home": 11,
+          "away": 1
+        },
+        {
+          "label": "Szöglet",
+          "home": 18,
+          "away": 1
+        },
+        {
+          "label": "Les",
+          "home": 1,
+          "away": 1
+        },
+        {
+          "label": "Szabálytalanság",
+          "home": 8,
+          "away": 10
+        },
+        {
+          "label": "Sárga lap",
+          "home": 1,
+          "away": 1
+        },
+        {
+          "label": "Piros lap",
+          "home": 0,
+          "away": 2
+        },
+        {
+          "label": "Kapusvédés",
+          "home": 0,
+          "away": 4
+        },
+        {
+          "label": "Passzok száma",
+          "home": 552,
+          "away": 162
+        },
+        {
+          "label": "Pontos passz",
+          "home": 500,
+          "away": 103
+        },
+        {
+          "label": "Passzpontosság",
+          "home": "91%",
+          "away": "64%"
+        }
+      ],
+      "lineups": {
+        "home": {
+          "formation": "4-4-2",
+          "coach": "Jesse Marsch",
+          "startXI": [
+            {
+              "n": 16,
+              "name": "Maxime Crépeau",
+              "pos": "G"
+            },
+            {
+              "n": 2,
+              "name": "Alistair Johnston",
+              "pos": "D"
+            },
+            {
+              "n": 4,
+              "name": "Luc De Fougerolles",
+              "pos": "D"
+            },
+            {
+              "n": 13,
+              "name": "Derek Cornelius",
+              "pos": "D"
+            },
+            {
+              "n": 22,
+              "name": "Richie Laryea",
+              "pos": "D"
+            },
+            {
+              "n": 17,
+              "name": "Tajon Buchanan",
+              "pos": "M"
+            },
+            {
+              "n": 8,
+              "name": "Ismael Koné",
+              "pos": "M"
+            },
+            {
+              "n": 7,
+              "name": "Stephen Eustaquio",
+              "pos": "M"
+            },
+            {
+              "n": 20,
+              "name": "Ali Ahmed",
+              "pos": "M"
+            },
+            {
+              "n": 10,
+              "name": "Jonathan David",
+              "pos": "F"
+            },
+            {
+              "n": 9,
+              "name": "Cyle Larin",
+              "pos": "F"
+            }
+          ],
+          "subs": [
+            {
+              "n": 15,
+              "name": "Moise Bombito",
+              "pos": "D"
+            },
+            {
+              "n": 25,
+              "name": "Nathan-Dylan Saliba",
+              "pos": "M"
+            },
+            {
+              "n": 14,
+              "name": "Jacob Shaffelburg",
+              "pos": "F"
+            },
+            {
+              "n": 12,
+              "name": "Tani Oluwaseyi",
+              "pos": "F"
+            },
+            {
+              "n": 23,
+              "name": "Niko Sigur",
+              "pos": "M"
+            },
+            {
+              "n": 1,
+              "name": "Dayne St. Clair",
+              "pos": "G"
+            },
+            {
+              "n": 18,
+              "name": "Owen Goodman",
+              "pos": "G"
+            },
+            {
+              "n": 5,
+              "name": "Joel Waterman",
+              "pos": "D"
+            },
+            {
+              "n": 19,
+              "name": "Alphonso Davies",
+              "pos": "D"
+            },
+            {
+              "n": 6,
+              "name": "Mathieu Choinière",
+              "pos": "M"
+            },
+            {
+              "n": 11,
+              "name": "Liam Millar",
+              "pos": "F"
+            },
+            {
+              "n": 21,
+              "name": "Jonathan Osorio",
+              "pos": "M"
+            },
+            {
+              "n": 24,
+              "name": "Promise David",
+              "pos": "F"
+            },
+            {
+              "n": 26,
+              "name": "Jayden Nelson",
+              "pos": "F"
+            }
+          ]
+        },
+        "away": {
+          "formation": "4-3-3",
+          "coach": "Julen Lopetegui",
+          "startXI": [
+            {
+              "n": 1,
+              "name": "Mahmud Abunada",
+              "pos": "G"
+            },
+            {
+              "n": 13,
+              "name": "Ayoub Al Oui",
+              "pos": "D"
+            },
+            {
+              "n": 2,
+              "name": "Pedro Miguel",
+              "pos": "D"
+            },
+            {
+              "n": 16,
+              "name": "Boualem Khoukhi",
+              "pos": "D"
+            },
+            {
+              "n": 14,
+              "name": "Homam Al-Amin",
+              "pos": "D"
+            },
+            {
+              "n": 5,
+              "name": "Jassem Gaber Abdulsallam",
+              "pos": "M"
+            },
+            {
+              "n": 23,
+              "name": "Assim Madibo",
+              "pos": "M"
+            },
+            {
+              "n": 4,
+              "name": "Issa Laye",
+              "pos": "M"
+            },
+            {
+              "n": 8,
+              "name": "Edmilson Junior",
+              "pos": "F"
+            },
+            {
+              "n": 15,
+              "name": "Yusuf Abdurisag",
+              "pos": "F"
+            },
+            {
+              "n": 11,
+              "name": "Akram Afif",
+              "pos": "F"
+            }
+          ],
+          "subs": [
+            {
+              "n": 18,
+              "name": "Sultan Al-Brake",
+              "pos": "D"
+            },
+            {
+              "n": 20,
+              "name": "Ahmed Fathi",
+              "pos": "M"
+            },
+            {
+              "n": 26,
+              "name": "Mohamed Naceur Almanai",
+              "pos": "M"
+            },
+            {
+              "n": 25,
+              "name": "Al-Hashmi Al-Hussain",
+              "pos": "D"
+            },
+            {
+              "n": 3,
+              "name": "Lucas Mendes",
+              "pos": "D"
+            },
+            {
+              "n": 21,
+              "name": "Salah Zakaria",
+              "pos": "G"
+            },
+            {
+              "n": 22,
+              "name": "Meshaal Barsham",
+              "pos": "G"
+            },
+            {
+              "n": 6,
+              "name": "Abdelaziz Hatem",
+              "pos": "M"
+            },
+            {
+              "n": 12,
+              "name": "Karim Boudiaf",
+              "pos": "M"
+            },
+            {
+              "n": 17,
+              "name": "Ahmed Al-Ganehi",
+              "pos": "F"
+            },
+            {
+              "n": 19,
+              "name": "Almoez Ali",
+              "pos": "F"
+            },
+            {
+              "n": 7,
+              "name": "Ahmed Alaaeldin",
+              "pos": "F"
+            },
+            {
+              "n": 9,
+              "name": "Mohammed Muntari",
+              "pos": "F"
+            },
+            {
+              "n": 10,
+              "name": "Hassan Al Haydos",
+              "pos": "F"
+            },
+            {
+              "n": 24,
+              "name": "Tahsin Mohammed Jamshid",
+              "pos": "F"
+            }
+          ]
+        }
+      }
     },
     "28": {
       "home": "Mexikó",
       "away": "Dél-Korea",
       "date": "2026-06-19 03:00",
-      "played": false,
+      "played": true,
       "pred_score": "2-1",
       "pred_winner": "Hazai",
       "pred_corners": 9,
-      "pred_yellows": 4
+      "pred_yellows": 4,
+      "act_score": "1-0",
+      "act_corners": 2,
+      "act_yellows": 2,
+      "stats": [
+        {
+          "label": "Labdabirtoklás",
+          "home": "42%",
+          "away": "58%"
+        },
+        {
+          "label": "Várható gól (xG)",
+          "home": "0.48",
+          "away": "0.69"
+        },
+        {
+          "label": "Összes lövés",
+          "home": 8,
+          "away": 9
+        },
+        {
+          "label": "Kaput eltaláló lövés",
+          "home": 4,
+          "away": 2
+        },
+        {
+          "label": "Kapu mellé lőtt lövés",
+          "home": 3,
+          "away": 4
+        },
+        {
+          "label": "Blokkolt lövés",
+          "home": 1,
+          "away": 3
+        },
+        {
+          "label": "Lövés a tizenhatoson belül",
+          "home": 5,
+          "away": 6
+        },
+        {
+          "label": "Lövés a tizenhatoson kívül",
+          "home": 3,
+          "away": 3
+        },
+        {
+          "label": "Szöglet",
+          "home": 0,
+          "away": 2
+        },
+        {
+          "label": "Les",
+          "home": 3,
+          "away": 6
+        },
+        {
+          "label": "Szabálytalanság",
+          "home": 9,
+          "away": 7
+        },
+        {
+          "label": "Sárga lap",
+          "home": 0,
+          "away": 2
+        },
+        {
+          "label": "Kapusvédés",
+          "home": 2,
+          "away": 3
+        },
+        {
+          "label": "Passzok száma",
+          "home": 429,
+          "away": 579
+        },
+        {
+          "label": "Pontos passz",
+          "home": 350,
+          "away": 486
+        },
+        {
+          "label": "Passzpontosság",
+          "home": "82%",
+          "away": "84%"
+        }
+      ],
+      "lineups": {
+        "home": {
+          "formation": "4-3-3",
+          "coach": "Javier Aguirre",
+          "startXI": [
+            {
+              "n": 1,
+              "name": "Raúl Rangel",
+              "pos": "G"
+            },
+            {
+              "n": 2,
+              "name": "Jorge Sánchez",
+              "pos": "D"
+            },
+            {
+              "n": 4,
+              "name": "Edson Álvarez",
+              "pos": "D"
+            },
+            {
+              "n": 5,
+              "name": "Johan Vásquez",
+              "pos": "D"
+            },
+            {
+              "n": 23,
+              "name": "Jesús Gallardo",
+              "pos": "D"
+            },
+            {
+              "n": 26,
+              "name": "Brian Gutiérrez",
+              "pos": "M"
+            },
+            {
+              "n": 6,
+              "name": "Erik Lira",
+              "pos": "M"
+            },
+            {
+              "n": 7,
+              "name": "Luis Romo",
+              "pos": "M"
+            },
+            {
+              "n": 25,
+              "name": "Roberto Alvarado",
+              "pos": "F"
+            },
+            {
+              "n": 9,
+              "name": "Raúl Jiménez",
+              "pos": "F"
+            },
+            {
+              "n": 16,
+              "name": "Julián Quiñones",
+              "pos": "F"
+            }
+          ],
+          "subs": [
+            {
+              "n": 17,
+              "name": "Orbelín Pineda",
+              "pos": "M"
+            },
+            {
+              "n": 18,
+              "name": "Obed Vargas",
+              "pos": "M"
+            },
+            {
+              "n": 15,
+              "name": "Israel Reyes",
+              "pos": "D"
+            },
+            {
+              "n": 11,
+              "name": "Santiago Giménez",
+              "pos": "F"
+            },
+            {
+              "n": 21,
+              "name": "César Huerta",
+              "pos": "M"
+            },
+            {
+              "n": 12,
+              "name": "Carlos Acevedo",
+              "pos": "G"
+            },
+            {
+              "n": 13,
+              "name": "Guillermo Ochoa",
+              "pos": "G"
+            },
+            {
+              "n": 20,
+              "name": "Mateo Chávez",
+              "pos": "D"
+            },
+            {
+              "n": 8,
+              "name": "Álvaro Fidalgo",
+              "pos": "M"
+            },
+            {
+              "n": 19,
+              "name": "Gilberto Mora",
+              "pos": "M"
+            },
+            {
+              "n": 24,
+              "name": "Luis Chávez",
+              "pos": "M"
+            },
+            {
+              "n": 10,
+              "name": "Alexis Vega",
+              "pos": "F"
+            },
+            {
+              "n": 14,
+              "name": "Armando González",
+              "pos": "F"
+            },
+            {
+              "n": 22,
+              "name": "Guillermo Martínez",
+              "pos": "F"
+            }
+          ]
+        },
+        "away": {
+          "formation": "3-4-2-1",
+          "coach": "Myung-Bo Hong",
+          "startXI": [
+            {
+              "n": 1,
+              "name": "Kim Seung-gyu",
+              "pos": "G"
+            },
+            {
+              "n": 2,
+              "name": "Han-Beom Lee",
+              "pos": "D"
+            },
+            {
+              "n": 4,
+              "name": "Kim Min-jae",
+              "pos": "D"
+            },
+            {
+              "n": 3,
+              "name": "Gi-Hyuk Lee",
+              "pos": "D"
+            },
+            {
+              "n": 15,
+              "name": "Kim Moon-hwan",
+              "pos": "M"
+            },
+            {
+              "n": 6,
+              "name": "Hwang In-beom",
+              "pos": "M"
+            },
+            {
+              "n": 8,
+              "name": "Seung Ho Paik",
+              "pos": "M"
+            },
+            {
+              "n": 22,
+              "name": "Young-woo Seol",
+              "pos": "M"
+            },
+            {
+              "n": 19,
+              "name": "Kang-in Lee",
+              "pos": "F"
+            },
+            {
+              "n": 10,
+              "name": "Jae-sung Lee",
+              "pos": "F"
+            },
+            {
+              "n": 7,
+              "name": "Son Heung-min",
+              "pos": "F"
+            }
+          ],
+          "subs": [
+            {
+              "n": 11,
+              "name": "Hwang Hee-chan",
+              "pos": "F"
+            },
+            {
+              "n": 18,
+              "name": "Hyeon-gyu Oh",
+              "pos": "F"
+            },
+            {
+              "n": 25,
+              "name": "Ji-sung Eom",
+              "pos": "F"
+            },
+            {
+              "n": 20,
+              "name": "Yang Hyun-Jun",
+              "pos": "F"
+            },
+            {
+              "n": 9,
+              "name": "Gue-sung Cho",
+              "pos": "F"
+            },
+            {
+              "n": 12,
+              "name": "Song Bum-keun",
+              "pos": "G"
+            },
+            {
+              "n": 21,
+              "name": "Jo Hyeonwoo",
+              "pos": "G"
+            },
+            {
+              "n": 5,
+              "name": "Kim Tae-hyeon",
+              "pos": "D"
+            },
+            {
+              "n": 14,
+              "name": "Wi-je Cho",
+              "pos": "D"
+            },
+            {
+              "n": 13,
+              "name": "Lee Tae-seok",
+              "pos": "D"
+            },
+            {
+              "n": 16,
+              "name": "Jin-seob Park",
+              "pos": "M"
+            },
+            {
+              "n": 23,
+              "name": "Jens Castrop",
+              "pos": "M"
+            },
+            {
+              "n": 17,
+              "name": "Jun-Ho Bae",
+              "pos": "M"
+            },
+            {
+              "n": 24,
+              "name": "Jin-gyu Kim",
+              "pos": "M"
+            },
+            {
+              "n": 26,
+              "name": "Dong-gyeong Lee",
+              "pos": "M"
+            }
+          ]
+        }
+      }
     },
     "29": {
       "home": "Törökország",
       "away": "Paraguay",
       "date": "2026-06-20 05:00",
       "played": false,
-      "pred_score": "1-1",
-      "pred_winner": "Döntetlen",
-      "pred_corners": 9,
-      "pred_yellows": 5
+      "pred_score": "2-1",
+      "pred_winner": "Hazai",
+      "pred_corners": 8,
+      "pred_yellows": 3
     },
     "30": {
       "home": "Egyesült Államok",
       "away": "Ausztrália",
       "date": "2026-06-19 21:00",
       "played": false,
-      "pred_score": "2-0",
-      "pred_winner": "Hazai",
+      "pred_score": "1-2",
+      "pred_winner": "Vendég",
       "pred_corners": 9,
       "pred_yellows": 3
     },
@@ -11045,19 +12477,19 @@
       "away": "Marokkó",
       "date": "2026-06-20 00:00",
       "played": false,
-      "pred_score": "1-1",
-      "pred_winner": "Döntetlen",
+      "pred_score": "1-2",
+      "pred_winner": "Vendég",
       "pred_corners": 9,
-      "pred_yellows": 4
+      "pred_yellows": 3
     },
     "32": {
       "home": "Brazília",
       "away": "Haiti",
       "date": "2026-06-20 02:30",
       "played": false,
-      "pred_score": "3-0",
+      "pred_score": "2-0",
       "pred_winner": "Hazai",
-      "pred_corners": 10,
+      "pred_corners": 8,
       "pred_yellows": 2
     },
     "33": {
@@ -11068,27 +12500,27 @@
       "pred_score": "0-2",
       "pred_winner": "Vendég",
       "pred_corners": 8,
-      "pred_yellows": 3
+      "pred_yellows": 2
     },
     "34": {
       "home": "Hollandia",
       "away": "Svédország",
       "date": "2026-06-20 19:00",
       "played": false,
-      "pred_score": "2-1",
+      "pred_score": "2-0",
       "pred_winner": "Hazai",
-      "pred_corners": 10,
-      "pred_yellows": 3
+      "pred_corners": 9,
+      "pred_yellows": 2
     },
     "35": {
       "home": "Németország",
       "away": "Elefántcsontpart",
       "date": "2026-06-20 22:00",
       "played": false,
-      "pred_score": "2-1",
+      "pred_score": "2-0",
       "pred_winner": "Hazai",
       "pred_corners": 9,
-      "pred_yellows": 3
+      "pred_yellows": 2
     },
     "36": {
       "home": "Ecuador",
@@ -11098,26 +12530,26 @@
       "pred_score": "2-0",
       "pred_winner": "Hazai",
       "pred_corners": 8,
-      "pred_yellows": 3
+      "pred_yellows": 2
     },
     "37": {
       "home": "Spanyolország",
       "away": "Szaúd-Arábia",
       "date": "2026-06-21 18:00",
       "played": false,
-      "pred_score": "3-0",
+      "pred_score": "2-0",
       "pred_winner": "Hazai",
-      "pred_corners": 10,
-      "pred_yellows": 3
+      "pred_corners": 9,
+      "pred_yellows": 2
     },
     "38": {
       "home": "Belgium",
       "away": "Irán",
       "date": "2026-06-21 21:00",
       "played": false,
-      "pred_score": "2-0",
+      "pred_score": "2-1",
       "pred_winner": "Hazai",
-      "pred_corners": 9,
+      "pred_corners": 8,
       "pred_yellows": 3
     },
     "39": {
@@ -11127,15 +12559,15 @@
       "played": false,
       "pred_score": "2-0",
       "pred_winner": "Hazai",
-      "pred_corners": 9,
-      "pred_yellows": 3
+      "pred_corners": 8,
+      "pred_yellows": 2
     },
     "40": {
       "home": "Új-Zéland",
       "away": "Egyiptom",
       "date": "2026-06-22 03:00",
       "played": false,
-      "pred_score": "0-2",
+      "pred_score": "1-2",
       "pred_winner": "Vendég",
       "pred_corners": 8,
       "pred_yellows": 3
@@ -11145,19 +12577,19 @@
       "away": "Ausztria",
       "date": "2026-06-22 19:00",
       "played": false,
-      "pred_score": "2-1",
+      "pred_score": "2-0",
       "pred_winner": "Hazai",
-      "pred_corners": 10,
-      "pred_yellows": 4
+      "pred_corners": 9,
+      "pred_yellows": 2
     },
     "42": {
       "home": "Franciaország",
       "away": "Irak",
       "date": "2026-06-22 23:00",
       "played": false,
-      "pred_score": "3-0",
+      "pred_score": "2-0",
       "pred_winner": "Hazai",
-      "pred_corners": 10,
+      "pred_corners": 9,
       "pred_yellows": 2
     },
     "43": {
@@ -11165,18 +12597,18 @@
       "away": "Szenegál",
       "date": "2026-06-23 02:00",
       "played": false,
-      "pred_score": "1-2",
-      "pred_winner": "Vendég",
+      "pred_score": "2-1",
+      "pred_winner": "Hazai",
       "pred_corners": 9,
-      "pred_yellows": 4
+      "pred_yellows": 3
     },
     "44": {
       "home": "Jordánia",
       "away": "Algéria",
       "date": "2026-06-23 05:00",
       "played": false,
-      "pred_score": "0-2",
-      "pred_winner": "Vendég",
+      "pred_score": "2-1",
+      "pred_winner": "Hazai",
       "pred_corners": 8,
       "pred_yellows": 3
     },
@@ -11197,7 +12629,7 @@
       "played": false,
       "pred_score": "2-0",
       "pred_winner": "Hazai",
-      "pred_corners": 10,
+      "pred_corners": 9,
       "pred_yellows": 2
     },
     "47": {
@@ -11208,34 +12640,34 @@
       "pred_score": "0-2",
       "pred_winner": "Vendég",
       "pred_corners": 8,
-      "pred_yellows": 3
+      "pred_yellows": 2
     },
     "48": {
       "home": "Kolumbia",
       "away": "Kongói DK",
       "date": "2026-06-24 04:00",
       "played": false,
-      "pred_score": "2-1",
+      "pred_score": "2-0",
       "pred_winner": "Hazai",
-      "pred_corners": 8,
-      "pred_yellows": 3
+      "pred_corners": 9,
+      "pred_yellows": 2
     },
     "49": {
       "home": "Svájc",
       "away": "Kanada",
       "date": "2026-06-24 21:00",
       "played": false,
-      "pred_score": "1-1",
-      "pred_winner": "Döntetlen",
+      "pred_score": "2-1",
+      "pred_winner": "Hazai",
       "pred_corners": 9,
-      "pred_yellows": 4
+      "pred_yellows": 3
     },
     "50": {
       "home": "Bosznia-Hercegovina",
       "away": "Katar",
       "date": "2026-06-24 21:00",
       "played": false,
-      "pred_score": "1-0",
+      "pred_score": "2-1",
       "pred_winner": "Hazai",
       "pred_corners": 7,
       "pred_yellows": 3
@@ -11248,7 +12680,7 @@
       "pred_score": "0-2",
       "pred_winner": "Vendég",
       "pred_corners": 9,
-      "pred_yellows": 3
+      "pred_yellows": 2
     },
     "52": {
       "home": "Marokkó",
@@ -11265,20 +12697,20 @@
       "away": "Mexikó",
       "date": "2026-06-25 03:00",
       "played": false,
-      "pred_score": "1-1",
-      "pred_winner": "Döntetlen",
-      "pred_corners": 9,
-      "pred_yellows": 4
+      "pred_score": "0-2",
+      "pred_winner": "Vendég",
+      "pred_corners": 8,
+      "pred_yellows": 2
     },
     "54": {
       "home": "Dél-Afrika",
       "away": "Dél-Korea",
       "date": "2026-06-25 03:00",
       "played": false,
-      "pred_score": "1-1",
-      "pred_winner": "Döntetlen",
+      "pred_score": "0-2",
+      "pred_winner": "Vendég",
       "pred_corners": 8,
-      "pred_yellows": 3
+      "pred_yellows": 2
     },
     "55": {
       "home": "Curaçao",
@@ -11288,7 +12720,7 @@
       "pred_score": "0-2",
       "pred_winner": "Vendég",
       "pred_corners": 8,
-      "pred_yellows": 3
+      "pred_yellows": 2
     },
     "56": {
       "home": "Ecuador",
@@ -11298,17 +12730,17 @@
       "pred_score": "1-2",
       "pred_winner": "Vendég",
       "pred_corners": 9,
-      "pred_yellows": 4
+      "pred_yellows": 3
     },
     "57": {
       "home": "Japán",
       "away": "Svédország",
       "date": "2026-06-26 01:00",
       "played": false,
-      "pred_score": "1-1",
-      "pred_winner": "Döntetlen",
+      "pred_score": "2-1",
+      "pred_winner": "Hazai",
       "pred_corners": 9,
-      "pred_yellows": 4
+      "pred_yellows": 3
     },
     "58": {
       "home": "Tunézia",
@@ -11317,7 +12749,7 @@
       "played": false,
       "pred_score": "0-2",
       "pred_winner": "Vendég",
-      "pred_corners": 9,
+      "pred_corners": 8,
       "pred_yellows": 2
     },
     "59": {
@@ -11325,20 +12757,20 @@
       "away": "Törökország",
       "date": "2026-06-26 04:00",
       "played": false,
-      "pred_score": "1-1",
-      "pred_winner": "Döntetlen",
+      "pred_score": "2-1",
+      "pred_winner": "Hazai",
       "pred_corners": 9,
-      "pred_yellows": 4
+      "pred_yellows": 3
     },
     "60": {
       "home": "Paraguay",
       "away": "Ausztrália",
       "date": "2026-06-26 04:00",
       "played": false,
-      "pred_score": "2-1",
-      "pred_winner": "Hazai",
-      "pred_corners": 9,
-      "pred_yellows": 4
+      "pred_score": "1-2",
+      "pred_winner": "Vendég",
+      "pred_corners": 8,
+      "pred_yellows": 3
     },
     "61": {
       "home": "Norvégia",
@@ -11347,8 +12779,8 @@
       "played": false,
       "pred_score": "1-2",
       "pred_winner": "Vendég",
-      "pred_corners": 10,
-      "pred_yellows": 3
+      "pred_corners": 9,
+      "pred_yellows": 2
     },
     "62": {
       "home": "Szenegál",
@@ -11358,46 +12790,46 @@
       "pred_score": "2-0",
       "pred_winner": "Hazai",
       "pred_corners": 8,
-      "pred_yellows": 3
+      "pred_yellows": 2
     },
     "63": {
       "home": "Zöld-foki Köztársaság",
       "away": "Szaúd-Arábia",
       "date": "2026-06-27 02:00",
       "played": false,
-      "pred_score": "0-1",
+      "pred_score": "1-2",
       "pred_winner": "Vendég",
-      "pred_corners": 7,
-      "pred_yellows": 4
+      "pred_corners": 8,
+      "pred_yellows": 3
     },
     "64": {
       "home": "Uruguay",
       "away": "Spanyolország",
       "date": "2026-06-27 02:00",
       "played": false,
-      "pred_score": "1-2",
+      "pred_score": "0-2",
       "pred_winner": "Vendég",
-      "pred_corners": 10,
-      "pred_yellows": 5
+      "pred_corners": 9,
+      "pred_yellows": 2
     },
     "65": {
       "home": "Egyiptom",
       "away": "Irán",
       "date": "2026-06-27 05:00",
       "played": false,
-      "pred_score": "1-1",
-      "pred_winner": "Döntetlen",
+      "pred_score": "1-2",
+      "pred_winner": "Vendég",
       "pred_corners": 8,
-      "pred_yellows": 5
+      "pred_yellows": 3
     },
     "66": {
       "home": "Új-Zéland",
       "away": "Belgium",
       "date": "2026-06-27 05:00",
       "played": false,
-      "pred_score": "0-3",
+      "pred_score": "0-2",
       "pred_winner": "Vendég",
-      "pred_corners": 9,
+      "pred_corners": 8,
       "pred_yellows": 2
     },
     "67": {
@@ -11405,7 +12837,7 @@
       "away": "Anglia",
       "date": "2026-06-27 23:00",
       "played": false,
-      "pred_score": "0-3",
+      "pred_score": "0-2",
       "pred_winner": "Vendég",
       "pred_corners": 9,
       "pred_yellows": 2
@@ -11415,20 +12847,20 @@
       "away": "Ghána",
       "date": "2026-06-27 23:00",
       "played": false,
-      "pred_score": "1-1",
-      "pred_winner": "Döntetlen",
+      "pred_score": "2-0",
+      "pred_winner": "Hazai",
       "pred_corners": 8,
-      "pred_yellows": 4
+      "pred_yellows": 2
     },
     "69": {
       "home": "Kolumbia",
       "away": "Portugália",
       "date": "2026-06-28 01:30",
       "played": false,
-      "pred_score": "1-2",
-      "pred_winner": "Vendég",
-      "pred_corners": 10,
-      "pred_yellows": 4
+      "pred_score": "2-1",
+      "pred_winner": "Hazai",
+      "pred_corners": 9,
+      "pred_yellows": 3
     },
     "70": {
       "home": "Kongói DK",
@@ -11437,25 +12869,25 @@
       "played": false,
       "pred_score": "2-1",
       "pred_winner": "Hazai",
-      "pred_corners": 7,
-      "pred_yellows": 4
+      "pred_corners": 8,
+      "pred_yellows": 3
     },
     "71": {
       "home": "Algéria",
       "away": "Ausztria",
       "date": "2026-06-28 04:00",
       "played": false,
-      "pred_score": "1-1",
-      "pred_winner": "Döntetlen",
+      "pred_score": "0-2",
+      "pred_winner": "Vendég",
       "pred_corners": 8,
-      "pred_yellows": 4
+      "pred_yellows": 2
     },
     "72": {
       "home": "Jordánia",
       "away": "Argentína",
       "date": "2026-06-28 04:00",
       "played": false,
-      "pred_score": "0-3",
+      "pred_score": "0-2",
       "pred_winner": "Vendég",
       "pred_corners": 9,
       "pred_yellows": 2
