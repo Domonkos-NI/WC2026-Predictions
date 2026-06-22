@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21 20:16 (magyar idő)",
+  "generated_at": "2026-06-22 07:12 (magyar idő)",
   "rows": [
     {
       "Meccs": 1,
@@ -76,7 +76,7 @@
       "Szögletek (tény)": 4,
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": 6,
-      "Esély H/D/V (%)": "52 / 24 / 24",
+      "Esély H/D/V (%)": "52 / 25 / 24",
       "Státusz": "Lejátszott",
       "Pontosság (%)": "25%",
       "__mid": 4
@@ -116,7 +116,7 @@
       "Szögletek (tény)": 8,
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": 2,
-      "Esély H/D/V (%)": "53 / 25 / 21",
+      "Esély H/D/V (%)": "54 / 25 / 21",
       "Státusz": "Lejátszott",
       "Pontosság (%)": "0%",
       "__mid": 7
@@ -156,7 +156,7 @@
       "Szögletek (tény)": 13,
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": 1,
-      "Esély H/D/V (%)": "36 / 27 / 36",
+      "Esély H/D/V (%)": "36 / 27 / 37",
       "Státusz": "Lejátszott",
       "Pontosság (%)": "0%",
       "__mid": 5
@@ -196,7 +196,7 @@
       "Szögletek (tény)": 9,
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": 3,
-      "Esély H/D/V (%)": "49 / 26 / 25",
+      "Esély H/D/V (%)": "50 / 26 / 25",
       "Státusz": "Lejátszott",
       "Pontosság (%)": "50%",
       "__mid": 10
@@ -216,7 +216,7 @@
       "Szögletek (tény)": 8,
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": 4,
-      "Esély H/D/V (%)": "27 / 26 / 46",
+      "Esély H/D/V (%)": "26 / 26 / 48",
       "Státusz": "Lejátszott",
       "Pontosság (%)": "50%",
       "__mid": 11
@@ -316,7 +316,7 @@
       "Szögletek (tény)": 5,
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": 1,
-      "Esély H/D/V (%)": "55 / 25 / 21",
+      "Esély H/D/V (%)": "58 / 24 / 18",
       "Státusz": "Lejátszott",
       "Pontosság (%)": "0%",
       "__mid": 16
@@ -456,7 +456,7 @@
       "Szögletek (tény)": 4,
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": 3,
-      "Esély H/D/V (%)": "24 / 26 / 50",
+      "Esély H/D/V (%)": "23 / 26 / 51",
       "Státusz": "Lejátszott",
       "Pontosság (%)": "0%",
       "__mid": 23
@@ -496,7 +496,7 @@
       "Szögletek (tény)": 10,
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": 3,
-      "Esély H/D/V (%)": "57 / 24 / 18",
+      "Esély H/D/V (%)": "58 / 24 / 18",
       "Státusz": "Lejátszott",
       "Pontosság (%)": "25%",
       "__mid": 25
@@ -556,7 +556,7 @@
       "Szögletek (tény)": 2,
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": 2,
-      "Esély H/D/V (%)": "52 / 24 / 24",
+      "Esély H/D/V (%)": "52 / 25 / 24",
       "Státusz": "Lejátszott",
       "Pontosság (%)": "25%",
       "__mid": 28
@@ -596,7 +596,7 @@
       "Szögletek (tény)": 7,
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": 2,
-      "Esély H/D/V (%)": "28 / 26 / 45",
+      "Esély H/D/V (%)": "29 / 27 / 45",
       "Státusz": "Lejátszott",
       "Pontosság (%)": "25%",
       "__mid": 31
@@ -636,7 +636,7 @@
       "Szögletek (tény)": 12,
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": 2,
-      "Esély H/D/V (%)": "48 / 26 / 26",
+      "Esély H/D/V (%)": "49 / 26 / 25",
       "Státusz": "Lejátszott",
       "Pontosság (%)": "0%",
       "__mid": 29
@@ -749,16 +749,16 @@
       "Hazai csapat": "Belgium",
       "Vendég csapat": "Irán",
       "Eredmény (tipp)": "2-1",
-      "Eredmény (tény)": "",
-      "Találat": "",
+      "Eredmény (tény)": "0-0",
+      "Találat": "❌ Nem",
       "Győztes (tipp)": "Hazai",
       "Szögletek (tipp)": 8,
-      "Szögletek (tény)": "",
+      "Szögletek (tény)": 6,
       "Sárga lapok (tipp)": 3,
-      "Sárga lapok (tény)": "",
-      "Esély H/D/V (%)": "52 / 25 / 23",
-      "Státusz": "Frissített előrejelzés",
-      "Pontosság (%)": "",
+      "Sárga lapok (tény)": 2,
+      "Esély H/D/V (%)": "51 / 26 / 23",
+      "Státusz": "Lejátszott",
+      "Pontosság (%)": "0%",
       "__mid": 38
     },
     {
@@ -769,16 +769,16 @@
       "Hazai csapat": "Uruguay",
       "Vendég csapat": "Zöld-foki Köztársaság",
       "Eredmény (tipp)": "2-0",
-      "Eredmény (tény)": "",
-      "Találat": "",
+      "Eredmény (tény)": "2-2",
+      "Találat": "❌ Nem",
       "Győztes (tipp)": "Hazai",
       "Szögletek (tipp)": 8,
-      "Szögletek (tény)": "",
+      "Szögletek (tény)": 14,
       "Sárga lapok (tipp)": 2,
-      "Sárga lapok (tény)": "",
+      "Sárga lapok (tény)": 3,
       "Esély H/D/V (%)": "61 / 23 / 16",
-      "Státusz": "Frissített előrejelzés",
-      "Pontosság (%)": "",
+      "Státusz": "Lejátszott",
+      "Pontosság (%)": "0%",
       "__mid": 39
     },
     {
@@ -789,16 +789,16 @@
       "Hazai csapat": "Új-Zéland",
       "Vendég csapat": "Egyiptom",
       "Eredmény (tipp)": "1-2",
-      "Eredmény (tény)": "",
-      "Találat": "",
+      "Eredmény (tény)": "1-3",
+      "Találat": "✅ Kimenetel",
       "Győztes (tipp)": "Vendég",
       "Szögletek (tipp)": 8,
-      "Szögletek (tény)": "",
+      "Szögletek (tény)": 7,
       "Sárga lapok (tipp)": 3,
-      "Sárga lapok (tény)": "",
-      "Esély H/D/V (%)": "23 / 25 / 52",
-      "Státusz": "Frissített előrejelzés",
-      "Pontosság (%)": "",
+      "Sárga lapok (tény)": 3,
+      "Esély H/D/V (%)": "20 / 25 / 55",
+      "Státusz": "Lejátszott",
+      "Pontosság (%)": "50%",
       "__mid": 40
     },
     {
@@ -856,7 +856,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
-      "Esély H/D/V (%)": "55 / 25 / 20",
+      "Esély H/D/V (%)": "56 / 25 / 20",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 43
@@ -876,7 +876,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
-      "Esély H/D/V (%)": "45 / 26 / 28",
+      "Esély H/D/V (%)": "45 / 27 / 29",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 44
@@ -976,7 +976,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
-      "Esély H/D/V (%)": "48 / 25 / 27",
+      "Esély H/D/V (%)": "47 / 25 / 27",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 49
@@ -1116,7 +1116,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
-      "Esély H/D/V (%)": "20 / 25 / 55",
+      "Esély H/D/V (%)": "20 / 25 / 56",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 56
@@ -1196,7 +1196,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
-      "Esély H/D/V (%)": "26 / 26 / 48",
+      "Esély H/D/V (%)": "25 / 26 / 49",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 60
@@ -1256,7 +1256,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
-      "Esély H/D/V (%)": "37 / 27 / 36",
+      "Esély H/D/V (%)": "38 / 27 / 35",
       "Státusz": "Frissített előrejelzés",
       "Pontosság (%)": "",
       "__mid": 63
@@ -1456,7 +1456,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
-      "Esély H/D/V (%)": "19 / 28 / 53",
+      "Esély H/D/V (%)": "19 / 28 / 54",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 73
@@ -1476,7 +1476,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 3,
       "Sárga lapok (tény)": "",
-      "Esély H/D/V (%)": "41 / 31 / 27",
+      "Esély H/D/V (%)": "42 / 31 / 27",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 74
@@ -1536,7 +1536,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
-      "Esély H/D/V (%)": "38 / 32 / 31",
+      "Esély H/D/V (%)": "38 / 32 / 30",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 77
@@ -1616,7 +1616,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
-      "Esély H/D/V (%)": "43 / 31 / 25",
+      "Esély H/D/V (%)": "44 / 31 / 25",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 81
@@ -1656,7 +1656,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 5,
       "Sárga lapok (tény)": "",
-      "Esély H/D/V (%)": "50 / 30 / 20",
+      "Esély H/D/V (%)": "51 / 30 / 19",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 83
@@ -1796,7 +1796,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
-      "Esély H/D/V (%)": "52 / 29 / 19",
+      "Esély H/D/V (%)": "53 / 29 / 18",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 90
@@ -1816,7 +1816,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
-      "Esély H/D/V (%)": "23 / 31 / 46",
+      "Esély H/D/V (%)": "24 / 31 / 46",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 91
@@ -1836,7 +1836,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 5,
       "Sárga lapok (tény)": "",
-      "Esély H/D/V (%)": "22 / 29 / 49",
+      "Esély H/D/V (%)": "21 / 29 / 50",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 92
@@ -1876,7 +1876,7 @@
       "Szögletek (tény)": "",
       "Sárga lapok (tipp)": 4,
       "Sárga lapok (tény)": "",
-      "Esély H/D/V (%)": "33 / 30 / 37",
+      "Esély H/D/V (%)": "33 / 30 / 36",
       "Státusz": "Előrejelzés",
       "Pontosság (%)": "",
       "__mid": 94
@@ -15783,31 +15783,1100 @@
       "home": "Belgium",
       "away": "Irán",
       "date": "2026-06-21 21:00",
-      "played": false,
+      "played": true,
       "pred_score": "2-1",
       "pred_winner": "Hazai",
       "pred_corners": 8,
-      "pred_yellows": 3
+      "pred_yellows": 3,
+      "act_score": "0-0",
+      "act_corners": 6,
+      "act_yellows": 2,
+      "stats": [
+        {
+          "label": "Labdabirtoklás",
+          "home": "70%",
+          "away": "30%"
+        },
+        {
+          "label": "Várható gól (xG)",
+          "home": "1.80",
+          "away": "0.63"
+        },
+        {
+          "label": "Összes lövés",
+          "home": 23,
+          "away": 7
+        },
+        {
+          "label": "Kaput eltaláló lövés",
+          "home": 7,
+          "away": 3
+        },
+        {
+          "label": "Kapu mellé lőtt lövés",
+          "home": 10,
+          "away": 3
+        },
+        {
+          "label": "Blokkolt lövés",
+          "home": 6,
+          "away": 1
+        },
+        {
+          "label": "Lövés a tizenhatoson belül",
+          "home": 20,
+          "away": 6
+        },
+        {
+          "label": "Lövés a tizenhatoson kívül",
+          "home": 3,
+          "away": 1
+        },
+        {
+          "label": "Szöglet",
+          "home": 4,
+          "away": 2
+        },
+        {
+          "label": "Les",
+          "home": 3,
+          "away": 4
+        },
+        {
+          "label": "Szabálytalanság",
+          "home": 7,
+          "away": 9
+        },
+        {
+          "label": "Sárga lap",
+          "home": 1,
+          "away": 1
+        },
+        {
+          "label": "Piros lap",
+          "home": 1,
+          "away": 0
+        },
+        {
+          "label": "Kapusvédés",
+          "home": 3,
+          "away": 7
+        },
+        {
+          "label": "Passzok száma",
+          "home": 622,
+          "away": 268
+        },
+        {
+          "label": "Pontos passz",
+          "home": 535,
+          "away": 198
+        },
+        {
+          "label": "Passzpontosság",
+          "home": "86%",
+          "away": "74%"
+        }
+      ],
+      "lineups": {
+        "home": {
+          "formation": "4-2-3-1",
+          "coach": "Rudi Garcia",
+          "startXI": [
+            {
+              "n": 1,
+              "name": "Thibaut Courtois",
+              "pos": "G"
+            },
+            {
+              "n": 15,
+              "name": "Thomas Meunier",
+              "pos": "D"
+            },
+            {
+              "n": 25,
+              "name": "Nathan Ngoy",
+              "pos": "D"
+            },
+            {
+              "n": 4,
+              "name": "Brandon Mechele",
+              "pos": "D"
+            },
+            {
+              "n": 5,
+              "name": "Maxim De Cuyper",
+              "pos": "D"
+            },
+            {
+              "n": 23,
+              "name": "Nicolas Raskin",
+              "pos": "M"
+            },
+            {
+              "n": 8,
+              "name": "Youri Tielemans",
+              "pos": "M"
+            },
+            {
+              "n": 22,
+              "name": "Alexis Saelemaekers",
+              "pos": "M"
+            },
+            {
+              "n": 7,
+              "name": "Kevin De Bruyne",
+              "pos": "M"
+            },
+            {
+              "n": 10,
+              "name": "Leandro Trossard",
+              "pos": "M"
+            },
+            {
+              "n": 9,
+              "name": "Romelu Lukaku",
+              "pos": "F"
+            }
+          ],
+          "subs": [
+            {
+              "n": 21,
+              "name": "Timothy Castagne",
+              "pos": "D"
+            },
+            {
+              "n": 20,
+              "name": "Hans Vanaken",
+              "pos": "M"
+            },
+            {
+              "n": 14,
+              "name": "Dodi Lukebakio",
+              "pos": "F"
+            },
+            {
+              "n": 3,
+              "name": "Arthur Theate",
+              "pos": "D"
+            },
+            {
+              "n": 26,
+              "name": "Matías Fernández-Pardo",
+              "pos": "F"
+            },
+            {
+              "n": 12,
+              "name": "Senne Lammens",
+              "pos": "G"
+            },
+            {
+              "n": 13,
+              "name": "Mike Penders",
+              "pos": "G"
+            },
+            {
+              "n": 16,
+              "name": "Koni De Winter",
+              "pos": "D"
+            },
+            {
+              "n": 18,
+              "name": "Joaquin Seys",
+              "pos": "D"
+            },
+            {
+              "n": 6,
+              "name": "Axel Witsel",
+              "pos": "M"
+            },
+            {
+              "n": 19,
+              "name": "Diego Moreira",
+              "pos": "F"
+            },
+            {
+              "n": 24,
+              "name": "Amadou Onana",
+              "pos": "M"
+            },
+            {
+              "n": 17,
+              "name": "Charles De Ketelaere",
+              "pos": "F"
+            }
+          ]
+        },
+        "away": {
+          "formation": "5-4-1",
+          "coach": "Amir Ghalenoei",
+          "startXI": [
+            {
+              "n": 1,
+              "name": "Alireza Beiranvand",
+              "pos": "G"
+            },
+            {
+              "n": 2,
+              "name": "Saleh Hardani",
+              "pos": "D"
+            },
+            {
+              "n": 13,
+              "name": "Hossein Kanaani",
+              "pos": "D"
+            },
+            {
+              "n": 4,
+              "name": "Shoja Khalilzadeh",
+              "pos": "D"
+            },
+            {
+              "n": 19,
+              "name": "Ali Nemati",
+              "pos": "D"
+            },
+            {
+              "n": 3,
+              "name": "Ehsan Hajsafi",
+              "pos": "D"
+            },
+            {
+              "n": 23,
+              "name": "Ramin Rezaeian",
+              "pos": "M"
+            },
+            {
+              "n": 14,
+              "name": "Saman Ghoddos",
+              "pos": "M"
+            },
+            {
+              "n": 6,
+              "name": "Saeid Ezatolahi",
+              "pos": "M"
+            },
+            {
+              "n": 8,
+              "name": "Mohammad Mohebi",
+              "pos": "M"
+            },
+            {
+              "n": 9,
+              "name": "Mehdi Taremi",
+              "pos": "F"
+            }
+          ],
+          "subs": [
+            {
+              "n": 7,
+              "name": "Alireza Jahanbakhsh",
+              "pos": "F"
+            },
+            {
+              "n": 5,
+              "name": "Milad Mohammadi",
+              "pos": "D"
+            },
+            {
+              "n": 16,
+              "name": "Mahdi Torabi",
+              "pos": "M"
+            },
+            {
+              "n": 20,
+              "name": "Shahriar Moghanlou",
+              "pos": "F"
+            },
+            {
+              "n": 18,
+              "name": "Amirhossein Hosseinzadeh",
+              "pos": "F"
+            },
+            {
+              "n": 12,
+              "name": "Payam Niazmand",
+              "pos": "G"
+            },
+            {
+              "n": 22,
+              "name": "Hossein Hosseini",
+              "pos": "G"
+            },
+            {
+              "n": 25,
+              "name": "Danial Eiri",
+              "pos": "D"
+            },
+            {
+              "n": 15,
+              "name": "Roozbeh Cheshmi",
+              "pos": "M"
+            },
+            {
+              "n": 17,
+              "name": "Aria Yousefi",
+              "pos": "D"
+            },
+            {
+              "n": 21,
+              "name": "Mohammad Ghorbani",
+              "pos": "M"
+            },
+            {
+              "n": 26,
+              "name": "Amirmohammad Razzaghinia",
+              "pos": "M"
+            },
+            {
+              "n": 10,
+              "name": "Mehdi Ghayedi",
+              "pos": "F"
+            },
+            {
+              "n": 11,
+              "name": "Ali Alipour",
+              "pos": "F"
+            },
+            {
+              "n": 24,
+              "name": "Dennis Eckert Ayensa",
+              "pos": "F"
+            }
+          ]
+        }
+      }
     },
     "39": {
       "home": "Uruguay",
       "away": "Zöld-foki Köztársaság",
       "date": "2026-06-22 00:00",
-      "played": false,
+      "played": true,
       "pred_score": "2-0",
       "pred_winner": "Hazai",
       "pred_corners": 8,
-      "pred_yellows": 2
+      "pred_yellows": 2,
+      "act_score": "2-2",
+      "act_corners": 14,
+      "act_yellows": 3,
+      "stats": [
+        {
+          "label": "Labdabirtoklás",
+          "home": "66%",
+          "away": "34%"
+        },
+        {
+          "label": "Várható gól (xG)",
+          "home": "2.28",
+          "away": "0.77"
+        },
+        {
+          "label": "Összes lövés",
+          "home": 16,
+          "away": 7
+        },
+        {
+          "label": "Kaput eltaláló lövés",
+          "home": 2,
+          "away": 2
+        },
+        {
+          "label": "Kapu mellé lőtt lövés",
+          "home": 7,
+          "away": 4
+        },
+        {
+          "label": "Blokkolt lövés",
+          "home": 7,
+          "away": 1
+        },
+        {
+          "label": "Lövés a tizenhatoson belül",
+          "home": 8,
+          "away": 1
+        },
+        {
+          "label": "Lövés a tizenhatoson kívül",
+          "home": 8,
+          "away": 6
+        },
+        {
+          "label": "Szöglet",
+          "home": 11,
+          "away": 3
+        },
+        {
+          "label": "Les",
+          "home": 3,
+          "away": 0
+        },
+        {
+          "label": "Szabálytalanság",
+          "home": 8,
+          "away": 4
+        },
+        {
+          "label": "Sárga lap",
+          "home": 2,
+          "away": 1
+        },
+        {
+          "label": "Passzok száma",
+          "home": 494,
+          "away": 256
+        },
+        {
+          "label": "Pontos passz",
+          "home": 411,
+          "away": 190
+        },
+        {
+          "label": "Passzpontosság",
+          "home": "83%",
+          "away": "74%"
+        }
+      ],
+      "lineups": {
+        "home": {
+          "formation": "4-1-4-1",
+          "coach": "Marcelo Bielsa",
+          "startXI": [
+            {
+              "n": 23,
+              "name": "Fernando Muslera",
+              "pos": "G"
+            },
+            {
+              "n": 13,
+              "name": "Guillermo Varela",
+              "pos": "D"
+            },
+            {
+              "n": 3,
+              "name": "Sebastián Cáceres",
+              "pos": "D"
+            },
+            {
+              "n": 16,
+              "name": "Mathías Olivera",
+              "pos": "D"
+            },
+            {
+              "n": 25,
+              "name": "Juan Sanabria",
+              "pos": "D"
+            },
+            {
+              "n": 5,
+              "name": "Manuel Ugarte",
+              "pos": "M"
+            },
+            {
+              "n": 14,
+              "name": "Agustín Canobbio",
+              "pos": "M"
+            },
+            {
+              "n": 6,
+              "name": "Rodrigo Bentancur",
+              "pos": "M"
+            },
+            {
+              "n": 8,
+              "name": "Federico Valverde",
+              "pos": "M"
+            },
+            {
+              "n": 20,
+              "name": "Maximiliano Araújo",
+              "pos": "M"
+            },
+            {
+              "n": 21,
+              "name": "Federico Viñas",
+              "pos": "F"
+            }
+          ],
+          "subs": [
+            {
+              "n": 7,
+              "name": "Nicolás de la Cruz",
+              "pos": "M"
+            },
+            {
+              "n": 9,
+              "name": "Darwin Núñez",
+              "pos": "F"
+            },
+            {
+              "n": 18,
+              "name": "Brian Rodríguez",
+              "pos": "F"
+            },
+            {
+              "n": 12,
+              "name": "Santiago Mele",
+              "pos": "G"
+            },
+            {
+              "n": 1,
+              "name": "Sergio Rochet",
+              "pos": "G"
+            },
+            {
+              "n": 2,
+              "name": "José María Giménez",
+              "pos": "D"
+            },
+            {
+              "n": 17,
+              "name": "Matías Viña",
+              "pos": "D"
+            },
+            {
+              "n": 24,
+              "name": "Santiago Bueno",
+              "pos": "D"
+            },
+            {
+              "n": 22,
+              "name": "Joaquín Piquerez",
+              "pos": "D"
+            },
+            {
+              "n": 11,
+              "name": "Facundo Pellistri",
+              "pos": "M"
+            },
+            {
+              "n": 15,
+              "name": "Emiliano Martínez",
+              "pos": "M"
+            },
+            {
+              "n": 26,
+              "name": "Rodrigo Zalazar",
+              "pos": "M"
+            },
+            {
+              "n": 19,
+              "name": "Rodrigo Aguirre",
+              "pos": "F"
+            }
+          ]
+        },
+        "away": {
+          "formation": "4-1-4-1",
+          "coach": "Pedro Leitao Brito",
+          "startXI": [
+            {
+              "n": 1,
+              "name": "Vozinha",
+              "pos": "G"
+            },
+            {
+              "n": 22,
+              "name": "Steven Moreira",
+              "pos": "D"
+            },
+            {
+              "n": 4,
+              "name": "Pico",
+              "pos": "D"
+            },
+            {
+              "n": 3,
+              "name": "Diney Borges",
+              "pos": "D"
+            },
+            {
+              "n": 13,
+              "name": "Sidny Lopes Cabral",
+              "pos": "D"
+            },
+            {
+              "n": 6,
+              "name": "Kevin Lenini",
+              "pos": "M"
+            },
+            {
+              "n": 20,
+              "name": "Ryan Mendes",
+              "pos": "M"
+            },
+            {
+              "n": 18,
+              "name": "Telmo Arcanjo",
+              "pos": "M"
+            },
+            {
+              "n": 10,
+              "name": "Jamiro Monteiro",
+              "pos": "M"
+            },
+            {
+              "n": 11,
+              "name": "Garry Rodrigues",
+              "pos": "M"
+            },
+            {
+              "n": 9,
+              "name": "Gilson Tavares",
+              "pos": "F"
+            }
+          ],
+          "subs": [
+            {
+              "n": 14,
+              "name": "Deroy Duarte",
+              "pos": "M"
+            },
+            {
+              "n": 26,
+              "name": "Hélio Varela",
+              "pos": "F"
+            },
+            {
+              "n": 21,
+              "name": "Nuno Da Costa",
+              "pos": "F"
+            },
+            {
+              "n": 15,
+              "name": "Laros Duarte",
+              "pos": "M"
+            },
+            {
+              "n": 16,
+              "name": "Yannick Semedo",
+              "pos": "M"
+            },
+            {
+              "n": 12,
+              "name": "Márcio Rosa",
+              "pos": "G"
+            },
+            {
+              "n": 23,
+              "name": "CJ Dos Santos",
+              "pos": "G"
+            },
+            {
+              "n": 2,
+              "name": "Stopira",
+              "pos": "D"
+            },
+            {
+              "n": 5,
+              "name": "Logan Costa",
+              "pos": "D"
+            },
+            {
+              "n": 24,
+              "name": "Wagner Pina",
+              "pos": "D"
+            },
+            {
+              "n": 25,
+              "name": "Kelvin Pires",
+              "pos": "D"
+            },
+            {
+              "n": 8,
+              "name": "João Paulo",
+              "pos": "M"
+            },
+            {
+              "n": 17,
+              "name": "Willy Semedo",
+              "pos": "F"
+            },
+            {
+              "n": 7,
+              "name": "Jovane Cabral",
+              "pos": "F"
+            },
+            {
+              "n": 19,
+              "name": "Dailon Rocha Livramento",
+              "pos": "F"
+            }
+          ]
+        }
+      }
     },
     "40": {
       "home": "Új-Zéland",
       "away": "Egyiptom",
       "date": "2026-06-22 03:00",
-      "played": false,
+      "played": true,
       "pred_score": "1-2",
       "pred_winner": "Vendég",
       "pred_corners": 8,
-      "pred_yellows": 3
+      "pred_yellows": 3,
+      "act_score": "1-3",
+      "act_corners": 7,
+      "act_yellows": 3,
+      "stats": [
+        {
+          "label": "Labdabirtoklás",
+          "home": "44%",
+          "away": "56%"
+        },
+        {
+          "label": "Várható gól (xG)",
+          "home": "1.12",
+          "away": "1.96"
+        },
+        {
+          "label": "Összes lövés",
+          "home": 11,
+          "away": 19
+        },
+        {
+          "label": "Kaput eltaláló lövés",
+          "home": 5,
+          "away": 7
+        },
+        {
+          "label": "Kapu mellé lőtt lövés",
+          "home": 3,
+          "away": 6
+        },
+        {
+          "label": "Blokkolt lövés",
+          "home": 3,
+          "away": 6
+        },
+        {
+          "label": "Lövés a tizenhatoson belül",
+          "home": 6,
+          "away": 12
+        },
+        {
+          "label": "Lövés a tizenhatoson kívül",
+          "home": 5,
+          "away": 7
+        },
+        {
+          "label": "Szöglet",
+          "home": 4,
+          "away": 3
+        },
+        {
+          "label": "Les",
+          "home": 3,
+          "away": 0
+        },
+        {
+          "label": "Szabálytalanság",
+          "home": 14,
+          "away": 8
+        },
+        {
+          "label": "Sárga lap",
+          "home": 2,
+          "away": 1
+        },
+        {
+          "label": "Kapusvédés",
+          "home": 4,
+          "away": 4
+        },
+        {
+          "label": "Passzok száma",
+          "home": 420,
+          "away": 528
+        },
+        {
+          "label": "Pontos passz",
+          "home": 338,
+          "away": 463
+        },
+        {
+          "label": "Passzpontosság",
+          "home": "80%",
+          "away": "88%"
+        }
+      ],
+      "lineups": {
+        "home": {
+          "formation": "4-2-3-1",
+          "coach": null,
+          "startXI": [
+            {
+              "n": 1,
+              "name": "Max Crocombe",
+              "pos": "G"
+            },
+            {
+              "n": 2,
+              "name": "Tim Payne",
+              "pos": "D"
+            },
+            {
+              "n": 16,
+              "name": "Finn Surman",
+              "pos": "D"
+            },
+            {
+              "n": 5,
+              "name": "Michael Boxall",
+              "pos": "D"
+            },
+            {
+              "n": 13,
+              "name": "Liberato Cacace",
+              "pos": "D"
+            },
+            {
+              "n": 6,
+              "name": "Joe Bell",
+              "pos": "M"
+            },
+            {
+              "n": 8,
+              "name": "Marko Stamenić",
+              "pos": "M"
+            },
+            {
+              "n": 20,
+              "name": "Callum McCowatt",
+              "pos": "M"
+            },
+            {
+              "n": 10,
+              "name": "Sarpreet Singh",
+              "pos": "M"
+            },
+            {
+              "n": 11,
+              "name": "Elijah Just",
+              "pos": "M"
+            },
+            {
+              "n": 9,
+              "name": "Chris Wood",
+              "pos": "F"
+            }
+          ],
+          "subs": [
+            {
+              "n": 19,
+              "name": "Benjamin Old",
+              "pos": "F"
+            },
+            {
+              "n": 23,
+              "name": "Ryan Thomas",
+              "pos": "M"
+            },
+            {
+              "n": 21,
+              "name": "Jesse Randall",
+              "pos": "F"
+            },
+            {
+              "n": 4,
+              "name": "Tyler Bindon",
+              "pos": "D"
+            },
+            {
+              "n": 3,
+              "name": "Francis De Vries",
+              "pos": "D"
+            },
+            {
+              "n": 12,
+              "name": "Alex Paulsen",
+              "pos": "G"
+            },
+            {
+              "n": 22,
+              "name": "Michael Woud",
+              "pos": "G"
+            },
+            {
+              "n": 26,
+              "name": "Tommy Smith",
+              "pos": "D"
+            },
+            {
+              "n": 15,
+              "name": "Nando Pijnaker",
+              "pos": "D"
+            },
+            {
+              "n": 24,
+              "name": "Callan Elliot",
+              "pos": "D"
+            },
+            {
+              "n": 14,
+              "name": "Alex Rufer",
+              "pos": "M"
+            },
+            {
+              "n": 25,
+              "name": "Lachlan Bayliss",
+              "pos": "M"
+            },
+            {
+              "n": 7,
+              "name": "Logan Rogerson",
+              "pos": "F"
+            },
+            {
+              "n": 17,
+              "name": "Kosta Barbarouses",
+              "pos": "F"
+            },
+            {
+              "n": 18,
+              "name": "Ben Waine",
+              "pos": "F"
+            }
+          ]
+        },
+        "away": {
+          "formation": "4-2-3-1",
+          "coach": "Hossam Hassan",
+          "startXI": [
+            {
+              "n": 23,
+              "name": "Mostafa Shobeir",
+              "pos": "G"
+            },
+            {
+              "n": 3,
+              "name": "Mohamed Hany",
+              "pos": "D"
+            },
+            {
+              "n": 2,
+              "name": "Yasser Ibrahim",
+              "pos": "D"
+            },
+            {
+              "n": 14,
+              "name": "Hamdy Fathy",
+              "pos": "D"
+            },
+            {
+              "n": 13,
+              "name": "Ahmed Fatouh",
+              "pos": "D"
+            },
+            {
+              "n": 19,
+              "name": "Marwan Attia",
+              "pos": "M"
+            },
+            {
+              "n": 17,
+              "name": "Mohanad Lasheen",
+              "pos": "M"
+            },
+            {
+              "n": 11,
+              "name": "Mostafa Ziko",
+              "pos": "M"
+            },
+            {
+              "n": 10,
+              "name": "Mohamed Salah",
+              "pos": "M"
+            },
+            {
+              "n": 8,
+              "name": "Emam Ashour",
+              "pos": "M"
+            },
+            {
+              "n": 22,
+              "name": "Omar Marmoush",
+              "pos": "F"
+            }
+          ],
+          "subs": [
+            {
+              "n": 5,
+              "name": "Rami Rabia",
+              "pos": "D"
+            },
+            {
+              "n": 7,
+              "name": "Mahmoud Trézéguet",
+              "pos": "F"
+            },
+            {
+              "n": 9,
+              "name": "Hamza Abdelkarim",
+              "pos": "F"
+            },
+            {
+              "n": 4,
+              "name": "Hossam Abdelmaguid",
+              "pos": "D"
+            },
+            {
+              "n": 25,
+              "name": "Zizo",
+              "pos": "F"
+            },
+            {
+              "n": 6,
+              "name": "Mohamed Abdelmonem",
+              "pos": "D"
+            },
+            {
+              "n": 26,
+              "name": "Mohamed Alaa",
+              "pos": "G"
+            },
+            {
+              "n": 16,
+              "name": "Mahdi Soliman",
+              "pos": "G"
+            },
+            {
+              "n": 1,
+              "name": "Mohamed El-Shenawy",
+              "pos": "G"
+            },
+            {
+              "n": 24,
+              "name": "Tarek Alaa",
+              "pos": "D"
+            },
+            {
+              "n": 15,
+              "name": "Karim Hafez",
+              "pos": "D"
+            },
+            {
+              "n": 21,
+              "name": "Mahmoud Saber",
+              "pos": "M"
+            },
+            {
+              "n": 20,
+              "name": "Ibrahim Adel",
+              "pos": "F"
+            },
+            {
+              "n": 12,
+              "name": "Haissem Hassan",
+              "pos": "F"
+            },
+            {
+              "n": 18,
+              "name": "Nabil Donga",
+              "pos": "M"
+            }
+          ]
+        }
+      }
     },
     "41": {
       "home": "Argentína",
