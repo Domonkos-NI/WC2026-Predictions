@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23 09:28 (magyar idő)",
+  "generated_at": "2026-06-23 10:43 (magyar idő)",
   "rows": [
     {
       "Meccs": 1,
@@ -18935,5 +18935,1191 @@
       "pred_corners": 11,
       "pred_yellows": 4
     }
+  },
+  "groups": [
+    {
+      "group": "A",
+      "teams": [
+        {
+          "pos": 1,
+          "team": "Mexikó",
+          "P": 2,
+          "W": 2,
+          "D": 0,
+          "L": 0,
+          "GF": 3,
+          "GA": 0,
+          "GD": 3,
+          "Pts": 6,
+          "adv": 100.0
+        },
+        {
+          "pos": 2,
+          "team": "Dél-Korea",
+          "P": 2,
+          "W": 1,
+          "D": 0,
+          "L": 1,
+          "GF": 2,
+          "GA": 2,
+          "GD": 0,
+          "Pts": 3,
+          "adv": 95.0
+        },
+        {
+          "pos": 3,
+          "team": "Csehország",
+          "P": 2,
+          "W": 0,
+          "D": 1,
+          "L": 1,
+          "GF": 2,
+          "GA": 3,
+          "GD": -1,
+          "Pts": 1,
+          "adv": 16.3
+        },
+        {
+          "pos": 4,
+          "team": "Dél-Afrika",
+          "P": 2,
+          "W": 0,
+          "D": 1,
+          "L": 1,
+          "GF": 1,
+          "GA": 3,
+          "GD": -2,
+          "Pts": 1,
+          "adv": 17.9
+        }
+      ]
+    },
+    {
+      "group": "B",
+      "teams": [
+        {
+          "pos": 1,
+          "team": "Kanada",
+          "P": 2,
+          "W": 1,
+          "D": 1,
+          "L": 0,
+          "GF": 7,
+          "GA": 1,
+          "GD": 6,
+          "Pts": 4,
+          "adv": 100.0
+        },
+        {
+          "pos": 2,
+          "team": "Svájc",
+          "P": 2,
+          "W": 1,
+          "D": 1,
+          "L": 0,
+          "GF": 5,
+          "GA": 2,
+          "GD": 3,
+          "Pts": 4,
+          "adv": 100.0
+        },
+        {
+          "pos": 3,
+          "team": "Bosznia-Hercegovina",
+          "P": 2,
+          "W": 0,
+          "D": 1,
+          "L": 1,
+          "GF": 2,
+          "GA": 5,
+          "GD": -3,
+          "Pts": 1,
+          "adv": 57.2
+        },
+        {
+          "pos": 4,
+          "team": "Katar",
+          "P": 2,
+          "W": 0,
+          "D": 1,
+          "L": 1,
+          "GF": 1,
+          "GA": 7,
+          "GD": -6,
+          "Pts": 1,
+          "adv": 20.6
+        }
+      ]
+    },
+    {
+      "group": "C",
+      "teams": [
+        {
+          "pos": 1,
+          "team": "Brazília",
+          "P": 2,
+          "W": 1,
+          "D": 1,
+          "L": 0,
+          "GF": 4,
+          "GA": 1,
+          "GD": 3,
+          "Pts": 4,
+          "adv": 100.0
+        },
+        {
+          "pos": 2,
+          "team": "Marokkó",
+          "P": 2,
+          "W": 1,
+          "D": 1,
+          "L": 0,
+          "GF": 2,
+          "GA": 1,
+          "GD": 1,
+          "Pts": 4,
+          "adv": 100.0
+        },
+        {
+          "pos": 3,
+          "team": "Skócia",
+          "P": 2,
+          "W": 1,
+          "D": 0,
+          "L": 1,
+          "GF": 1,
+          "GA": 1,
+          "GD": 0,
+          "Pts": 3,
+          "adv": 82.0
+        },
+        {
+          "pos": 4,
+          "team": "Haiti",
+          "P": 2,
+          "W": 0,
+          "D": 0,
+          "L": 2,
+          "GF": 0,
+          "GA": 4,
+          "GD": -4,
+          "Pts": 0,
+          "adv": 3.4
+        }
+      ]
+    },
+    {
+      "group": "D",
+      "teams": [
+        {
+          "pos": 1,
+          "team": "Egyesült Államok",
+          "P": 2,
+          "W": 2,
+          "D": 0,
+          "L": 0,
+          "GF": 6,
+          "GA": 1,
+          "GD": 5,
+          "Pts": 6,
+          "adv": 100.0
+        },
+        {
+          "pos": 2,
+          "team": "Ausztrália",
+          "P": 2,
+          "W": 1,
+          "D": 0,
+          "L": 1,
+          "GF": 2,
+          "GA": 2,
+          "GD": 0,
+          "Pts": 3,
+          "adv": 92.0
+        },
+        {
+          "pos": 3,
+          "team": "Paraguay",
+          "P": 2,
+          "W": 1,
+          "D": 0,
+          "L": 1,
+          "GF": 2,
+          "GA": 4,
+          "GD": -2,
+          "Pts": 3,
+          "adv": 68.3
+        },
+        {
+          "pos": 4,
+          "team": "Törökország",
+          "P": 2,
+          "W": 0,
+          "D": 0,
+          "L": 2,
+          "GF": 0,
+          "GA": 3,
+          "GD": -3,
+          "Pts": 0,
+          "adv": 18.8
+        }
+      ]
+    },
+    {
+      "group": "E",
+      "teams": [
+        {
+          "pos": 1,
+          "team": "Németország",
+          "P": 2,
+          "W": 2,
+          "D": 0,
+          "L": 0,
+          "GF": 9,
+          "GA": 2,
+          "GD": 7,
+          "Pts": 6,
+          "adv": 100.0
+        },
+        {
+          "pos": 2,
+          "team": "Elefántcsontpart",
+          "P": 2,
+          "W": 1,
+          "D": 0,
+          "L": 1,
+          "GF": 2,
+          "GA": 2,
+          "GD": 0,
+          "Pts": 3,
+          "adv": 94.4
+        },
+        {
+          "pos": 3,
+          "team": "Ecuador",
+          "P": 2,
+          "W": 0,
+          "D": 1,
+          "L": 1,
+          "GF": 0,
+          "GA": 1,
+          "GD": -1,
+          "Pts": 1,
+          "adv": 22.4
+        },
+        {
+          "pos": 4,
+          "team": "Curaçao",
+          "P": 2,
+          "W": 0,
+          "D": 1,
+          "L": 1,
+          "GF": 1,
+          "GA": 7,
+          "GD": -6,
+          "Pts": 1,
+          "adv": 16.9
+        }
+      ]
+    },
+    {
+      "group": "F",
+      "teams": [
+        {
+          "pos": 1,
+          "team": "Hollandia",
+          "P": 2,
+          "W": 1,
+          "D": 1,
+          "L": 0,
+          "GF": 7,
+          "GA": 3,
+          "GD": 4,
+          "Pts": 4,
+          "adv": 100.0
+        },
+        {
+          "pos": 2,
+          "team": "Japán",
+          "P": 2,
+          "W": 1,
+          "D": 1,
+          "L": 0,
+          "GF": 6,
+          "GA": 2,
+          "GD": 4,
+          "Pts": 4,
+          "adv": 100.0
+        },
+        {
+          "pos": 3,
+          "team": "Svédország",
+          "P": 2,
+          "W": 1,
+          "D": 0,
+          "L": 1,
+          "GF": 6,
+          "GA": 6,
+          "GD": 0,
+          "Pts": 3,
+          "adv": 92.8
+        },
+        {
+          "pos": 4,
+          "team": "Tunézia",
+          "P": 2,
+          "W": 0,
+          "D": 0,
+          "L": 2,
+          "GF": 1,
+          "GA": 9,
+          "GD": -8,
+          "Pts": 0,
+          "adv": 0.1
+        }
+      ]
+    },
+    {
+      "group": "G",
+      "teams": [
+        {
+          "pos": 1,
+          "team": "Egyiptom",
+          "P": 2,
+          "W": 1,
+          "D": 1,
+          "L": 0,
+          "GF": 4,
+          "GA": 2,
+          "GD": 2,
+          "Pts": 4,
+          "adv": 100.0
+        },
+        {
+          "pos": 2,
+          "team": "Irán",
+          "P": 2,
+          "W": 0,
+          "D": 2,
+          "L": 0,
+          "GF": 2,
+          "GA": 2,
+          "GD": 0,
+          "Pts": 2,
+          "adv": 68.8
+        },
+        {
+          "pos": 3,
+          "team": "Belgium",
+          "P": 2,
+          "W": 0,
+          "D": 2,
+          "L": 0,
+          "GF": 1,
+          "GA": 1,
+          "GD": 0,
+          "Pts": 2,
+          "adv": 83.1
+        },
+        {
+          "pos": 4,
+          "team": "Új-Zéland",
+          "P": 2,
+          "W": 0,
+          "D": 1,
+          "L": 1,
+          "GF": 3,
+          "GA": 5,
+          "GD": -2,
+          "Pts": 1,
+          "adv": 17.2
+        }
+      ]
+    },
+    {
+      "group": "H",
+      "teams": [
+        {
+          "pos": 1,
+          "team": "Spanyolország",
+          "P": 2,
+          "W": 1,
+          "D": 1,
+          "L": 0,
+          "GF": 4,
+          "GA": 0,
+          "GD": 4,
+          "Pts": 4,
+          "adv": 100.0
+        },
+        {
+          "pos": 2,
+          "team": "Uruguay",
+          "P": 2,
+          "W": 0,
+          "D": 2,
+          "L": 0,
+          "GF": 3,
+          "GA": 3,
+          "GD": 0,
+          "Pts": 2,
+          "adv": 41.7
+        },
+        {
+          "pos": 3,
+          "team": "Zöld-foki Köztársaság",
+          "P": 2,
+          "W": 0,
+          "D": 2,
+          "L": 0,
+          "GF": 2,
+          "GA": 2,
+          "GD": 0,
+          "Pts": 2,
+          "adv": 64.5
+        },
+        {
+          "pos": 4,
+          "team": "Szaúd-Arábia",
+          "P": 2,
+          "W": 0,
+          "D": 1,
+          "L": 1,
+          "GF": 1,
+          "GA": 5,
+          "GD": -4,
+          "Pts": 1,
+          "adv": 36.4
+        }
+      ]
+    },
+    {
+      "group": "I",
+      "teams": [
+        {
+          "pos": 1,
+          "team": "Franciaország",
+          "P": 2,
+          "W": 2,
+          "D": 0,
+          "L": 0,
+          "GF": 6,
+          "GA": 1,
+          "GD": 5,
+          "Pts": 6,
+          "adv": 100.0
+        },
+        {
+          "pos": 2,
+          "team": "Norvégia",
+          "P": 2,
+          "W": 2,
+          "D": 0,
+          "L": 0,
+          "GF": 7,
+          "GA": 3,
+          "GD": 4,
+          "Pts": 6,
+          "adv": 100.0
+        },
+        {
+          "pos": 3,
+          "team": "Szenegál",
+          "P": 2,
+          "W": 0,
+          "D": 0,
+          "L": 2,
+          "GF": 3,
+          "GA": 6,
+          "GD": -3,
+          "Pts": 0,
+          "adv": 58.2
+        },
+        {
+          "pos": 4,
+          "team": "Irak",
+          "P": 2,
+          "W": 0,
+          "D": 0,
+          "L": 2,
+          "GF": 1,
+          "GA": 7,
+          "GD": -6,
+          "Pts": 0,
+          "adv": 7.1
+        }
+      ]
+    },
+    {
+      "group": "J",
+      "teams": [
+        {
+          "pos": 1,
+          "team": "Argentína",
+          "P": 2,
+          "W": 2,
+          "D": 0,
+          "L": 0,
+          "GF": 5,
+          "GA": 0,
+          "GD": 5,
+          "Pts": 6,
+          "adv": 100.0
+        },
+        {
+          "pos": 2,
+          "team": "Ausztria",
+          "P": 2,
+          "W": 1,
+          "D": 0,
+          "L": 1,
+          "GF": 3,
+          "GA": 3,
+          "GD": 0,
+          "Pts": 3,
+          "adv": 97.0
+        },
+        {
+          "pos": 3,
+          "team": "Algéria",
+          "P": 2,
+          "W": 1,
+          "D": 0,
+          "L": 1,
+          "GF": 2,
+          "GA": 4,
+          "GD": -2,
+          "Pts": 3,
+          "adv": 64.5
+        },
+        {
+          "pos": 4,
+          "team": "Jordánia",
+          "P": 2,
+          "W": 0,
+          "D": 0,
+          "L": 2,
+          "GF": 2,
+          "GA": 5,
+          "GD": -3,
+          "Pts": 0,
+          "adv": 9.6
+        }
+      ]
+    },
+    {
+      "group": "K",
+      "teams": [
+        {
+          "pos": 1,
+          "team": "Kolumbia",
+          "P": 1,
+          "W": 1,
+          "D": 0,
+          "L": 0,
+          "GF": 3,
+          "GA": 1,
+          "GD": 2,
+          "Pts": 3,
+          "adv": 98.2
+        },
+        {
+          "pos": 2,
+          "team": "Kongói DK",
+          "P": 1,
+          "W": 0,
+          "D": 1,
+          "L": 0,
+          "GF": 1,
+          "GA": 1,
+          "GD": 0,
+          "Pts": 1,
+          "adv": 57.7
+        },
+        {
+          "pos": 3,
+          "team": "Portugália",
+          "P": 1,
+          "W": 0,
+          "D": 1,
+          "L": 0,
+          "GF": 1,
+          "GA": 1,
+          "GD": 0,
+          "Pts": 1,
+          "adv": 81.1
+        },
+        {
+          "pos": 4,
+          "team": "Üzbegisztán",
+          "P": 1,
+          "W": 0,
+          "D": 0,
+          "L": 1,
+          "GF": 1,
+          "GA": 3,
+          "GD": -2,
+          "Pts": 0,
+          "adv": 35.0
+        }
+      ]
+    },
+    {
+      "group": "L",
+      "teams": [
+        {
+          "pos": 1,
+          "team": "Anglia",
+          "P": 1,
+          "W": 1,
+          "D": 0,
+          "L": 0,
+          "GF": 4,
+          "GA": 2,
+          "GD": 2,
+          "Pts": 3,
+          "adv": 99.1
+        },
+        {
+          "pos": 2,
+          "team": "Ghána",
+          "P": 1,
+          "W": 1,
+          "D": 0,
+          "L": 0,
+          "GF": 1,
+          "GA": 0,
+          "GD": 1,
+          "Pts": 3,
+          "adv": 82.2
+        },
+        {
+          "pos": 3,
+          "team": "Panama",
+          "P": 1,
+          "W": 0,
+          "D": 0,
+          "L": 1,
+          "GF": 0,
+          "GA": 1,
+          "GD": -1,
+          "Pts": 0,
+          "adv": 20.0
+        },
+        {
+          "pos": 4,
+          "team": "Horvátország",
+          "P": 1,
+          "W": 0,
+          "D": 0,
+          "L": 1,
+          "GF": 2,
+          "GA": 4,
+          "GD": -2,
+          "Pts": 0,
+          "adv": 80.6
+        }
+      ]
+    }
+  ],
+  "thirds": [
+    {
+      "group": "F",
+      "team": "Svédország",
+      "P": 2,
+      "GF": 6,
+      "GA": 6,
+      "GD": 0,
+      "Pts": 3,
+      "adv": 92.8,
+      "rank": 1,
+      "q": true
+    },
+    {
+      "group": "C",
+      "team": "Skócia",
+      "P": 2,
+      "GF": 1,
+      "GA": 1,
+      "GD": 0,
+      "Pts": 3,
+      "adv": 82.0,
+      "rank": 2,
+      "q": true
+    },
+    {
+      "group": "J",
+      "team": "Algéria",
+      "P": 2,
+      "GF": 2,
+      "GA": 4,
+      "GD": -2,
+      "Pts": 3,
+      "adv": 64.5,
+      "rank": 3,
+      "q": true
+    },
+    {
+      "group": "D",
+      "team": "Paraguay",
+      "P": 2,
+      "GF": 2,
+      "GA": 4,
+      "GD": -2,
+      "Pts": 3,
+      "adv": 68.3,
+      "rank": 4,
+      "q": true
+    },
+    {
+      "group": "H",
+      "team": "Zöld-foki Köztársaság",
+      "P": 2,
+      "GF": 2,
+      "GA": 2,
+      "GD": 0,
+      "Pts": 2,
+      "adv": 64.5,
+      "rank": 5,
+      "q": true
+    },
+    {
+      "group": "G",
+      "team": "Belgium",
+      "P": 2,
+      "GF": 1,
+      "GA": 1,
+      "GD": 0,
+      "Pts": 2,
+      "adv": 83.1,
+      "rank": 6,
+      "q": true
+    },
+    {
+      "group": "K",
+      "team": "Portugália",
+      "P": 1,
+      "GF": 1,
+      "GA": 1,
+      "GD": 0,
+      "Pts": 1,
+      "adv": 81.1,
+      "rank": 7,
+      "q": true
+    },
+    {
+      "group": "A",
+      "team": "Csehország",
+      "P": 2,
+      "GF": 2,
+      "GA": 3,
+      "GD": -1,
+      "Pts": 1,
+      "adv": 16.3,
+      "rank": 8,
+      "q": true
+    },
+    {
+      "group": "E",
+      "team": "Ecuador",
+      "P": 2,
+      "GF": 0,
+      "GA": 1,
+      "GD": -1,
+      "Pts": 1,
+      "adv": 22.4,
+      "rank": 9,
+      "q": false
+    },
+    {
+      "group": "B",
+      "team": "Bosznia-Hercegovina",
+      "P": 2,
+      "GF": 2,
+      "GA": 5,
+      "GD": -3,
+      "Pts": 1,
+      "adv": 57.2,
+      "rank": 10,
+      "q": false
+    },
+    {
+      "group": "L",
+      "team": "Panama",
+      "P": 1,
+      "GF": 0,
+      "GA": 1,
+      "GD": -1,
+      "Pts": 0,
+      "adv": 20.0,
+      "rank": 11,
+      "q": false
+    },
+    {
+      "group": "I",
+      "team": "Szenegál",
+      "P": 2,
+      "GF": 3,
+      "GA": 6,
+      "GD": -3,
+      "Pts": 0,
+      "adv": 58.2,
+      "rank": 12,
+      "q": false
+    }
+  ],
+  "bracket": {
+    "rounds": [
+      {
+        "name": "Legjobb 32",
+        "matches": [
+          {
+            "mid": 73,
+            "home": "Csehország",
+            "away": "Kanada",
+            "pred": "2-1",
+            "act": "",
+            "played": false,
+            "win": "home",
+            "pens": false
+          },
+          {
+            "mid": 74,
+            "home": "Brazília",
+            "away": "Japán",
+            "pred": "2-1",
+            "act": "",
+            "played": false,
+            "win": "home",
+            "pens": false
+          },
+          {
+            "mid": 75,
+            "home": "Németország",
+            "away": "Svédország",
+            "pred": "2-0",
+            "act": "",
+            "played": false,
+            "win": "home",
+            "pens": false
+          },
+          {
+            "mid": 76,
+            "home": "Hollandia",
+            "away": "Marokkó",
+            "pred": "2-1",
+            "act": "",
+            "played": false,
+            "win": "home",
+            "pens": false
+          },
+          {
+            "mid": 77,
+            "home": "Ecuador",
+            "away": "Szenegál",
+            "pred": "1-2",
+            "act": "",
+            "played": false,
+            "win": "away",
+            "pens": false
+          },
+          {
+            "mid": 78,
+            "home": "Franciaország",
+            "away": "Irán",
+            "pred": "3-0",
+            "act": "",
+            "played": false,
+            "win": "home",
+            "pens": false
+          },
+          {
+            "mid": 79,
+            "home": "Mexikó",
+            "away": "Skócia",
+            "pred": "2-1",
+            "act": "",
+            "played": false,
+            "win": "home",
+            "pens": false
+          },
+          {
+            "mid": 80,
+            "home": "Anglia",
+            "away": "Norvégia",
+            "pred": "2-1",
+            "act": "",
+            "played": false,
+            "win": "home",
+            "pens": false
+          },
+          {
+            "mid": 81,
+            "home": "Belgium",
+            "away": "Elefántcsontpart",
+            "pred": "2-1",
+            "act": "",
+            "played": false,
+            "win": "home",
+            "pens": false
+          },
+          {
+            "mid": 82,
+            "home": "Egyesült Államok",
+            "away": "Bosznia-Hercegovina",
+            "pred": "2-1",
+            "act": "",
+            "played": false,
+            "win": "home",
+            "pens": false
+          },
+          {
+            "mid": 83,
+            "home": "Kolumbia",
+            "away": "Horvátország",
+            "pred": "1-1",
+            "act": "",
+            "played": false,
+            "win": "home",
+            "pens": true
+          },
+          {
+            "mid": 84,
+            "home": "Spanyolország",
+            "away": "Ausztria",
+            "pred": "2-0",
+            "act": "",
+            "played": false,
+            "win": "home",
+            "pens": false
+          },
+          {
+            "mid": 85,
+            "home": "Svájc",
+            "away": "Algéria",
+            "pred": "2-1",
+            "act": "",
+            "played": false,
+            "win": "home",
+            "pens": false
+          },
+          {
+            "mid": 86,
+            "home": "Törökország",
+            "away": "Egyiptom",
+            "pred": "2-1",
+            "act": "",
+            "played": false,
+            "win": "home",
+            "pens": false
+          },
+          {
+            "mid": 87,
+            "home": "Argentína",
+            "away": "Uruguay",
+            "pred": "2-1",
+            "act": "",
+            "played": false,
+            "win": "home",
+            "pens": false
+          },
+          {
+            "mid": 88,
+            "home": "Portugália",
+            "away": "Paraguay",
+            "pred": "2-0",
+            "act": "",
+            "played": false,
+            "win": "home",
+            "pens": false
+          }
+        ]
+      },
+      {
+        "name": "Nyolcaddöntő",
+        "matches": [
+          {
+            "mid": 89,
+            "home": "Csehország",
+            "away": "Németország",
+            "pred": "0-2",
+            "act": "",
+            "played": false,
+            "win": "away",
+            "pens": false
+          },
+          {
+            "mid": 90,
+            "home": "Brazília",
+            "away": "Szenegál",
+            "pred": "2-1",
+            "act": "",
+            "played": false,
+            "win": "home",
+            "pens": false
+          },
+          {
+            "mid": 91,
+            "home": "Hollandia",
+            "away": "Franciaország",
+            "pred": "1-2",
+            "act": "",
+            "played": false,
+            "win": "away",
+            "pens": false
+          },
+          {
+            "mid": 92,
+            "home": "Mexikó",
+            "away": "Anglia",
+            "pred": "1-2",
+            "act": "",
+            "played": false,
+            "win": "away",
+            "pens": false
+          },
+          {
+            "mid": 93,
+            "home": "Kolumbia",
+            "away": "Spanyolország",
+            "pred": "1-2",
+            "act": "",
+            "played": false,
+            "win": "away",
+            "pens": false
+          },
+          {
+            "mid": 94,
+            "home": "Belgium",
+            "away": "Egyesült Államok",
+            "pred": "2-1",
+            "act": "",
+            "played": false,
+            "win": "home",
+            "pens": false
+          },
+          {
+            "mid": 95,
+            "home": "Törökország",
+            "away": "Portugália",
+            "pred": "1-2",
+            "act": "",
+            "played": false,
+            "win": "away",
+            "pens": false
+          },
+          {
+            "mid": 96,
+            "home": "Svájc",
+            "away": "Argentína",
+            "pred": "1-2",
+            "act": "",
+            "played": false,
+            "win": "away",
+            "pens": false
+          }
+        ]
+      },
+      {
+        "name": "Negyeddöntő",
+        "matches": [
+          {
+            "mid": 97,
+            "home": "Németország",
+            "away": "Brazília",
+            "pred": "1-1",
+            "act": "",
+            "played": false,
+            "win": "away",
+            "pens": true
+          },
+          {
+            "mid": 98,
+            "home": "Spanyolország",
+            "away": "Belgium",
+            "pred": "2-1",
+            "act": "",
+            "played": false,
+            "win": "home",
+            "pens": false
+          },
+          {
+            "mid": 99,
+            "home": "Franciaország",
+            "away": "Anglia",
+            "pred": "2-1",
+            "act": "",
+            "played": false,
+            "win": "home",
+            "pens": false
+          },
+          {
+            "mid": 100,
+            "home": "Portugália",
+            "away": "Argentína",
+            "pred": "1-1",
+            "act": "",
+            "played": false,
+            "win": "away",
+            "pens": true
+          }
+        ]
+      },
+      {
+        "name": "Elődöntő",
+        "matches": [
+          {
+            "mid": 101,
+            "home": "Brazília",
+            "away": "Spanyolország",
+            "pred": "1-2",
+            "act": "",
+            "played": false,
+            "win": "away",
+            "pens": false
+          },
+          {
+            "mid": 102,
+            "home": "Franciaország",
+            "away": "Argentína",
+            "pred": "2-1",
+            "act": "",
+            "played": false,
+            "win": "home",
+            "pens": false
+          }
+        ]
+      },
+      {
+        "name": "Bronzmérkőzés",
+        "matches": [
+          {
+            "mid": 103,
+            "home": "Brazília",
+            "away": "Argentína",
+            "pred": "2-1",
+            "act": "",
+            "played": false,
+            "win": "home",
+            "pens": false
+          }
+        ]
+      },
+      {
+        "name": "Döntő",
+        "matches": [
+          {
+            "mid": 104,
+            "home": "Spanyolország",
+            "away": "Franciaország",
+            "pred": "2-1",
+            "act": "",
+            "played": false,
+            "win": "home",
+            "pens": false
+          }
+        ]
+      }
+    ]
   }
 }
