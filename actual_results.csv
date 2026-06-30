@@ -1,0 +1,77 @@
+match_id,phase,home_team,away_team,home_goals,away_goals,played,actual_corners,actual_yellow_cards
+1,Group,Mexico,South Africa,2,0,1,4.0,3.0
+2,Group,South Korea,Czechia,2,1,1,9.0,1.0
+3,Group,Canada,Bosnia and Herzegovina,1,1,1,13.0,5.0
+4,Group,USA,Paraguay,4,1,1,4.0,6.0
+5,Group,Australia,Türkiye,2,0,1,13.0,1.0
+6,Group,Qatar,Switzerland,1,1,1,13.0,3.0
+7,Group,Brazil,Morocco,1,1,1,8.0,2.0
+8,Group,Haiti,Scotland,0,1,1,7.0,4.0
+9,Group,Germany,Curaçao,7,1,1,9.0,0.0
+10,Group,Netherlands,Japan,2,2,1,9.0,3.0
+11,Group,Côte d'Ivoire,Ecuador,1,0,1,8.0,4.0
+12,Group,Sweden,Tunisia,5,1,1,6.0,1.0
+13,Group,Spain,Cabo Verde,0,0,1,12.0,2.0
+14,Group,Belgium,Egypt,1,1,1,9.0,4.0
+15,Group,Saudi Arabia,Uruguay,1,1,1,18.0,1.0
+16,Group,Iran,New Zealand,2,2,1,5.0,1.0
+17,Group,Austria,Jordan,3,1,1,7.0,1.0
+18,Group,France,Senegal,3,1,1,10.0,0.0
+19,Group,Iraq,Norway,1,4,1,7.0,1.0
+20,Group,Argentina,Algeria,3,0,1,4.0,0.0
+21,Group,Portugal,Congo DR,1,1,1,9.0,4.0
+22,Group,England,Croatia,4,2,1,10.0,0.0
+23,Group,Ghana,Panama,1,0,1,4.0,3.0
+24,Group,Uzbekistan,Colombia,1,3,1,7.0,2.0
+25,Group,Czechia,South Africa,1,1,1,10.0,3.0
+26,Group,Switzerland,Bosnia and Herzegovina,4,1,1,10.0,3.0
+27,Group,Canada,Qatar,6,0,1,19.0,2.0
+28,Group,Mexico,South Korea,1,0,1,2.0,2.0
+29,Group,Türkiye,Paraguay,0,1,1,12.0,2.0
+30,Group,USA,Australia,2,0,1,11.0,7.0
+31,Group,Scotland,Morocco,0,1,1,7.0,2.0
+32,Group,Brazil,Haiti,3,0,1,8.0,4.0
+33,Group,Tunisia,Japan,0,4,1,8.0,
+34,Group,Netherlands,Sweden,5,1,1,7.0,3.0
+35,Group,Germany,Côte d'Ivoire,2,1,1,11.0,
+36,Group,Ecuador,Curaçao,0,0,1,9.0,6.0
+37,Group,Spain,Saudi Arabia,4,0,1,7.0,2.0
+38,Group,Belgium,Iran,0,0,1,6.0,2.0
+39,Group,Uruguay,Cabo Verde,2,2,1,14.0,3.0
+40,Group,New Zealand,Egypt,1,3,1,7.0,3.0
+41,Group,Argentina,Austria,2,0,1,4.0,4.0
+42,Group,France,Iraq,3,0,1,6.0,1.0
+43,Group,Norway,Senegal,3,2,1,9.0,
+44,Group,Jordan,Algeria,1,2,1,11.0,2.0
+45,Group,Portugal,Uzbekistan,5,0,1,5.0,2.0
+46,Group,England,Ghana,0,0,1,11.0,2.0
+47,Group,Panama,Croatia,0,1,1,9.0,2.0
+48,Group,Colombia,Congo DR,1,0,1,9.0,3.0
+49,Group,Switzerland,Canada,2,1,1,9.0,3.0
+50,Group,Bosnia and Herzegovina,Qatar,3,1,1,10.0,2.0
+51,Group,Scotland,Brazil,0,3,1,12.0,3.0
+52,Group,Morocco,Haiti,4,2,1,9.0,3.0
+53,Group,Czechia,Mexico,0,3,1,6.0,1.0
+54,Group,South Africa,South Korea,1,0,1,10.0,2.0
+55,Group,Curaçao,Côte d'Ivoire,0,2,1,10.0,3.0
+56,Group,Ecuador,Germany,2,1,1,5.0,4.0
+57,Group,Japan,Sweden,1,1,1,10.0,3.0
+58,Group,Tunisia,Netherlands,1,3,1,10.0,
+59,Group,Türkiye,USA,3,2,1,11.0,1.0
+60,Group,Paraguay,Australia,0,0,1,4.0,2.0
+61,Group,Norway,France,1,4,1,9.0,2.0
+62,Group,Senegal,Iraq,5,0,1,15.0,4.0
+63,Group,Cabo Verde,Saudi Arabia,0,0,1,6.0,4.0
+64,Group,Uruguay,Spain,0,1,1,7.0,4.0
+65,Group,Egypt,Iran,1,1,1,10.0,7.0
+66,Group,New Zealand,Belgium,1,5,1,13.0,2.0
+67,Group,Panama,England,0,2,1,10.0,3.0
+68,Group,Croatia,Ghana,2,1,1,5.0,2.0
+69,Group,Colombia,Portugal,0,0,1,7.0,1.0
+70,Group,Congo DR,Uzbekistan,3,1,1,6.0,5.0
+71,Group,Algeria,Austria,3,3,1,3.0,1.0
+72,Group,Jordan,Argentina,1,3,1,8.0,3.0
+73,Knockout,South Africa,Canada,0,1,1,,
+74,Knockout,Brazil,Japan,2,1,1,,
+75,Knockout,Germany,Paraguay,1,1,1,,
+76,Knockout,Netherlands,Morocco,1,1,1,,
