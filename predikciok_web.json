@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01 11:13 (magyar idő)",
+  "generated_at": "2026-07-01 11:29 (magyar idő)",
   "rows": [
     {
       "Meccs": 1,
@@ -28635,14 +28635,14 @@
       }
     },
     "73": {
-      "home": "Csehország",
+      "home": "Dél-Afrika",
       "away": "Kanada",
       "date": "2026-06-28 21:00",
-      "played": false,
-      "pred_score": "2-1",
-      "pred_winner": "Hazai",
-      "pred_corners": 9,
-      "pred_yellows": 4,
+      "played": true,
+      "pred_score": "0-2",
+      "pred_winner": "Vendég",
+      "pred_corners": 8,
+      "pred_yellows": 3,
       "stats": [
         {
           "label": "Labdabirtoklás",
@@ -28992,7 +28992,10 @@
             }
           ]
         }
-      }
+      },
+      "act_score": "0-1",
+      "act_corners": 5,
+      "act_yellows": 2
     },
     "74": {
       "home": "Brazília",
@@ -29002,7 +29005,7 @@
       "pred_score": "2-1",
       "pred_winner": "Hazai",
       "pred_corners": 10,
-      "pred_yellows": 3,
+      "pred_yellows": 4,
       "act_score": "2-1",
       "act_corners": 8,
       "act_yellows": 5,
@@ -29364,12 +29367,12 @@
     },
     "75": {
       "home": "Németország",
-      "away": "Svédország",
+      "away": "Paraguay",
       "date": "2026-06-29 22:30",
-      "played": false,
+      "played": true,
       "pred_score": "2-0",
-      "pred_winner": "Hazai",
-      "pred_corners": 9,
+      "pred_winner": "Vendég",
+      "pred_corners": 10,
       "pred_yellows": 3,
       "stats": [
         {
@@ -29720,15 +29723,18 @@
             }
           ]
         }
-      }
+      },
+      "act_score": "1-1",
+      "act_corners": 22,
+      "act_yellows": 4
     },
     "76": {
       "home": "Hollandia",
       "away": "Marokkó",
       "date": "2026-06-30 03:00",
       "played": true,
-      "pred_score": "2-1",
-      "pred_winner": "Hazai",
+      "pred_score": "1-0",
+      "pred_winner": "Vendég",
       "pred_corners": 10,
       "pred_yellows": 4,
       "act_score": "1-1",
@@ -30096,14 +30102,14 @@
       }
     },
     "77": {
-      "home": "Ecuador",
-      "away": "Szenegál",
+      "home": "Elefántcsontpart",
+      "away": "Norvégia",
       "date": "2026-06-30 19:00",
-      "played": false,
-      "pred_score": "1-2",
+      "played": true,
+      "pred_score": "0-1",
       "pred_winner": "Vendég",
       "pred_corners": 9,
-      "pred_yellows": 4,
+      "pred_yellows": 3,
       "stats": [
         {
           "label": "Labdabirtoklás",
@@ -30463,14 +30469,17 @@
             }
           ]
         }
-      }
+      },
+      "act_score": "1-2",
+      "act_corners": 17,
+      "act_yellows": 1
     },
     "78": {
       "home": "Franciaország",
-      "away": "Irán",
+      "away": "Svédország",
       "date": "2026-06-30 23:00",
-      "played": false,
-      "pred_score": "3-0",
+      "played": true,
+      "pred_score": "2-0",
       "pred_winner": "Hazai",
       "pred_corners": 10,
       "pred_yellows": 3,
@@ -30823,16 +30832,18 @@
             }
           ]
         }
-      }
+      },
+      "act_score": "3-0",
+      "act_corners": 10
     },
     "79": {
       "home": "Mexikó",
-      "away": "Skócia",
+      "away": "Ecuador",
       "date": "2026-07-01 03:00",
-      "played": false,
+      "played": true,
       "pred_score": "2-1",
       "pred_winner": "Hazai",
-      "pred_corners": 9,
+      "pred_corners": 10,
       "pred_yellows": 4,
       "stats": [
         {
@@ -31198,26 +31209,29 @@
             }
           ]
         }
-      }
+      },
+      "act_score": "2-0",
+      "act_corners": 11,
+      "act_yellows": 3
     },
     "80": {
       "home": "Anglia",
-      "away": "Norvégia",
+      "away": "Kongói DK",
       "date": "2026-07-01 18:00",
       "played": false,
-      "pred_score": "2-1",
+      "pred_score": "2-0",
       "pred_winner": "Hazai",
       "pred_corners": 10,
-      "pred_yellows": 4
+      "pred_yellows": 3
     },
     "81": {
       "home": "Belgium",
-      "away": "Elefántcsontpart",
+      "away": "Szenegál",
       "date": "2026-07-01 22:00",
       "played": false,
       "pred_score": "2-1",
       "pred_winner": "Hazai",
-      "pred_corners": 9,
+      "pred_corners": 10,
       "pred_yellows": 4
     },
     "82": {
@@ -31225,27 +31239,27 @@
       "away": "Bosznia-Hercegovina",
       "date": "2026-07-02 02:00",
       "played": false,
-      "pred_score": "2-1",
+      "pred_score": "2-0",
       "pred_winner": "Hazai",
       "pred_corners": 9,
-      "pred_yellows": 4
+      "pred_yellows": 3
     },
     "83": {
-      "home": "Kolumbia",
-      "away": "Horvátország",
-      "date": "2026-07-02 21:00",
-      "played": false,
-      "pred_score": "1-1",
-      "pred_winner": "Hazai",
-      "pred_corners": 9,
-      "pred_yellows": 5
-    },
-    "84": {
       "home": "Spanyolország",
       "away": "Ausztria",
-      "date": "2026-07-03 01:00",
+      "date": "2026-07-02 21:00",
       "played": false,
       "pred_score": "2-0",
+      "pred_winner": "Hazai",
+      "pred_corners": 10,
+      "pred_yellows": 3
+    },
+    "84": {
+      "home": "Portugália",
+      "away": "Horvátország",
+      "date": "2026-07-03 01:00",
+      "played": false,
+      "pred_score": "1-0",
       "pred_winner": "Hazai",
       "pred_corners": 10,
       "pred_yellows": 3
@@ -31255,54 +31269,54 @@
       "away": "Algéria",
       "date": "2026-07-03 05:00",
       "played": false,
-      "pred_score": "2-1",
+      "pred_score": "2-0",
       "pred_winner": "Hazai",
-      "pred_corners": 8,
-      "pred_yellows": 4
+      "pred_corners": 9,
+      "pred_yellows": 3
     },
     "86": {
-      "home": "Törökország",
+      "home": "Ausztrália",
       "away": "Egyiptom",
       "date": "2026-07-03 20:00",
       "played": false,
-      "pred_score": "2-1",
+      "pred_score": "1-0",
       "pred_winner": "Hazai",
       "pred_corners": 9,
-      "pred_yellows": 5
+      "pred_yellows": 4
     },
     "87": {
       "home": "Argentína",
-      "away": "Uruguay",
+      "away": "Zöld-foki Köztársaság",
       "date": "2026-07-04 00:00",
-      "played": false,
-      "pred_score": "2-1",
-      "pred_winner": "Hazai",
-      "pred_corners": 10,
-      "pred_yellows": 5
-    },
-    "88": {
-      "home": "Portugália",
-      "away": "Paraguay",
-      "date": "2026-07-04 03:30",
       "played": false,
       "pred_score": "2-0",
       "pred_winner": "Hazai",
       "pred_corners": 10,
-      "pred_yellows": 4
+      "pred_yellows": 3
     },
-    "89": {
-      "home": "Csehország",
-      "away": "Németország",
-      "date": "2026-07-04 19:00",
+    "88": {
+      "home": "Kolumbia",
+      "away": "Ghána",
+      "date": "2026-07-04 03:30",
       "played": false,
-      "pred_score": "0-2",
-      "pred_winner": "Vendég",
+      "pred_score": "2-0",
+      "pred_winner": "Hazai",
       "pred_corners": 9,
       "pred_yellows": 3
     },
+    "89": {
+      "home": "Kanada",
+      "away": "Paraguay",
+      "date": "2026-07-04 19:00",
+      "played": false,
+      "pred_score": "2-1",
+      "pred_winner": "Hazai",
+      "pred_corners": 9,
+      "pred_yellows": 4
+    },
     "90": {
       "home": "Brazília",
-      "away": "Szenegál",
+      "away": "Norvégia",
       "date": "2026-07-04 23:00",
       "played": false,
       "pred_score": "2-1",
@@ -31311,14 +31325,14 @@
       "pred_yellows": 4
     },
     "91": {
-      "home": "Hollandia",
+      "home": "Marokkó",
       "away": "Franciaország",
       "date": "2026-07-05 22:00",
       "played": false,
-      "pred_score": "1-2",
+      "pred_score": "0-2",
       "pred_winner": "Vendég",
       "pred_corners": 10,
-      "pred_yellows": 4
+      "pred_yellows": 3
     },
     "92": {
       "home": "Mexikó",
@@ -31328,17 +31342,17 @@
       "pred_score": "1-2",
       "pred_winner": "Vendég",
       "pred_corners": 10,
-      "pred_yellows": 5
+      "pred_yellows": 3
     },
     "93": {
-      "home": "Kolumbia",
-      "away": "Spanyolország",
+      "home": "Spanyolország",
+      "away": "Portugália",
       "date": "2026-07-06 21:00",
       "played": false,
-      "pred_score": "1-2",
-      "pred_winner": "Vendég",
-      "pred_corners": 10,
-      "pred_yellows": 4
+      "pred_score": "2-0",
+      "pred_winner": "Hazai",
+      "pred_corners": 11,
+      "pred_yellows": 3
     },
     "94": {
       "home": "Belgium",
@@ -31351,44 +31365,44 @@
       "pred_yellows": 4
     },
     "95": {
-      "home": "Törökország",
-      "away": "Portugália",
+      "home": "Ausztrália",
+      "away": "Kolumbia",
       "date": "2026-07-07 18:00",
       "played": false,
-      "pred_score": "1-2",
+      "pred_score": "0-1",
       "pred_winner": "Vendég",
       "pred_corners": 10,
-      "pred_yellows": 4
+      "pred_yellows": 3
     },
     "96": {
       "home": "Svájc",
       "away": "Argentína",
       "date": "2026-07-07 22:00",
       "played": false,
-      "pred_score": "1-2",
+      "pred_score": "0-2",
       "pred_winner": "Vendég",
-      "pred_corners": 9,
-      "pred_yellows": 4
+      "pred_corners": 10,
+      "pred_yellows": 3
     },
     "97": {
-      "home": "Németország",
+      "home": "Kanada",
       "away": "Brazília",
       "date": "2026-07-09 22:00",
       "played": false,
-      "pred_score": "1-1",
+      "pred_score": "1-2",
       "pred_winner": "Vendég",
       "pred_corners": 10,
-      "pred_yellows": 5
+      "pred_yellows": 3
     },
     "98": {
       "home": "Spanyolország",
       "away": "Belgium",
       "date": "2026-07-10 21:00",
       "played": false,
-      "pred_score": "2-1",
+      "pred_score": "2-0",
       "pred_winner": "Hazai",
-      "pred_corners": 11,
-      "pred_yellows": 4
+      "pred_corners": 10,
+      "pred_yellows": 3
     },
     "99": {
       "home": "Franciaország",
@@ -31397,52 +31411,52 @@
       "played": false,
       "pred_score": "2-1",
       "pred_winner": "Hazai",
-      "pred_corners": 10,
-      "pred_yellows": 5
+      "pred_corners": 11,
+      "pred_yellows": 3
     },
     "100": {
-      "home": "Portugália",
+      "home": "Kolumbia",
       "away": "Argentína",
       "date": "2026-07-12 03:00",
       "played": false,
-      "pred_score": "1-1",
+      "pred_score": "0-1",
       "pred_winner": "Vendég",
       "pred_corners": 11,
-      "pred_yellows": 5
+      "pred_yellows": 3
     },
     "101": {
       "home": "Brazília",
       "away": "Spanyolország",
       "date": "2026-07-14 21:00",
       "played": false,
-      "pred_score": "1-2",
+      "pred_score": "0-1",
       "pred_winner": "Vendég",
       "pred_corners": 11,
-      "pred_yellows": 5
+      "pred_yellows": 3
     },
     "102": {
       "home": "Franciaország",
       "away": "Argentína",
       "date": "2026-07-15 21:00",
       "played": false,
-      "pred_score": "2-1",
-      "pred_winner": "Hazai",
-      "pred_corners": 10,
-      "pred_yellows": 5
+      "pred_score": "1-2",
+      "pred_winner": "Vendég",
+      "pred_corners": 11,
+      "pred_yellows": 4
     },
     "103": {
       "home": "Brazília",
-      "away": "Argentína",
+      "away": "Franciaország",
       "date": "2026-07-18 23:00",
       "played": false,
-      "pred_score": "2-1",
-      "pred_winner": "Hazai",
+      "pred_score": "0-1",
+      "pred_winner": "Vendég",
       "pred_corners": 10,
       "pred_yellows": 4
     },
     "104": {
       "home": "Spanyolország",
-      "away": "Franciaország",
+      "away": "Argentína",
       "date": "2026-07-19 21:00",
       "played": false,
       "pred_score": "2-1",
