@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08 09:08 (magyar idő)",
+  "generated_at": "2026-07-08 09:24 (magyar idő)",
   "rows": [
     {
       "Meccs": 1,
@@ -34527,7 +34527,362 @@
       "pred_yellows": 4,
       "act_score": "0-3",
       "act_corners": 12,
-      "act_yellows": 8
+      "act_yellows": 8,
+      "stats": [
+        {
+          "label": "Labdabirtoklás",
+          "home": "45%",
+          "away": "55%"
+        },
+        {
+          "label": "Várható gól (xG)",
+          "home": "0.84",
+          "away": "0.82"
+        },
+        {
+          "label": "Összes lövés",
+          "home": 10,
+          "away": 5
+        },
+        {
+          "label": "Kaput eltaláló lövés",
+          "home": 3,
+          "away": 4
+        },
+        {
+          "label": "Kapu mellé lőtt lövés",
+          "home": 4,
+          "away": 1
+        },
+        {
+          "label": "Blokkolt lövés",
+          "home": 3,
+          "away": 0
+        },
+        {
+          "label": "Lövés a tizenhatoson belül",
+          "home": 6,
+          "away": 3
+        },
+        {
+          "label": "Lövés a tizenhatoson kívül",
+          "home": 4,
+          "away": 2
+        },
+        {
+          "label": "Szöglet",
+          "home": 11,
+          "away": 1
+        },
+        {
+          "label": "Les",
+          "home": 2,
+          "away": 3
+        },
+        {
+          "label": "Szabálytalanság",
+          "home": 24,
+          "away": 14
+        },
+        {
+          "label": "Sárga lap",
+          "home": 4,
+          "away": 4
+        },
+        {
+          "label": "Kapusvédés",
+          "home": 1,
+          "away": 3
+        },
+        {
+          "label": "Passzok száma",
+          "home": 359,
+          "away": 473
+        },
+        {
+          "label": "Pontos passz",
+          "home": 272,
+          "away": 388
+        },
+        {
+          "label": "Passzpontosság",
+          "home": "76%",
+          "away": "82%"
+        }
+      ],
+      "lineups": {
+        "home": {
+          "formation": "4-4-2",
+          "coach": "Jesse Marsch",
+          "startXI": [
+            {
+              "n": 16,
+              "name": "M. Crepeau",
+              "pos": "G"
+            },
+            {
+              "n": 2,
+              "name": "A. Johnston",
+              "pos": "D"
+            },
+            {
+              "n": 15,
+              "name": "M. Bombito",
+              "pos": "D"
+            },
+            {
+              "n": 4,
+              "name": "L. De Fougerolles",
+              "pos": "D"
+            },
+            {
+              "n": 22,
+              "name": "R. Laryea",
+              "pos": "D"
+            },
+            {
+              "n": 17,
+              "name": "T. Buchanan",
+              "pos": "M"
+            },
+            {
+              "n": 23,
+              "name": "N. Sigur",
+              "pos": "M"
+            },
+            {
+              "n": 7,
+              "name": "S. Eustaquio",
+              "pos": "M"
+            },
+            {
+              "n": 20,
+              "name": "A. Ahmed",
+              "pos": "M"
+            },
+            {
+              "n": 10,
+              "name": "J. David",
+              "pos": "F"
+            },
+            {
+              "n": 12,
+              "name": "T. Oluwaseyi",
+              "pos": "F"
+            }
+          ],
+          "subs": [
+            {
+              "n": 1,
+              "name": "D. St.Clair",
+              "pos": "G"
+            },
+            {
+              "n": 18,
+              "name": "O. Goodman",
+              "pos": "G"
+            },
+            {
+              "n": 9,
+              "name": "C. Larin",
+              "pos": "F"
+            },
+            {
+              "n": 5,
+              "name": "J. Waterman",
+              "pos": "D"
+            },
+            {
+              "n": 19,
+              "name": "A. Davies",
+              "pos": "D"
+            },
+            {
+              "n": 13,
+              "name": "D. Cornelius",
+              "pos": "D"
+            },
+            {
+              "n": 14,
+              "name": "J. Shaffelburg",
+              "pos": "F"
+            },
+            {
+              "n": 26,
+              "name": "J. Nelson",
+              "pos": "F"
+            },
+            {
+              "n": 21,
+              "name": "J. Osorio",
+              "pos": "M"
+            },
+            {
+              "n": 3,
+              "name": "A. Jones",
+              "pos": "D"
+            },
+            {
+              "n": 11,
+              "name": "L. Millar",
+              "pos": "F"
+            },
+            {
+              "n": 6,
+              "name": "M. Choiniere",
+              "pos": "M"
+            },
+            {
+              "n": 25,
+              "name": "N. Saliba",
+              "pos": "M"
+            },
+            {
+              "n": 24,
+              "name": "P. David",
+              "pos": "F"
+            }
+          ]
+        },
+        "away": {
+          "formation": "4-2-3-1",
+          "coach": "Mohamed Ouahbi",
+          "startXI": [
+            {
+              "n": 1,
+              "name": "Bono",
+              "pos": "G"
+            },
+            {
+              "n": 2,
+              "name": "A. Hakimi",
+              "pos": "D"
+            },
+            {
+              "n": 14,
+              "name": "I. Diop",
+              "pos": "D"
+            },
+            {
+              "n": 25,
+              "name": "R. Halhal",
+              "pos": "D"
+            },
+            {
+              "n": 3,
+              "name": "N. Mazraoui",
+              "pos": "D"
+            },
+            {
+              "n": 6,
+              "name": "A. Bouaddi",
+              "pos": "M"
+            },
+            {
+              "n": 24,
+              "name": "N. El Aynaoui",
+              "pos": "M"
+            },
+            {
+              "n": 10,
+              "name": "B. Diaz",
+              "pos": "M"
+            },
+            {
+              "n": 8,
+              "name": "A. Ounahi",
+              "pos": "M"
+            },
+            {
+              "n": 23,
+              "name": "B. El Khannouss",
+              "pos": "M"
+            },
+            {
+              "n": 11,
+              "name": "I. Saibari",
+              "pos": "F"
+            }
+          ],
+          "subs": [
+            {
+              "n": 22,
+              "name": "A. Tagnaouti",
+              "pos": "G"
+            },
+            {
+              "n": 12,
+              "name": "Munir",
+              "pos": "G"
+            },
+            {
+              "n": 4,
+              "name": "S. Amrabat",
+              "pos": "M"
+            },
+            {
+              "n": 20,
+              "name": "A. El Kaabi",
+              "pos": "F"
+            },
+            {
+              "n": 19,
+              "name": "Y. Belammari",
+              "pos": "D"
+            },
+            {
+              "n": 17,
+              "name": "A. Sbai",
+              "pos": "F"
+            },
+            {
+              "n": 7,
+              "name": "C. Talbi",
+              "pos": "F"
+            },
+            {
+              "n": 15,
+              "name": "S. El Mourabet",
+              "pos": "M"
+            },
+            {
+              "n": 16,
+              "name": "G. Yassine",
+              "pos": "F"
+            },
+            {
+              "n": 5,
+              "name": "M. Saadane",
+              "pos": "D"
+            },
+            {
+              "n": 9,
+              "name": "S. Rahimi",
+              "pos": "F"
+            },
+            {
+              "n": 26,
+              "name": "A. Salah-Eddine",
+              "pos": "D"
+            },
+            {
+              "n": 18,
+              "name": "C. Riad",
+              "pos": "D"
+            },
+            {
+              "n": 21,
+              "name": "A. Amaimouni",
+              "pos": "F"
+            },
+            {
+              "n": 13,
+              "name": "Z. El Ouahdi",
+              "pos": "D"
+            }
+          ]
+        }
+      }
     },
     "90": {
       "home": "Brazília",
@@ -34540,7 +34895,357 @@
       "pred_yellows": 4,
       "act_score": "1-2",
       "act_corners": 10,
-      "act_yellows": 1
+      "act_yellows": 1,
+      "stats": [
+        {
+          "label": "Labdabirtoklás",
+          "home": "34%",
+          "away": "66%"
+        },
+        {
+          "label": "Várható gól (xG)",
+          "home": "2.73",
+          "away": "0.84"
+        },
+        {
+          "label": "Összes lövés",
+          "home": 14,
+          "away": 9
+        },
+        {
+          "label": "Kaput eltaláló lövés",
+          "home": 4,
+          "away": 5
+        },
+        {
+          "label": "Kapu mellé lőtt lövés",
+          "home": 6,
+          "away": 3
+        },
+        {
+          "label": "Blokkolt lövés",
+          "home": 4,
+          "away": 1
+        },
+        {
+          "label": "Lövés a tizenhatoson belül",
+          "home": 10,
+          "away": 7
+        },
+        {
+          "label": "Lövés a tizenhatoson kívül",
+          "home": 4,
+          "away": 2
+        },
+        {
+          "label": "Szöglet",
+          "home": 5,
+          "away": 5
+        },
+        {
+          "label": "Les",
+          "home": 1,
+          "away": 1
+        },
+        {
+          "label": "Szabálytalanság",
+          "home": 7,
+          "away": 6
+        },
+        {
+          "label": "Sárga lap",
+          "home": 1,
+          "away": 0
+        },
+        {
+          "label": "Kapusvédés",
+          "home": 3,
+          "away": 4
+        },
+        {
+          "label": "Passzok száma",
+          "home": 329,
+          "away": 680
+        },
+        {
+          "label": "Pontos passz",
+          "home": 279,
+          "away": 617
+        },
+        {
+          "label": "Passzpontosság",
+          "home": "85%",
+          "away": "91%"
+        }
+      ],
+      "lineups": {
+        "home": {
+          "formation": null,
+          "coach": "Carlo Ancelotti",
+          "startXI": [
+            {
+              "n": 1,
+              "name": "Alisson",
+              "pos": "G"
+            },
+            {
+              "n": 13,
+              "name": "Danilo",
+              "pos": "D"
+            },
+            {
+              "n": 4,
+              "name": "Marquinhos",
+              "pos": "D"
+            },
+            {
+              "n": 3,
+              "name": "Gabriel Magalhães",
+              "pos": "D"
+            },
+            {
+              "n": 16,
+              "name": "Douglas Santos",
+              "pos": "D"
+            },
+            {
+              "n": 26,
+              "name": "Rayan",
+              "pos": "M"
+            },
+            {
+              "n": 8,
+              "name": "Bruno Guimarães",
+              "pos": "M"
+            },
+            {
+              "n": 5,
+              "name": "Casemiro",
+              "pos": "M"
+            },
+            {
+              "n": 22,
+              "name": "Gabriel Martinelli",
+              "pos": "M"
+            },
+            {
+              "n": 9,
+              "name": "Matheus Cunha",
+              "pos": "F"
+            },
+            {
+              "n": 7,
+              "name": "Vinícius Júnior",
+              "pos": "F"
+            }
+          ],
+          "subs": [
+            {
+              "n": 19,
+              "name": "Endrick",
+              "pos": "F"
+            },
+            {
+              "n": 18,
+              "name": "Danilo Santos",
+              "pos": "M"
+            },
+            {
+              "n": 10,
+              "name": "Neymar",
+              "pos": "F"
+            },
+            {
+              "n": 2,
+              "name": "Éderson",
+              "pos": "M"
+            },
+            {
+              "n": 12,
+              "name": "Weverton",
+              "pos": "G"
+            },
+            {
+              "n": 23,
+              "name": "Ederson",
+              "pos": "G"
+            },
+            {
+              "n": 6,
+              "name": "Alex Sandro",
+              "pos": "D"
+            },
+            {
+              "n": 14,
+              "name": "Bremer",
+              "pos": "D"
+            },
+            {
+              "n": 15,
+              "name": "Léo Pereira",
+              "pos": "D"
+            },
+            {
+              "n": 24,
+              "name": "Roger Ibañez",
+              "pos": "D"
+            },
+            {
+              "n": 17,
+              "name": "Fabinho",
+              "pos": "M"
+            },
+            {
+              "n": 11,
+              "name": "Raphinha",
+              "pos": "F"
+            },
+            {
+              "n": 21,
+              "name": "Luiz Henrique",
+              "pos": "F"
+            },
+            {
+              "n": 25,
+              "name": "Igor Thiago",
+              "pos": "F"
+            }
+          ]
+        },
+        "away": {
+          "formation": null,
+          "coach": "Stale Solbakken",
+          "startXI": [
+            {
+              "n": 1,
+              "name": "Ørjan Nyland",
+              "pos": "G"
+            },
+            {
+              "n": 26,
+              "name": "Julian Ryerson",
+              "pos": "D"
+            },
+            {
+              "n": 3,
+              "name": "Kristoffer Ajer",
+              "pos": "D"
+            },
+            {
+              "n": 17,
+              "name": "Torbjørn Heggem",
+              "pos": "D"
+            },
+            {
+              "n": 5,
+              "name": "David Møller Wolfe",
+              "pos": "D"
+            },
+            {
+              "n": 10,
+              "name": "Martin Ødegaard",
+              "pos": "M"
+            },
+            {
+              "n": 8,
+              "name": "Sander Berge",
+              "pos": "M"
+            },
+            {
+              "n": 6,
+              "name": "Patrick Berg",
+              "pos": "M"
+            },
+            {
+              "n": 7,
+              "name": "Alexander Sørloth",
+              "pos": "F"
+            },
+            {
+              "n": 9,
+              "name": "Erling Haaland",
+              "pos": "F"
+            },
+            {
+              "n": 20,
+              "name": "Antonio Nusa",
+              "pos": "F"
+            }
+          ],
+          "subs": [
+            {
+              "n": 21,
+              "name": "Andreas Schjelderup",
+              "pos": "F"
+            },
+            {
+              "n": 22,
+              "name": "Oscar Bobb",
+              "pos": "M"
+            },
+            {
+              "n": 14,
+              "name": "Fredrik Aursnes",
+              "pos": "M"
+            },
+            {
+              "n": 4,
+              "name": "Leo Østigård",
+              "pos": "D"
+            },
+            {
+              "n": 12,
+              "name": "Sander Tangvik",
+              "pos": "G"
+            },
+            {
+              "n": 13,
+              "name": "Egil Selvik",
+              "pos": "G"
+            },
+            {
+              "n": 15,
+              "name": "Fredrik André Bjørkan",
+              "pos": "D"
+            },
+            {
+              "n": 24,
+              "name": "Sondre Langås",
+              "pos": "D"
+            },
+            {
+              "n": 25,
+              "name": "Henrik Sælebakke Falchener",
+              "pos": "D"
+            },
+            {
+              "n": 2,
+              "name": "Morten Thorsby",
+              "pos": "M"
+            },
+            {
+              "n": 18,
+              "name": "Kristian Thorstvedt",
+              "pos": "M"
+            },
+            {
+              "n": 19,
+              "name": "Thelo Aasgaard",
+              "pos": "M"
+            },
+            {
+              "n": 23,
+              "name": "Jens Petter Hauge",
+              "pos": "M"
+            },
+            {
+              "n": 11,
+              "name": "Jørgen Strand Larsen",
+              "pos": "F"
+            }
+          ]
+        }
+      }
     },
     "91": {
       "home": "Paraguay",
@@ -34553,7 +35258,362 @@
       "pred_yellows": 3,
       "act_score": "0-1",
       "act_corners": 14,
-      "act_yellows": 3
+      "act_yellows": 3,
+      "stats": [
+        {
+          "label": "Labdabirtoklás",
+          "home": "24%",
+          "away": "76%"
+        },
+        {
+          "label": "Várható gól (xG)",
+          "home": "0.13",
+          "away": "1.45"
+        },
+        {
+          "label": "Összes lövés",
+          "home": 5,
+          "away": 15
+        },
+        {
+          "label": "Kaput eltaláló lövés",
+          "home": 1,
+          "away": 5
+        },
+        {
+          "label": "Kapu mellé lőtt lövés",
+          "home": 4,
+          "away": 6
+        },
+        {
+          "label": "Blokkolt lövés",
+          "home": 1,
+          "away": 4
+        },
+        {
+          "label": "Lövés a tizenhatoson belül",
+          "home": 1,
+          "away": 5
+        },
+        {
+          "label": "Lövés a tizenhatoson kívül",
+          "home": 4,
+          "away": 10
+        },
+        {
+          "label": "Szöglet",
+          "home": 2,
+          "away": 12
+        },
+        {
+          "label": "Szabálytalanság",
+          "home": 13,
+          "away": 11
+        },
+        {
+          "label": "Sárga lap",
+          "home": 0,
+          "away": 3
+        },
+        {
+          "label": "Kapusvédés",
+          "home": 4,
+          "away": 1
+        },
+        {
+          "label": "Passzok száma",
+          "home": 183,
+          "away": 569
+        },
+        {
+          "label": "Pontos passz",
+          "home": 98,
+          "away": 510
+        },
+        {
+          "label": "Passzpontosság",
+          "home": "54%",
+          "away": "90%"
+        }
+      ],
+      "lineups": {
+        "home": {
+          "formation": "5-4-1",
+          "coach": "Gustavo Alfaro",
+          "startXI": [
+            {
+              "n": 12,
+              "name": "O. Gill",
+              "pos": "G"
+            },
+            {
+              "n": 4,
+              "name": "J. Caceres",
+              "pos": "D"
+            },
+            {
+              "n": 2,
+              "name": "G. Velazquez",
+              "pos": "D"
+            },
+            {
+              "n": 15,
+              "name": "G. Gomez",
+              "pos": "D"
+            },
+            {
+              "n": 3,
+              "name": "O. Alderete",
+              "pos": "D"
+            },
+            {
+              "n": 6,
+              "name": "J. Alonso",
+              "pos": "D"
+            },
+            {
+              "n": 10,
+              "name": "M. Almiron",
+              "pos": "M"
+            },
+            {
+              "n": 8,
+              "name": "D. Gomez",
+              "pos": "M"
+            },
+            {
+              "n": 14,
+              "name": "A. Cubas",
+              "pos": "M"
+            },
+            {
+              "n": 23,
+              "name": "M. Galarza",
+              "pos": "M"
+            },
+            {
+              "n": 19,
+              "name": "J. Enciso",
+              "pos": "F"
+            }
+          ],
+          "subs": [
+            {
+              "n": 1,
+              "name": "R. Fernandez",
+              "pos": null
+            },
+            {
+              "n": 22,
+              "name": "G. Olveira",
+              "pos": "G"
+            },
+            {
+              "n": 5,
+              "name": "Fabian Balbuena",
+              "pos": "D"
+            },
+            {
+              "n": 21,
+              "name": "G. Avalos",
+              "pos": "F"
+            },
+            {
+              "n": 9,
+              "name": "A. Sanabria",
+              "pos": "F"
+            },
+            {
+              "n": 24,
+              "name": "G. Caballero",
+              "pos": "F"
+            },
+            {
+              "n": 13,
+              "name": "J. Canale",
+              "pos": "D"
+            },
+            {
+              "n": 25,
+              "name": "I. Pitta",
+              "pos": "F"
+            },
+            {
+              "n": 11,
+              "name": "Mauricio",
+              "pos": "M"
+            },
+            {
+              "n": 7,
+              "name": "R. Sosa",
+              "pos": "F"
+            },
+            {
+              "n": 17,
+              "name": "Kaku",
+              "pos": "M"
+            },
+            {
+              "n": 18,
+              "name": "A. Arce",
+              "pos": "F"
+            },
+            {
+              "n": 20,
+              "name": "B. Ojeda",
+              "pos": "M"
+            },
+            {
+              "n": 16,
+              "name": "D. Bobadilla",
+              "pos": "M"
+            },
+            {
+              "n": 26,
+              "name": "A. Maidana",
+              "pos": "D"
+            }
+          ]
+        },
+        "away": {
+          "formation": "4-2-3-1",
+          "coach": "Didier Deschamps",
+          "startXI": [
+            {
+              "n": 16,
+              "name": "M. Maignan",
+              "pos": "G"
+            },
+            {
+              "n": 5,
+              "name": "J. Kounde",
+              "pos": "D"
+            },
+            {
+              "n": 4,
+              "name": "D. Upamecano",
+              "pos": "D"
+            },
+            {
+              "n": 17,
+              "name": "W. Saliba",
+              "pos": "D"
+            },
+            {
+              "n": 3,
+              "name": "L. Digne",
+              "pos": "D"
+            },
+            {
+              "n": 6,
+              "name": "M. Kone",
+              "pos": "M"
+            },
+            {
+              "n": 14,
+              "name": "A. Rabiot",
+              "pos": "M"
+            },
+            {
+              "n": 7,
+              "name": "O. Dembele",
+              "pos": "M"
+            },
+            {
+              "n": 11,
+              "name": "M. Olise",
+              "pos": "M"
+            },
+            {
+              "n": 12,
+              "name": "B. Barcola",
+              "pos": "M"
+            },
+            {
+              "n": 10,
+              "name": "K. Mbappe",
+              "pos": "F"
+            }
+          ],
+          "subs": [
+            {
+              "n": 1,
+              "name": "B. Samba",
+              "pos": "G"
+            },
+            {
+              "n": 23,
+              "name": "R. Risser",
+              "pos": "G"
+            },
+            {
+              "n": 15,
+              "name": "I. Konate",
+              "pos": "D"
+            },
+            {
+              "n": 8,
+              "name": "A. Tchouameni",
+              "pos": "M"
+            },
+            {
+              "n": 26,
+              "name": "M. Lacroix",
+              "pos": "D"
+            },
+            {
+              "n": 2,
+              "name": "M. Gusto",
+              "pos": "D"
+            },
+            {
+              "n": 25,
+              "name": "M. Akliouche",
+              "pos": "M"
+            },
+            {
+              "n": 18,
+              "name": "W. Zaire-Emery",
+              "pos": "M"
+            },
+            {
+              "n": 13,
+              "name": "N. Kante",
+              "pos": "M"
+            },
+            {
+              "n": 21,
+              "name": "L. Hernandez",
+              "pos": "D"
+            },
+            {
+              "n": 9,
+              "name": "M. Thuram",
+              "pos": "F"
+            },
+            {
+              "n": 19,
+              "name": "T. Hernandez",
+              "pos": "D"
+            },
+            {
+              "n": 22,
+              "name": "J. Mateta",
+              "pos": "F"
+            },
+            {
+              "n": 24,
+              "name": "R. Cherki",
+              "pos": "M"
+            },
+            {
+              "n": 20,
+              "name": "D. Doue",
+              "pos": "F"
+            }
+          ]
+        }
+      }
     },
     "92": {
       "home": "Mexikó",
@@ -34566,7 +35626,372 @@
       "pred_yellows": 3,
       "act_score": "2-3",
       "act_corners": 14,
-      "act_yellows": 6
+      "act_yellows": 6,
+      "stats": [
+        {
+          "label": "Labdabirtoklás",
+          "home": "67%",
+          "away": "33%"
+        },
+        {
+          "label": "Várható gól (xG)",
+          "home": "1.87",
+          "away": "1.55"
+        },
+        {
+          "label": "Összes lövés",
+          "home": 20,
+          "away": 6
+        },
+        {
+          "label": "Kaput eltaláló lövés",
+          "home": 5,
+          "away": 5
+        },
+        {
+          "label": "Kapu mellé lőtt lövés",
+          "home": 8,
+          "away": 1
+        },
+        {
+          "label": "Blokkolt lövés",
+          "home": 7,
+          "away": 0
+        },
+        {
+          "label": "Lövés a tizenhatoson belül",
+          "home": 12,
+          "away": 4
+        },
+        {
+          "label": "Lövés a tizenhatoson kívül",
+          "home": 8,
+          "away": 2
+        },
+        {
+          "label": "Szöglet",
+          "home": 12,
+          "away": 2
+        },
+        {
+          "label": "Les",
+          "home": 1,
+          "away": 0
+        },
+        {
+          "label": "Szabálytalanság",
+          "home": 14,
+          "away": 7
+        },
+        {
+          "label": "Sárga lap",
+          "home": 2,
+          "away": 4
+        },
+        {
+          "label": "Piros lap",
+          "home": 0,
+          "away": 1
+        },
+        {
+          "label": "Kapusvédés",
+          "home": 2,
+          "away": 3
+        },
+        {
+          "label": "Passzok száma",
+          "home": 455,
+          "away": 244
+        },
+        {
+          "label": "Pontos passz",
+          "home": 420,
+          "away": 195
+        },
+        {
+          "label": "Passzpontosság",
+          "home": "92%",
+          "away": "80%"
+        }
+      ],
+      "lineups": {
+        "home": {
+          "formation": "4-3-3",
+          "coach": "Javier Aguirre",
+          "startXI": [
+            {
+              "n": 1,
+              "name": "Raúl Rangel",
+              "pos": "G"
+            },
+            {
+              "n": 2,
+              "name": "Jorge Sánchez",
+              "pos": "D"
+            },
+            {
+              "n": 3,
+              "name": "César Montes",
+              "pos": "D"
+            },
+            {
+              "n": 5,
+              "name": "Johan Vásquez",
+              "pos": "D"
+            },
+            {
+              "n": 23,
+              "name": "Jesús Gallardo",
+              "pos": "D"
+            },
+            {
+              "n": 19,
+              "name": "Gilberto Mora",
+              "pos": "M"
+            },
+            {
+              "n": 6,
+              "name": "Erik Lira",
+              "pos": "M"
+            },
+            {
+              "n": 7,
+              "name": "Luis Romo",
+              "pos": "M"
+            },
+            {
+              "n": 25,
+              "name": "Roberto Alvarado",
+              "pos": "F"
+            },
+            {
+              "n": 9,
+              "name": "Raúl Jiménez",
+              "pos": "F"
+            },
+            {
+              "n": 16,
+              "name": "Julián Quiñones",
+              "pos": "F"
+            }
+          ],
+          "subs": [
+            {
+              "n": 4,
+              "name": "Edson Álvarez",
+              "pos": "M"
+            },
+            {
+              "n": 26,
+              "name": "Brian Gutiérrez",
+              "pos": "M"
+            },
+            {
+              "n": 11,
+              "name": "Santiago Giménez",
+              "pos": "F"
+            },
+            {
+              "n": 8,
+              "name": "Álvaro Fidalgo",
+              "pos": "M"
+            },
+            {
+              "n": 22,
+              "name": "Guillermo Martínez",
+              "pos": "F"
+            },
+            {
+              "n": 12,
+              "name": "Carlos Acevedo",
+              "pos": "G"
+            },
+            {
+              "n": 13,
+              "name": "Guillermo Ochoa",
+              "pos": "G"
+            },
+            {
+              "n": 15,
+              "name": "Israel Reyes",
+              "pos": "D"
+            },
+            {
+              "n": 20,
+              "name": "Mateo Chávez",
+              "pos": "D"
+            },
+            {
+              "n": 17,
+              "name": "Orbelín Pineda",
+              "pos": "M"
+            },
+            {
+              "n": 18,
+              "name": "Obed Vargas",
+              "pos": "M"
+            },
+            {
+              "n": 24,
+              "name": "Luis Chávez",
+              "pos": "M"
+            },
+            {
+              "n": 10,
+              "name": "Alexis Vega",
+              "pos": "F"
+            },
+            {
+              "n": 21,
+              "name": "César Huerta",
+              "pos": "M"
+            },
+            {
+              "n": 14,
+              "name": "Armando González",
+              "pos": "F"
+            }
+          ]
+        },
+        "away": {
+          "formation": "4-2-3-1",
+          "coach": "Thomas Tuchel",
+          "startXI": [
+            {
+              "n": 1,
+              "name": "Jordan Pickford",
+              "pos": "G"
+            },
+            {
+              "n": 26,
+              "name": "Jarell Quansah",
+              "pos": "D"
+            },
+            {
+              "n": 2,
+              "name": "Ezri Konsa",
+              "pos": "D"
+            },
+            {
+              "n": 6,
+              "name": "Marc Guéhi",
+              "pos": "D"
+            },
+            {
+              "n": 3,
+              "name": "Nico O'Reilly",
+              "pos": "D"
+            },
+            {
+              "n": 4,
+              "name": "Declan Rice",
+              "pos": "M"
+            },
+            {
+              "n": 8,
+              "name": "Elliot Anderson",
+              "pos": "M"
+            },
+            {
+              "n": 7,
+              "name": "Bukayo Saka",
+              "pos": "M"
+            },
+            {
+              "n": 10,
+              "name": "Jude Bellingham",
+              "pos": "M"
+            },
+            {
+              "n": 18,
+              "name": "Anthony Gordon",
+              "pos": "M"
+            },
+            {
+              "n": 9,
+              "name": "Harry Kane",
+              "pos": "F"
+            }
+          ],
+          "subs": [
+            {
+              "n": 5,
+              "name": "John Stones",
+              "pos": "D"
+            },
+            {
+              "n": 15,
+              "name": "Dan Burn",
+              "pos": "D"
+            },
+            {
+              "n": 25,
+              "name": "Djed Spence",
+              "pos": "D"
+            },
+            {
+              "n": 17,
+              "name": "Morgan Rogers",
+              "pos": "M"
+            },
+            {
+              "n": 13,
+              "name": "Dean Henderson",
+              "pos": "G"
+            },
+            {
+              "n": 23,
+              "name": "James Trafford",
+              "pos": "G"
+            },
+            {
+              "n": 12,
+              "name": "Trevoh Chalobah",
+              "pos": "D"
+            },
+            {
+              "n": 24,
+              "name": "Reece James",
+              "pos": "D"
+            },
+            {
+              "n": 14,
+              "name": "Jordan Henderson",
+              "pos": "M"
+            },
+            {
+              "n": 16,
+              "name": "Kobbie Mainoo",
+              "pos": "M"
+            },
+            {
+              "n": 21,
+              "name": "Eberechi Eze",
+              "pos": "M"
+            },
+            {
+              "n": 11,
+              "name": "Marcus Rashford",
+              "pos": "F"
+            },
+            {
+              "n": 19,
+              "name": "Ollie Watkins",
+              "pos": "F"
+            },
+            {
+              "n": 20,
+              "name": "Noni Madueke",
+              "pos": "F"
+            },
+            {
+              "n": 22,
+              "name": "Ivan Toney",
+              "pos": "F"
+            }
+          ]
+        }
+      }
     },
     "93": {
       "home": "Portugália",
@@ -34579,7 +36004,367 @@
       "pred_yellows": 3,
       "act_score": "0-1",
       "act_corners": 10,
-      "act_yellows": 3
+      "act_yellows": 3,
+      "stats": [
+        {
+          "label": "Labdabirtoklás",
+          "home": "45%",
+          "away": "55%"
+        },
+        {
+          "label": "Várható gól (xG)",
+          "home": "0.58",
+          "away": "1.77"
+        },
+        {
+          "label": "Összes lövés",
+          "home": 10,
+          "away": 15
+        },
+        {
+          "label": "Kaput eltaláló lövés",
+          "home": 2,
+          "away": 6
+        },
+        {
+          "label": "Kapu mellé lőtt lövés",
+          "home": 5,
+          "away": 6
+        },
+        {
+          "label": "Blokkolt lövés",
+          "home": 3,
+          "away": 3
+        },
+        {
+          "label": "Lövés a tizenhatoson belül",
+          "home": 7,
+          "away": 8
+        },
+        {
+          "label": "Lövés a tizenhatoson kívül",
+          "home": 3,
+          "away": 7
+        },
+        {
+          "label": "Szöglet",
+          "home": 3,
+          "away": 7
+        },
+        {
+          "label": "Les",
+          "home": 2,
+          "away": 1
+        },
+        {
+          "label": "Szabálytalanság",
+          "home": 9,
+          "away": 13
+        },
+        {
+          "label": "Sárga lap",
+          "home": 2,
+          "away": 1
+        },
+        {
+          "label": "Kapusvédés",
+          "home": 5,
+          "away": 2
+        },
+        {
+          "label": "Passzok száma",
+          "home": 426,
+          "away": 531
+        },
+        {
+          "label": "Pontos passz",
+          "home": 357,
+          "away": 467
+        },
+        {
+          "label": "Passzpontosság",
+          "home": "84%",
+          "away": "88%"
+        }
+      ],
+      "lineups": {
+        "home": {
+          "formation": null,
+          "coach": "Roberto Martinez",
+          "startXI": [
+            {
+              "n": 1,
+              "name": "Diogo Costa",
+              "pos": "G"
+            },
+            {
+              "n": 20,
+              "name": "João Cancelo",
+              "pos": "D"
+            },
+            {
+              "n": 3,
+              "name": "Rúben Dias",
+              "pos": "D"
+            },
+            {
+              "n": 13,
+              "name": "Renato Veiga",
+              "pos": "D"
+            },
+            {
+              "n": 25,
+              "name": "Nuno Mendes",
+              "pos": "D"
+            },
+            {
+              "n": 23,
+              "name": "Vitinha",
+              "pos": "M"
+            },
+            {
+              "n": 15,
+              "name": "João Neves",
+              "pos": "M"
+            },
+            {
+              "n": 18,
+              "name": "Pedro Neto",
+              "pos": "M"
+            },
+            {
+              "n": 8,
+              "name": "Bruno Fernandes",
+              "pos": "M"
+            },
+            {
+              "n": 11,
+              "name": "João Félix",
+              "pos": "M"
+            },
+            {
+              "n": 7,
+              "name": "Cristiano Ronaldo",
+              "pos": "F"
+            }
+          ],
+          "subs": [
+            {
+              "n": 2,
+              "name": "Nélson Semedo",
+              "pos": "D"
+            },
+            {
+              "n": 5,
+              "name": "Diogo Dalot",
+              "pos": "D"
+            },
+            {
+              "n": 17,
+              "name": "Rafael Leão",
+              "pos": "F"
+            },
+            {
+              "n": 10,
+              "name": "Bernardo Silva",
+              "pos": "M"
+            },
+            {
+              "n": 26,
+              "name": "Francisco Conceição",
+              "pos": "F"
+            },
+            {
+              "n": 12,
+              "name": "José Sá",
+              "pos": "G"
+            },
+            {
+              "n": 22,
+              "name": "Rui Silva",
+              "pos": "G"
+            },
+            {
+              "n": 6,
+              "name": "Matheus Nunes",
+              "pos": "M"
+            },
+            {
+              "n": 14,
+              "name": "Gonçalo Inácio",
+              "pos": "D"
+            },
+            {
+              "n": 4,
+              "name": "Tomás Araújo",
+              "pos": "D"
+            },
+            {
+              "n": 19,
+              "name": "Gonçalo Guedes",
+              "pos": "F"
+            },
+            {
+              "n": 16,
+              "name": "Francisco Trincão",
+              "pos": "F"
+            },
+            {
+              "n": 24,
+              "name": "Samú Costa",
+              "pos": "M"
+            },
+            {
+              "n": 21,
+              "name": "Rúben Neves",
+              "pos": "M"
+            },
+            {
+              "n": 9,
+              "name": "Gonçalo Ramos",
+              "pos": "F"
+            }
+          ]
+        },
+        "away": {
+          "formation": null,
+          "coach": "Luis de la Fuente",
+          "startXI": [
+            {
+              "n": 23,
+              "name": "Unai Simón",
+              "pos": "G"
+            },
+            {
+              "n": 12,
+              "name": "Pedro Porro",
+              "pos": "D"
+            },
+            {
+              "n": 22,
+              "name": "Pau Cubarsí",
+              "pos": "D"
+            },
+            {
+              "n": 14,
+              "name": "Aymeric Laporte",
+              "pos": "D"
+            },
+            {
+              "n": 24,
+              "name": "Marc Cucurella",
+              "pos": "D"
+            },
+            {
+              "n": 16,
+              "name": "Rodri",
+              "pos": "M"
+            },
+            {
+              "n": 20,
+              "name": "Pedri",
+              "pos": "M"
+            },
+            {
+              "n": 19,
+              "name": "Lamine Yamal",
+              "pos": "M"
+            },
+            {
+              "n": 10,
+              "name": "Dani Olmo",
+              "pos": "M"
+            },
+            {
+              "n": 15,
+              "name": "Alex Baena",
+              "pos": "M"
+            },
+            {
+              "n": 21,
+              "name": "Mikel Oyarzabal",
+              "pos": "F"
+            }
+          ],
+          "subs": [
+            {
+              "n": 7,
+              "name": "Ferran Torres",
+              "pos": "F"
+            },
+            {
+              "n": 8,
+              "name": "Fabián Ruiz",
+              "pos": "M"
+            },
+            {
+              "n": 6,
+              "name": "Mikel Merino",
+              "pos": "M"
+            },
+            {
+              "n": 26,
+              "name": "Borja Iglesias",
+              "pos": "F"
+            },
+            {
+              "n": 1,
+              "name": "David Raya",
+              "pos": "G"
+            },
+            {
+              "n": 13,
+              "name": "Joan García",
+              "pos": "G"
+            },
+            {
+              "n": 4,
+              "name": "Eric García",
+              "pos": "D"
+            },
+            {
+              "n": 5,
+              "name": "Marcos Llorente",
+              "pos": "M"
+            },
+            {
+              "n": 2,
+              "name": "Marc Pubill",
+              "pos": "D"
+            },
+            {
+              "n": 3,
+              "name": "Alejandro Grimaldo",
+              "pos": "D"
+            },
+            {
+              "n": 18,
+              "name": "Martín Zubimendi",
+              "pos": "M"
+            },
+            {
+              "n": 17,
+              "name": "Nico Williams",
+              "pos": "F"
+            },
+            {
+              "n": 9,
+              "name": "Pablo Gavi",
+              "pos": "M"
+            },
+            {
+              "n": 25,
+              "name": "Víctor Muñoz",
+              "pos": "F"
+            },
+            {
+              "n": 11,
+              "name": "Yéremy Pino",
+              "pos": "M"
+            }
+          ]
+        }
+      }
     },
     "94": {
       "home": "Egyesült Államok",
@@ -34592,7 +36377,362 @@
       "pred_yellows": 4,
       "act_score": "1-4",
       "act_corners": 8,
-      "act_yellows": 2
+      "act_yellows": 2,
+      "stats": [
+        {
+          "label": "Labdabirtoklás",
+          "home": "56%",
+          "away": "44%"
+        },
+        {
+          "label": "Várható gól (xG)",
+          "home": "0.67",
+          "away": "2.15"
+        },
+        {
+          "label": "Összes lövés",
+          "home": 7,
+          "away": 15
+        },
+        {
+          "label": "Kaput eltaláló lövés",
+          "home": 2,
+          "away": 7
+        },
+        {
+          "label": "Kapu mellé lőtt lövés",
+          "home": 5,
+          "away": 4
+        },
+        {
+          "label": "Blokkolt lövés",
+          "home": 0,
+          "away": 4
+        },
+        {
+          "label": "Lövés a tizenhatoson belül",
+          "home": 5,
+          "away": 10
+        },
+        {
+          "label": "Lövés a tizenhatoson kívül",
+          "home": 2,
+          "away": 5
+        },
+        {
+          "label": "Szöglet",
+          "home": 3,
+          "away": 5
+        },
+        {
+          "label": "Les",
+          "home": 0,
+          "away": 1
+        },
+        {
+          "label": "Szabálytalanság",
+          "home": 11,
+          "away": 9
+        },
+        {
+          "label": "Sárga lap",
+          "home": 2,
+          "away": 0
+        },
+        {
+          "label": "Kapusvédés",
+          "home": 3,
+          "away": 1
+        },
+        {
+          "label": "Passzok száma",
+          "home": 527,
+          "away": 410
+        },
+        {
+          "label": "Pontos passz",
+          "home": 458,
+          "away": 333
+        },
+        {
+          "label": "Passzpontosság",
+          "home": "87%",
+          "away": "81%"
+        }
+      ],
+      "lineups": {
+        "home": {
+          "formation": "4-3-3",
+          "coach": "Mauricio Pochettino",
+          "startXI": [
+            {
+              "n": 24,
+              "name": "Matthew Freese",
+              "pos": "G"
+            },
+            {
+              "n": 16,
+              "name": "Alexander Freeman",
+              "pos": "D"
+            },
+            {
+              "n": 3,
+              "name": "Chris Richards",
+              "pos": "D"
+            },
+            {
+              "n": 13,
+              "name": "Tim Ream",
+              "pos": "D"
+            },
+            {
+              "n": 5,
+              "name": "Antonee Robinson",
+              "pos": "D"
+            },
+            {
+              "n": 8,
+              "name": "Weston McKennie",
+              "pos": "M"
+            },
+            {
+              "n": 4,
+              "name": "Tyler Adams",
+              "pos": "M"
+            },
+            {
+              "n": 17,
+              "name": "Malik Tillman",
+              "pos": "M"
+            },
+            {
+              "n": 2,
+              "name": "Sergiño Dest",
+              "pos": "F"
+            },
+            {
+              "n": 20,
+              "name": "Folarin Balogun",
+              "pos": "F"
+            },
+            {
+              "n": 10,
+              "name": "Christian Pulišić",
+              "pos": "F"
+            }
+          ],
+          "subs": [
+            {
+              "n": 7,
+              "name": "Giovanni Reyna",
+              "pos": "M"
+            },
+            {
+              "n": 14,
+              "name": "Sebastian Berhalter",
+              "pos": "M"
+            },
+            {
+              "n": 9,
+              "name": "Ricardo Pepi",
+              "pos": "F"
+            },
+            {
+              "n": 18,
+              "name": "Maximilian Arfsten",
+              "pos": "M"
+            },
+            {
+              "n": 19,
+              "name": "Haji Wright",
+              "pos": "F"
+            },
+            {
+              "n": 1,
+              "name": "Matt Turner",
+              "pos": "G"
+            },
+            {
+              "n": 25,
+              "name": "Chris Brady",
+              "pos": "G"
+            },
+            {
+              "n": 12,
+              "name": "Miles Robinson",
+              "pos": "D"
+            },
+            {
+              "n": 22,
+              "name": "Mark McKenzie",
+              "pos": "D"
+            },
+            {
+              "n": 6,
+              "name": "Auston Trusty",
+              "pos": "D"
+            },
+            {
+              "n": 23,
+              "name": "Joe Scally",
+              "pos": "D"
+            },
+            {
+              "n": 26,
+              "name": "Alex Zendejas",
+              "pos": "F"
+            },
+            {
+              "n": 21,
+              "name": "Timothy Weah",
+              "pos": "F"
+            },
+            {
+              "n": 11,
+              "name": "Brenden Aaronson",
+              "pos": "M"
+            }
+          ]
+        },
+        "away": {
+          "formation": "4-2-3-1",
+          "coach": "Rudi Garcia",
+          "startXI": [
+            {
+              "n": 1,
+              "name": "Thibaut Courtois",
+              "pos": "G"
+            },
+            {
+              "n": 21,
+              "name": "Timothy Castagne",
+              "pos": "D"
+            },
+            {
+              "n": 25,
+              "name": "Nathan Ngoy",
+              "pos": "D"
+            },
+            {
+              "n": 4,
+              "name": "Brandon Mechele",
+              "pos": "D"
+            },
+            {
+              "n": 5,
+              "name": "Maxim De Cuyper",
+              "pos": "D"
+            },
+            {
+              "n": 24,
+              "name": "Amadou Onana",
+              "pos": "M"
+            },
+            {
+              "n": 23,
+              "name": "Nicolas Raskin",
+              "pos": "M"
+            },
+            {
+              "n": 14,
+              "name": "Dodi Lukebakio",
+              "pos": "M"
+            },
+            {
+              "n": 8,
+              "name": "Youri Tielemans",
+              "pos": "M"
+            },
+            {
+              "n": 10,
+              "name": "Leandro Trossard",
+              "pos": "M"
+            },
+            {
+              "n": 17,
+              "name": "Charles De Ketelaere",
+              "pos": "F"
+            }
+          ],
+          "subs": [
+            {
+              "n": 20,
+              "name": "Hans Vanaken",
+              "pos": "M"
+            },
+            {
+              "n": 11,
+              "name": "Jérémy Doku",
+              "pos": "F"
+            },
+            {
+              "n": 9,
+              "name": "Romelu Lukaku",
+              "pos": "F"
+            },
+            {
+              "n": 22,
+              "name": "Alexis Saelemaekers",
+              "pos": "F"
+            },
+            {
+              "n": 6,
+              "name": "Axel Witsel",
+              "pos": "M"
+            },
+            {
+              "n": 13,
+              "name": "Mike Penders",
+              "pos": "G"
+            },
+            {
+              "n": 12,
+              "name": "Senne Lammens",
+              "pos": "G"
+            },
+            {
+              "n": 18,
+              "name": "Joaquin Seys",
+              "pos": "D"
+            },
+            {
+              "n": 3,
+              "name": "Arthur Theate",
+              "pos": "D"
+            },
+            {
+              "n": 16,
+              "name": "Koni De Winter",
+              "pos": "D"
+            },
+            {
+              "n": 2,
+              "name": "Zeno Debast",
+              "pos": "D"
+            },
+            {
+              "n": 15,
+              "name": "Thomas Meunier",
+              "pos": "D"
+            },
+            {
+              "n": 19,
+              "name": "Diego Moreira",
+              "pos": "F"
+            },
+            {
+              "n": 7,
+              "name": "Kevin De Bruyne",
+              "pos": "M"
+            },
+            {
+              "n": 26,
+              "name": "Matías Fernández-Pardo",
+              "pos": "F"
+            }
+          ]
+        }
+      }
     },
     "95": {
       "home": "Argentína",
@@ -34605,7 +36745,357 @@
       "pred_yellows": 3,
       "act_score": "3-2",
       "act_corners": 7,
-      "act_yellows": 3
+      "act_yellows": 3,
+      "stats": [
+        {
+          "label": "Labdabirtoklás",
+          "home": "64%",
+          "away": "36%"
+        },
+        {
+          "label": "Várható gól (xG)",
+          "home": "2.90",
+          "away": "0.97"
+        },
+        {
+          "label": "Összes lövés",
+          "home": 19,
+          "away": 5
+        },
+        {
+          "label": "Kaput eltaláló lövés",
+          "home": 7,
+          "away": 2
+        },
+        {
+          "label": "Kapu mellé lőtt lövés",
+          "home": 8,
+          "away": 3
+        },
+        {
+          "label": "Blokkolt lövés",
+          "home": 4,
+          "away": 1
+        },
+        {
+          "label": "Lövés a tizenhatoson belül",
+          "home": 11,
+          "away": 4
+        },
+        {
+          "label": "Lövés a tizenhatoson kívül",
+          "home": 8,
+          "away": 1
+        },
+        {
+          "label": "Szöglet",
+          "home": 6,
+          "away": 1
+        },
+        {
+          "label": "Les",
+          "home": 3,
+          "away": 0
+        },
+        {
+          "label": "Szabálytalanság",
+          "home": 13,
+          "away": 11
+        },
+        {
+          "label": "Sárga lap",
+          "home": 0,
+          "away": 3
+        },
+        {
+          "label": "Kapusvédés",
+          "home": 0,
+          "away": 4
+        },
+        {
+          "label": "Passzok száma",
+          "home": 602,
+          "away": 348
+        },
+        {
+          "label": "Pontos passz",
+          "home": 540,
+          "away": 289
+        },
+        {
+          "label": "Passzpontosság",
+          "home": "90%",
+          "away": "83%"
+        }
+      ],
+      "lineups": {
+        "home": {
+          "formation": null,
+          "coach": "Lionel Scaloni",
+          "startXI": [
+            {
+              "n": 23,
+              "name": "Emiliano Martínez",
+              "pos": "G"
+            },
+            {
+              "n": 26,
+              "name": "Nahuel Molina",
+              "pos": "D"
+            },
+            {
+              "n": 13,
+              "name": "Cristian Romero",
+              "pos": "D"
+            },
+            {
+              "n": 6,
+              "name": "Lisandro Martínez",
+              "pos": "D"
+            },
+            {
+              "n": 3,
+              "name": "Nicolás Tagliafico",
+              "pos": "D"
+            },
+            {
+              "n": 5,
+              "name": "Leandro Paredes",
+              "pos": "M"
+            },
+            {
+              "n": 7,
+              "name": "Rodrigo De Paul",
+              "pos": "M"
+            },
+            {
+              "n": 20,
+              "name": "Alexis Mac Allister",
+              "pos": "M"
+            },
+            {
+              "n": 24,
+              "name": "Enzo Fernández",
+              "pos": "M"
+            },
+            {
+              "n": 10,
+              "name": "Lionel Messi",
+              "pos": "F"
+            },
+            {
+              "n": 9,
+              "name": "Julián Alvarez",
+              "pos": "F"
+            }
+          ],
+          "subs": [
+            {
+              "n": 15,
+              "name": "Nicolás González",
+              "pos": "F"
+            },
+            {
+              "n": 22,
+              "name": "Lautaro Martínez",
+              "pos": "F"
+            },
+            {
+              "n": 4,
+              "name": "Gonzalo Montiel",
+              "pos": "D"
+            },
+            {
+              "n": 19,
+              "name": "Nicolás Otamendi",
+              "pos": "D"
+            },
+            {
+              "n": 25,
+              "name": "Facundo Medina",
+              "pos": "D"
+            },
+            {
+              "n": 12,
+              "name": "Gerónimo Rulli",
+              "pos": "G"
+            },
+            {
+              "n": 1,
+              "name": "Juan Musso",
+              "pos": "G"
+            },
+            {
+              "n": 2,
+              "name": "Marcos Senesi",
+              "pos": "D"
+            },
+            {
+              "n": 8,
+              "name": "Valentín Barco",
+              "pos": "M"
+            },
+            {
+              "n": 11,
+              "name": "Giovani Lo Celso",
+              "pos": "M"
+            },
+            {
+              "n": 14,
+              "name": "Exequiel Palacios",
+              "pos": "M"
+            },
+            {
+              "n": 16,
+              "name": "Thiago Almada",
+              "pos": "M"
+            },
+            {
+              "n": 17,
+              "name": "Giuliano Simeone",
+              "pos": "F"
+            },
+            {
+              "n": 18,
+              "name": "Nico Paz",
+              "pos": "F"
+            },
+            {
+              "n": 21,
+              "name": "José Manuel López",
+              "pos": "F"
+            }
+          ]
+        },
+        "away": {
+          "formation": null,
+          "coach": "Hossam Hassan",
+          "startXI": [
+            {
+              "n": 23,
+              "name": "Mostafa Shobeir",
+              "pos": "G"
+            },
+            {
+              "n": 3,
+              "name": "Mohamed Hany",
+              "pos": "D"
+            },
+            {
+              "n": 2,
+              "name": "Yasser Ibrahim",
+              "pos": "D"
+            },
+            {
+              "n": 5,
+              "name": "Rami Rabia",
+              "pos": "D"
+            },
+            {
+              "n": 15,
+              "name": "Karim Hafez",
+              "pos": "D"
+            },
+            {
+              "n": 12,
+              "name": "Haissem Hassan",
+              "pos": "M"
+            },
+            {
+              "n": 17,
+              "name": "Mohanad Lasheen",
+              "pos": "M"
+            },
+            {
+              "n": 19,
+              "name": "Marwan Attia",
+              "pos": "M"
+            },
+            {
+              "n": 8,
+              "name": "Emam Ashour",
+              "pos": "M"
+            },
+            {
+              "n": 10,
+              "name": "Mohamed Salah",
+              "pos": "F"
+            },
+            {
+              "n": 11,
+              "name": "Mostafa Ziko",
+              "pos": "F"
+            }
+          ],
+          "subs": [
+            {
+              "n": 14,
+              "name": "Hamdy Fathy",
+              "pos": "M"
+            },
+            {
+              "n": 7,
+              "name": "Mahmoud Trézéguet",
+              "pos": "F"
+            },
+            {
+              "n": 22,
+              "name": "Omar Marmoush",
+              "pos": "F"
+            },
+            {
+              "n": 25,
+              "name": "Zizo",
+              "pos": "F"
+            },
+            {
+              "n": 1,
+              "name": "Mohamed El-Shenawy",
+              "pos": "G"
+            },
+            {
+              "n": 26,
+              "name": "Mohamed Alaa",
+              "pos": "G"
+            },
+            {
+              "n": 16,
+              "name": "Mahdi Soliman",
+              "pos": "G"
+            },
+            {
+              "n": 24,
+              "name": "Tarek Alaa",
+              "pos": "D"
+            },
+            {
+              "n": 4,
+              "name": "Hossam Abdelmaguid",
+              "pos": "D"
+            },
+            {
+              "n": 20,
+              "name": "Ibrahim Adel",
+              "pos": "F"
+            },
+            {
+              "n": 21,
+              "name": "Mahmoud Saber",
+              "pos": "M"
+            },
+            {
+              "n": 18,
+              "name": "Nabil Donga",
+              "pos": "M"
+            },
+            {
+              "n": 9,
+              "name": "Hamza Abdelkarim",
+              "pos": "F"
+            }
+          ]
+        }
+      }
     },
     "96": {
       "home": "Svájc",
@@ -34617,7 +37107,347 @@
       "pred_corners": 10,
       "pred_yellows": 4,
       "act_score": "0-0",
-      "act_corners": 5
+      "act_corners": 5,
+      "stats": [
+        {
+          "label": "Labdabirtoklás",
+          "home": "49%",
+          "away": "51%"
+        },
+        {
+          "label": "Várható gól (xG)",
+          "home": "0.06",
+          "away": "0.25"
+        },
+        {
+          "label": "Összes lövés",
+          "home": 2,
+          "away": 5
+        },
+        {
+          "label": "Kaput eltaláló lövés",
+          "home": 2,
+          "away": 1
+        },
+        {
+          "label": "Kapu mellé lőtt lövés",
+          "home": 0,
+          "away": 1
+        },
+        {
+          "label": "Blokkolt lövés",
+          "home": 0,
+          "away": 3
+        },
+        {
+          "label": "Lövés a tizenhatoson belül",
+          "home": 2,
+          "away": 3
+        },
+        {
+          "label": "Lövés a tizenhatoson kívül",
+          "home": 0,
+          "away": 2
+        },
+        {
+          "label": "Szöglet",
+          "home": 1,
+          "away": 4
+        },
+        {
+          "label": "Les",
+          "home": 1,
+          "away": 1
+        },
+        {
+          "label": "Szabálytalanság",
+          "home": 6,
+          "away": 6
+        },
+        {
+          "label": "Kapusvédés",
+          "home": 1,
+          "away": 2
+        },
+        {
+          "label": "Passzok száma",
+          "home": 248,
+          "away": 256
+        },
+        {
+          "label": "Pontos passz",
+          "home": 217,
+          "away": 218
+        },
+        {
+          "label": "Passzpontosság",
+          "home": "88%",
+          "away": "85%"
+        }
+      ],
+      "lineups": {
+        "home": {
+          "formation": "4-2-3-1",
+          "coach": "Murat Yakin",
+          "startXI": [
+            {
+              "n": 1,
+              "name": "Gregor Kobel",
+              "pos": "G"
+            },
+            {
+              "n": 6,
+              "name": "Denis Zakaria",
+              "pos": "D"
+            },
+            {
+              "n": 4,
+              "name": "Nico Elvedi",
+              "pos": "D"
+            },
+            {
+              "n": 5,
+              "name": "Manuel Akanji",
+              "pos": "D"
+            },
+            {
+              "n": 13,
+              "name": "Ricardo Rodríguez",
+              "pos": "D"
+            },
+            {
+              "n": 8,
+              "name": "Remo Freuler",
+              "pos": "M"
+            },
+            {
+              "n": 10,
+              "name": "Granit Xhaka",
+              "pos": "M"
+            },
+            {
+              "n": 22,
+              "name": "Fabian Rieder",
+              "pos": "M"
+            },
+            {
+              "n": 14,
+              "name": "Ardon Jashari",
+              "pos": "M"
+            },
+            {
+              "n": 11,
+              "name": "Dan Ndoye",
+              "pos": "M"
+            },
+            {
+              "n": 7,
+              "name": "Breel Embolo",
+              "pos": "F"
+            }
+          ],
+          "subs": [
+            {
+              "n": 12,
+              "name": "Yvon Mvogo",
+              "pos": "G"
+            },
+            {
+              "n": 21,
+              "name": "Marvin Keller",
+              "pos": "G"
+            },
+            {
+              "n": 18,
+              "name": "Eray Cömert",
+              "pos": "D"
+            },
+            {
+              "n": 24,
+              "name": "Aurèle Amenda",
+              "pos": "D"
+            },
+            {
+              "n": 2,
+              "name": "Miro Muheim",
+              "pos": "D"
+            },
+            {
+              "n": 3,
+              "name": "Silvan Widmer",
+              "pos": "D"
+            },
+            {
+              "n": 15,
+              "name": "Djibril Sow",
+              "pos": "M"
+            },
+            {
+              "n": 16,
+              "name": "Christian Fassnacht",
+              "pos": "M"
+            },
+            {
+              "n": 17,
+              "name": "Rubén Vargas",
+              "pos": "M"
+            },
+            {
+              "n": 19,
+              "name": "Noah Okafor",
+              "pos": "F"
+            },
+            {
+              "n": 23,
+              "name": "Zeki Amdouni",
+              "pos": "F"
+            },
+            {
+              "n": 26,
+              "name": "Cédric Itten",
+              "pos": "F"
+            }
+          ]
+        },
+        "away": {
+          "formation": "4-4-1-1",
+          "coach": "Nestor Lorenzo",
+          "startXI": [
+            {
+              "n": 12,
+              "name": "Camilo Vargas",
+              "pos": "G"
+            },
+            {
+              "n": 2,
+              "name": "Daniel Muñoz",
+              "pos": "D"
+            },
+            {
+              "n": 23,
+              "name": "Davinson Sánchez",
+              "pos": "D"
+            },
+            {
+              "n": 3,
+              "name": "Jhon Lucumí",
+              "pos": "D"
+            },
+            {
+              "n": 17,
+              "name": "Johan Mojica",
+              "pos": "D"
+            },
+            {
+              "n": 11,
+              "name": "Jhon Arias",
+              "pos": "M"
+            },
+            {
+              "n": 16,
+              "name": "Jefferson Lerma",
+              "pos": "M"
+            },
+            {
+              "n": 14,
+              "name": "Gustavo Puerta",
+              "pos": "M"
+            },
+            {
+              "n": 7,
+              "name": "Luis Díaz",
+              "pos": "M"
+            },
+            {
+              "n": 10,
+              "name": "James Rodríguez",
+              "pos": "F"
+            },
+            {
+              "n": 25,
+              "name": "Luis Javier Suárez",
+              "pos": "F"
+            }
+          ],
+          "subs": [
+            {
+              "n": 1,
+              "name": "David Ospina",
+              "pos": "G"
+            },
+            {
+              "n": 24,
+              "name": "Álvaro Montero",
+              "pos": "G"
+            },
+            {
+              "n": 4,
+              "name": "Santiago Arias",
+              "pos": "D"
+            },
+            {
+              "n": 13,
+              "name": "Yerry Mina",
+              "pos": "D"
+            },
+            {
+              "n": 18,
+              "name": "Willer Ditta",
+              "pos": "D"
+            },
+            {
+              "n": 22,
+              "name": "Deiver Machado",
+              "pos": "D"
+            },
+            {
+              "n": 5,
+              "name": "Kevin Castaño",
+              "pos": "M"
+            },
+            {
+              "n": 6,
+              "name": "Richard Ríos",
+              "pos": "M"
+            },
+            {
+              "n": 8,
+              "name": "Jorge Carrascal",
+              "pos": "M"
+            },
+            {
+              "n": 15,
+              "name": "Juan Portilla",
+              "pos": "M"
+            },
+            {
+              "n": 20,
+              "name": "Juan Fernando Quintero",
+              "pos": "M"
+            },
+            {
+              "n": 26,
+              "name": "Andrés Gómez",
+              "pos": "F"
+            },
+            {
+              "n": 21,
+              "name": "Jaminton Campaz",
+              "pos": "M"
+            },
+            {
+              "n": 9,
+              "name": "Jhon Córdoba",
+              "pos": "F"
+            },
+            {
+              "n": 19,
+              "name": "Cucho Hernández",
+              "pos": "F"
+            }
+          ]
+        }
+      }
     },
     "97": {
       "home": "Franciaország",
