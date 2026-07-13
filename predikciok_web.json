@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08 09:24 (magyar idő)",
+  "generated_at": "2026-07-13 09:49 (magyar idő)",
   "rows": [
     {
       "Meccs": 1,
@@ -1929,16 +1929,16 @@
       "Hazai csapat": "Franciaország",
       "Vendég csapat": "Marokkó",
       "Eredmény (tipp)": "2-0",
-      "Eredmény (tény)": "",
-      "Találat": "",
+      "Eredmény (tény)": "2-0",
+      "Találat": "🎯 Pontos",
       "Győztes (tipp)": "Hazai",
       "Szögletek (tipp)": 10,
-      "Szögletek (tény)": "",
+      "Szögletek (tény)": 10,
       "Sárga lapok (tipp)": 3,
-      "Sárga lapok (tény)": "",
+      "Sárga lapok (tény)": 1,
       "Esély H/D/V (%)": "71 / 20 / 9",
-      "Státusz": "Előrejelzés",
-      "Pontosság (%)": "",
+      "Státusz": "Lejátszott",
+      "Pontosság (%)": "50%",
       "__mid": 97
     },
     {
@@ -1949,16 +1949,16 @@
       "Hazai csapat": "Spanyolország",
       "Vendég csapat": "Belgium",
       "Eredmény (tipp)": "2-0",
-      "Eredmény (tény)": "",
-      "Találat": "",
+      "Eredmény (tény)": "2-1",
+      "Találat": "✅ Kimenetel",
       "Győztes (tipp)": "Hazai",
       "Szögletek (tipp)": 10,
-      "Szögletek (tény)": "",
+      "Szögletek (tény)": 6,
       "Sárga lapok (tipp)": 3,
-      "Sárga lapok (tény)": "",
+      "Sárga lapok (tény)": 4,
       "Esély H/D/V (%)": "71 / 20 / 9",
-      "Státusz": "Előrejelzés",
-      "Pontosság (%)": "",
+      "Státusz": "Lejátszott",
+      "Pontosság (%)": "25%",
       "__mid": 98
     },
     {
@@ -1969,16 +1969,16 @@
       "Hazai csapat": "Norvégia",
       "Vendég csapat": "Anglia",
       "Eredmény (tipp)": "0-1",
-      "Eredmény (tény)": "",
-      "Találat": "",
+      "Eredmény (tény)": "1-2",
+      "Találat": "✅ Kimenetel",
       "Győztes (tipp)": "Vendég",
       "Szögletek (tipp)": 10,
-      "Szögletek (tény)": "",
+      "Szögletek (tény)": 11,
       "Sárga lapok (tipp)": 3,
-      "Sárga lapok (tény)": "",
+      "Sárga lapok (tény)": 1,
       "Esély H/D/V (%)": "21 / 26 / 53",
-      "Státusz": "Előrejelzés",
-      "Pontosság (%)": "",
+      "Státusz": "Lejátszott",
+      "Pontosság (%)": "25%",
       "__mid": 99
     },
     {
@@ -1989,16 +1989,16 @@
       "Hazai csapat": "Argentína",
       "Vendég csapat": "Svájc",
       "Eredmény (tipp)": "2-0",
-      "Eredmény (tény)": "",
-      "Találat": "",
+      "Eredmény (tény)": "3-1",
+      "Találat": "✅ Kimenetel",
       "Győztes (tipp)": "Hazai",
       "Szögletek (tipp)": 10,
-      "Szögletek (tény)": "",
+      "Szögletek (tény)": 10,
       "Sárga lapok (tipp)": 3,
-      "Sárga lapok (tény)": "",
+      "Sárga lapok (tény)": 5,
       "Esély H/D/V (%)": "66 / 22 / 12",
-      "Státusz": "Előrejelzés",
-      "Pontosság (%)": "",
+      "Státusz": "Lejátszott",
+      "Pontosság (%)": "25%",
       "__mid": 100
     },
     {
@@ -37453,41 +37453,1468 @@
       "home": "Franciaország",
       "away": "Marokkó",
       "date": "2026-07-09 22:00",
-      "played": false,
+      "played": true,
       "pred_score": "2-0",
       "pred_winner": "Hazai",
       "pred_corners": 10,
-      "pred_yellows": 3
+      "pred_yellows": 3,
+      "act_score": "2-0",
+      "act_corners": 10,
+      "act_yellows": 1,
+      "stats": [
+        {
+          "label": "Labdabirtoklás",
+          "home": "48%",
+          "away": "52%"
+        },
+        {
+          "label": "Várható gól (xG)",
+          "home": "3.69",
+          "away": "0.14"
+        },
+        {
+          "label": "Összes lövés",
+          "home": 22,
+          "away": 5
+        },
+        {
+          "label": "Kaput eltaláló lövés",
+          "home": 8,
+          "away": 1
+        },
+        {
+          "label": "Kapu mellé lőtt lövés",
+          "home": 9,
+          "away": 3
+        },
+        {
+          "label": "Blokkolt lövés",
+          "home": 5,
+          "away": 1
+        },
+        {
+          "label": "Lövés a tizenhatoson belül",
+          "home": 12,
+          "away": 1
+        },
+        {
+          "label": "Lövés a tizenhatoson kívül",
+          "home": 10,
+          "away": 4
+        },
+        {
+          "label": "Szöglet",
+          "home": 5,
+          "away": 5
+        },
+        {
+          "label": "Szabálytalanság",
+          "home": 10,
+          "away": 13
+        },
+        {
+          "label": "Sárga lap",
+          "home": 0,
+          "away": 1
+        },
+        {
+          "label": "Kapusvédés",
+          "home": 1,
+          "away": 6
+        },
+        {
+          "label": "Passzok száma",
+          "home": 486,
+          "away": 526
+        },
+        {
+          "label": "Pontos passz",
+          "home": 432,
+          "away": 452
+        },
+        {
+          "label": "Passzpontosság",
+          "home": "89%",
+          "away": "86%"
+        }
+      ],
+      "lineups": {
+        "home": {
+          "formation": "4-2-3-1",
+          "coach": "Didier Deschamps",
+          "startXI": [
+            {
+              "n": 16,
+              "name": "M. Maignan",
+              "pos": "G"
+            },
+            {
+              "n": 5,
+              "name": "J. Kounde",
+              "pos": "D"
+            },
+            {
+              "n": 4,
+              "name": "D. Upamecano",
+              "pos": "D"
+            },
+            {
+              "n": 17,
+              "name": "W. Saliba",
+              "pos": "D"
+            },
+            {
+              "n": 3,
+              "name": "L. Digne",
+              "pos": "D"
+            },
+            {
+              "n": 6,
+              "name": "M. Kone",
+              "pos": "M"
+            },
+            {
+              "n": 14,
+              "name": "A. Rabiot",
+              "pos": "M"
+            },
+            {
+              "n": 7,
+              "name": "O. Dembele",
+              "pos": "M"
+            },
+            {
+              "n": 11,
+              "name": "M. Olise",
+              "pos": "M"
+            },
+            {
+              "n": 20,
+              "name": "D. Doue",
+              "pos": "M"
+            },
+            {
+              "n": 10,
+              "name": "K. Mbappe",
+              "pos": "F"
+            }
+          ],
+          "subs": [
+            {
+              "n": 1,
+              "name": "B. Samba",
+              "pos": "G"
+            },
+            {
+              "n": 23,
+              "name": "R. Risser",
+              "pos": "G"
+            },
+            {
+              "n": 15,
+              "name": "I. Konate",
+              "pos": "D"
+            },
+            {
+              "n": 8,
+              "name": "A. Tchouameni",
+              "pos": "M"
+            },
+            {
+              "n": 26,
+              "name": "M. Lacroix",
+              "pos": "D"
+            },
+            {
+              "n": 2,
+              "name": "M. Gusto",
+              "pos": "D"
+            },
+            {
+              "n": 25,
+              "name": "M. Akliouche",
+              "pos": "M"
+            },
+            {
+              "n": 18,
+              "name": "W. Zaire-Emery",
+              "pos": "M"
+            },
+            {
+              "n": 13,
+              "name": "N. Kante",
+              "pos": "M"
+            },
+            {
+              "n": 21,
+              "name": "L. Hernandez",
+              "pos": "D"
+            },
+            {
+              "n": 9,
+              "name": "M. Thuram",
+              "pos": "F"
+            },
+            {
+              "n": 19,
+              "name": "T. Hernandez",
+              "pos": "D"
+            },
+            {
+              "n": 22,
+              "name": "J. Mateta",
+              "pos": "F"
+            },
+            {
+              "n": 24,
+              "name": "R. Cherki",
+              "pos": "M"
+            },
+            {
+              "n": 12,
+              "name": "B. Barcola",
+              "pos": "F"
+            }
+          ]
+        },
+        "away": {
+          "formation": "4-2-3-1",
+          "coach": "Mohamed Ouahbi",
+          "startXI": [
+            {
+              "n": 1,
+              "name": "Bono",
+              "pos": "G"
+            },
+            {
+              "n": 2,
+              "name": "A. Hakimi",
+              "pos": "D"
+            },
+            {
+              "n": 14,
+              "name": "I. Diop",
+              "pos": "D"
+            },
+            {
+              "n": 3,
+              "name": "N. Mazraoui",
+              "pos": "D"
+            },
+            {
+              "n": 26,
+              "name": "A. Salah-Eddine",
+              "pos": "D"
+            },
+            {
+              "n": 6,
+              "name": "A. Bouaddi",
+              "pos": "M"
+            },
+            {
+              "n": 24,
+              "name": "N. El Aynaoui",
+              "pos": "M"
+            },
+            {
+              "n": 10,
+              "name": "B. Diaz",
+              "pos": "M"
+            },
+            {
+              "n": 8,
+              "name": "A. Ounahi",
+              "pos": "M"
+            },
+            {
+              "n": 7,
+              "name": "C. Talbi",
+              "pos": "M"
+            },
+            {
+              "n": 23,
+              "name": "B. El Khannouss",
+              "pos": "F"
+            }
+          ],
+          "subs": [
+            {
+              "n": 22,
+              "name": "A. Tagnaouti",
+              "pos": "G"
+            },
+            {
+              "n": 12,
+              "name": "Munir",
+              "pos": "G"
+            },
+            {
+              "n": 4,
+              "name": "S. Amrabat",
+              "pos": "M"
+            },
+            {
+              "n": 20,
+              "name": "A. El Kaabi",
+              "pos": "F"
+            },
+            {
+              "n": 19,
+              "name": "Y. Belammari",
+              "pos": "D"
+            },
+            {
+              "n": 11,
+              "name": "I. Saibari",
+              "pos": "M"
+            },
+            {
+              "n": 17,
+              "name": "A. Sbai",
+              "pos": "F"
+            },
+            {
+              "n": 15,
+              "name": "S. El Mourabet",
+              "pos": "M"
+            },
+            {
+              "n": 16,
+              "name": "G. Yassine",
+              "pos": "F"
+            },
+            {
+              "n": 5,
+              "name": "M. Saadane",
+              "pos": "D"
+            },
+            {
+              "n": 9,
+              "name": "S. Rahimi",
+              "pos": "F"
+            },
+            {
+              "n": 18,
+              "name": "C. Riad",
+              "pos": "D"
+            },
+            {
+              "n": 25,
+              "name": "R. Halhal",
+              "pos": "D"
+            },
+            {
+              "n": 21,
+              "name": "A. Amaimouni",
+              "pos": "F"
+            },
+            {
+              "n": 13,
+              "name": "Z. El Ouahdi",
+              "pos": "D"
+            }
+          ]
+        }
+      }
     },
     "98": {
       "home": "Spanyolország",
       "away": "Belgium",
       "date": "2026-07-10 21:00",
-      "played": false,
+      "played": true,
       "pred_score": "2-0",
       "pred_winner": "Hazai",
       "pred_corners": 10,
-      "pred_yellows": 3
+      "pred_yellows": 3,
+      "act_score": "2-1",
+      "act_corners": 6,
+      "act_yellows": 4,
+      "stats": [
+        {
+          "label": "Labdabirtoklás",
+          "home": "68%",
+          "away": "32%"
+        },
+        {
+          "label": "Várható gól (xG)",
+          "home": "2.08",
+          "away": "0.37"
+        },
+        {
+          "label": "Összes lövés",
+          "home": 17,
+          "away": 5
+        },
+        {
+          "label": "Kaput eltaláló lövés",
+          "home": 8,
+          "away": 2
+        },
+        {
+          "label": "Kapu mellé lőtt lövés",
+          "home": 4,
+          "away": 1
+        },
+        {
+          "label": "Blokkolt lövés",
+          "home": 5,
+          "away": 2
+        },
+        {
+          "label": "Lövés a tizenhatoson belül",
+          "home": 10,
+          "away": 4
+        },
+        {
+          "label": "Lövés a tizenhatoson kívül",
+          "home": 7,
+          "away": 1
+        },
+        {
+          "label": "Szöglet",
+          "home": 5,
+          "away": 1
+        },
+        {
+          "label": "Les",
+          "home": 3,
+          "away": 1
+        },
+        {
+          "label": "Szabálytalanság",
+          "home": 13,
+          "away": 18
+        },
+        {
+          "label": "Sárga lap",
+          "home": 2,
+          "away": 2
+        },
+        {
+          "label": "Kapusvédés",
+          "home": 1,
+          "away": 6
+        },
+        {
+          "label": "Passzok száma",
+          "home": 665,
+          "away": 314
+        },
+        {
+          "label": "Pontos passz",
+          "home": 598,
+          "away": 244
+        },
+        {
+          "label": "Passzpontosság",
+          "home": "90%",
+          "away": "78%"
+        }
+      ],
+      "lineups": {
+        "home": {
+          "formation": "4-2-3-1",
+          "coach": "Luis de la Fuente",
+          "startXI": [
+            {
+              "n": 23,
+              "name": "U. Simon",
+              "pos": "G"
+            },
+            {
+              "n": 12,
+              "name": "P. Porro",
+              "pos": "D"
+            },
+            {
+              "n": 22,
+              "name": "P. Cubarsi",
+              "pos": "D"
+            },
+            {
+              "n": 14,
+              "name": "A. Laporte",
+              "pos": "D"
+            },
+            {
+              "n": 24,
+              "name": "M. Cucurella",
+              "pos": "D"
+            },
+            {
+              "n": 16,
+              "name": "Rodri",
+              "pos": "M"
+            },
+            {
+              "n": 8,
+              "name": "F. Ruiz",
+              "pos": "M"
+            },
+            {
+              "n": 19,
+              "name": "Lamine Yamal",
+              "pos": "M"
+            },
+            {
+              "n": 10,
+              "name": "D. Olmo",
+              "pos": "M"
+            },
+            {
+              "n": 15,
+              "name": "A. Baena",
+              "pos": "M"
+            },
+            {
+              "n": 21,
+              "name": "M. Oyarzabal",
+              "pos": "F"
+            }
+          ],
+          "subs": [
+            {
+              "n": 1,
+              "name": "D. Raya",
+              "pos": "G"
+            },
+            {
+              "n": 13,
+              "name": "J. Garcia",
+              "pos": "G"
+            },
+            {
+              "n": 5,
+              "name": "M. Llorente",
+              "pos": "M"
+            },
+            {
+              "n": 7,
+              "name": "F. Torres",
+              "pos": "F"
+            },
+            {
+              "n": 18,
+              "name": "M. Zubimendi",
+              "pos": "M"
+            },
+            {
+              "n": 20,
+              "name": "Pedri",
+              "pos": "M"
+            },
+            {
+              "n": 9,
+              "name": "Gavi",
+              "pos": "M"
+            },
+            {
+              "n": 3,
+              "name": "A. Grimaldo",
+              "pos": "D"
+            },
+            {
+              "n": 26,
+              "name": "B. Iglesias",
+              "pos": "F"
+            },
+            {
+              "n": 6,
+              "name": "M. Merino",
+              "pos": "M"
+            },
+            {
+              "n": 4,
+              "name": "E. Garcia",
+              "pos": "D"
+            },
+            {
+              "n": 11,
+              "name": "Y. Pino",
+              "pos": "M"
+            },
+            {
+              "n": 17,
+              "name": "N. Williams",
+              "pos": "F"
+            },
+            {
+              "n": 25,
+              "name": "V. Munoz",
+              "pos": "F"
+            },
+            {
+              "n": 2,
+              "name": "M. Pubill",
+              "pos": "D"
+            }
+          ]
+        },
+        "away": {
+          "formation": "4-2-3-1",
+          "coach": "Rudi Garcia",
+          "startXI": [
+            {
+              "n": 1,
+              "name": "T. Courtois",
+              "pos": "G"
+            },
+            {
+              "n": 21,
+              "name": "T. Castagne",
+              "pos": "D"
+            },
+            {
+              "n": 25,
+              "name": "N. Ngoy",
+              "pos": "D"
+            },
+            {
+              "n": 4,
+              "name": "B. Mechele",
+              "pos": "D"
+            },
+            {
+              "n": 5,
+              "name": "M. De Cuyper",
+              "pos": "D"
+            },
+            {
+              "n": 20,
+              "name": "H. Vanaken",
+              "pos": "M"
+            },
+            {
+              "n": 23,
+              "name": "N. Raskin",
+              "pos": "M"
+            },
+            {
+              "n": 10,
+              "name": "L. Trossard",
+              "pos": "M"
+            },
+            {
+              "n": 7,
+              "name": "K. De Bruyne",
+              "pos": "M"
+            },
+            {
+              "n": 11,
+              "name": "J. Doku",
+              "pos": "M"
+            },
+            {
+              "n": 17,
+              "name": "C. De Ketelaere",
+              "pos": "F"
+            }
+          ],
+          "subs": [
+            {
+              "n": 12,
+              "name": "S. Lammens",
+              "pos": "G"
+            },
+            {
+              "n": 13,
+              "name": "M. Penders",
+              "pos": "G"
+            },
+            {
+              "n": 6,
+              "name": "A. Witsel",
+              "pos": "M"
+            },
+            {
+              "n": 9,
+              "name": "R. Lukaku",
+              "pos": "F"
+            },
+            {
+              "n": 22,
+              "name": "A. Saelemaekers",
+              "pos": "F"
+            },
+            {
+              "n": 3,
+              "name": "A. Theate",
+              "pos": "D"
+            },
+            {
+              "n": 26,
+              "name": "M. Fernandez-Pardo",
+              "pos": "F"
+            },
+            {
+              "n": 19,
+              "name": "D. Moreira",
+              "pos": "F"
+            },
+            {
+              "n": 15,
+              "name": "T. Meunier",
+              "pos": "D"
+            },
+            {
+              "n": 14,
+              "name": "D. Lukebakio",
+              "pos": "F"
+            },
+            {
+              "n": 16,
+              "name": "K. De Winter",
+              "pos": "D"
+            },
+            {
+              "n": 18,
+              "name": "J. Seys",
+              "pos": "D"
+            }
+          ]
+        }
+      }
     },
     "99": {
       "home": "Norvégia",
       "away": "Anglia",
       "date": "2026-07-11 23:00",
-      "played": false,
+      "played": true,
       "pred_score": "0-1",
       "pred_winner": "Vendég",
       "pred_corners": 10,
-      "pred_yellows": 3
+      "pred_yellows": 3,
+      "act_score": "1-2",
+      "act_corners": 11,
+      "act_yellows": 1,
+      "stats": [
+        {
+          "label": "Labdabirtoklás",
+          "home": "48%",
+          "away": "52%"
+        },
+        {
+          "label": "Várható gól (xG)",
+          "home": "0.68",
+          "away": "1.04"
+        },
+        {
+          "label": "Összes lövés",
+          "home": 13,
+          "away": 14
+        },
+        {
+          "label": "Kaput eltaláló lövés",
+          "home": 4,
+          "away": 8
+        },
+        {
+          "label": "Kapu mellé lőtt lövés",
+          "home": 6,
+          "away": 3
+        },
+        {
+          "label": "Blokkolt lövés",
+          "home": 3,
+          "away": 3
+        },
+        {
+          "label": "Lövés a tizenhatoson belül",
+          "home": 10,
+          "away": 8
+        },
+        {
+          "label": "Lövés a tizenhatoson kívül",
+          "home": 3,
+          "away": 6
+        },
+        {
+          "label": "Szöglet",
+          "home": 7,
+          "away": 4
+        },
+        {
+          "label": "Les",
+          "home": 1,
+          "away": 5
+        },
+        {
+          "label": "Szabálytalanság",
+          "home": 10,
+          "away": 8
+        },
+        {
+          "label": "Sárga lap",
+          "home": 1,
+          "away": 0
+        },
+        {
+          "label": "Kapusvédés",
+          "home": 6,
+          "away": 3
+        },
+        {
+          "label": "Passzok száma",
+          "home": 577,
+          "away": 628
+        },
+        {
+          "label": "Pontos passz",
+          "home": 494,
+          "away": 568
+        },
+        {
+          "label": "Passzpontosság",
+          "home": "86%",
+          "away": "90%"
+        }
+      ],
+      "lineups": {
+        "home": {
+          "formation": "4-3-3",
+          "coach": "Stale Solbakken",
+          "startXI": [
+            {
+              "n": 1,
+              "name": "O. Nyland",
+              "pos": "G"
+            },
+            {
+              "n": 26,
+              "name": "J. Ryerson",
+              "pos": "D"
+            },
+            {
+              "n": 3,
+              "name": "K. Ajer",
+              "pos": "D"
+            },
+            {
+              "n": 17,
+              "name": "T. Heggem",
+              "pos": "D"
+            },
+            {
+              "n": 5,
+              "name": "D. Wolfe",
+              "pos": "D"
+            },
+            {
+              "n": 10,
+              "name": "M. Odegaard",
+              "pos": "M"
+            },
+            {
+              "n": 8,
+              "name": "S. Berge",
+              "pos": "M"
+            },
+            {
+              "n": 6,
+              "name": "P. Berg",
+              "pos": "M"
+            },
+            {
+              "n": 7,
+              "name": "A. Sorloth",
+              "pos": "F"
+            },
+            {
+              "n": 9,
+              "name": "E. Haaland",
+              "pos": "F"
+            },
+            {
+              "n": 21,
+              "name": "A. Schjelderup",
+              "pos": "F"
+            }
+          ],
+          "subs": [
+            {
+              "n": 13,
+              "name": "E. Selvik",
+              "pos": "G"
+            },
+            {
+              "n": 12,
+              "name": "S. Tangvik",
+              "pos": "G"
+            },
+            {
+              "n": 14,
+              "name": "F. Aursnes",
+              "pos": "M"
+            },
+            {
+              "n": 2,
+              "name": "M. Thorsby",
+              "pos": "M"
+            },
+            {
+              "n": 15,
+              "name": "F. Bjorkan",
+              "pos": "D"
+            },
+            {
+              "n": 23,
+              "name": "J. Hauge",
+              "pos": "M"
+            },
+            {
+              "n": 11,
+              "name": "J. Larsen",
+              "pos": "F"
+            },
+            {
+              "n": 22,
+              "name": "O. Bobb",
+              "pos": "M"
+            },
+            {
+              "n": 19,
+              "name": "T. Aasgaard",
+              "pos": "M"
+            },
+            {
+              "n": 4,
+              "name": "L. Ostigard",
+              "pos": "D"
+            },
+            {
+              "n": 18,
+              "name": "K. Thorstvedt",
+              "pos": "M"
+            },
+            {
+              "n": 16,
+              "name": "M. Pedersen",
+              "pos": "D"
+            },
+            {
+              "n": 25,
+              "name": "H. Falchener",
+              "pos": "D"
+            },
+            {
+              "n": 24,
+              "name": "S. Langas",
+              "pos": "D"
+            },
+            {
+              "n": 20,
+              "name": "A. Nusa",
+              "pos": "M"
+            }
+          ]
+        },
+        "away": {
+          "formation": "4-2-3-1",
+          "coach": "Thomas Tuchel",
+          "startXI": [
+            {
+              "n": 1,
+              "name": "J. Pickford",
+              "pos": "G"
+            },
+            {
+              "n": 2,
+              "name": "E. Konsa",
+              "pos": "D"
+            },
+            {
+              "n": 5,
+              "name": "J. Stones",
+              "pos": "D"
+            },
+            {
+              "n": 6,
+              "name": "M. Guehi",
+              "pos": "D"
+            },
+            {
+              "n": 3,
+              "name": "N. O'Reilly",
+              "pos": "D"
+            },
+            {
+              "n": 4,
+              "name": "D. Rice",
+              "pos": "M"
+            },
+            {
+              "n": 8,
+              "name": "E. Anderson",
+              "pos": "M"
+            },
+            {
+              "n": 20,
+              "name": "N. Madueke",
+              "pos": "M"
+            },
+            {
+              "n": 10,
+              "name": "J. Bellingham",
+              "pos": "M"
+            },
+            {
+              "n": 18,
+              "name": "A. Gordon",
+              "pos": "M"
+            },
+            {
+              "n": 9,
+              "name": "H. Kane",
+              "pos": "F"
+            }
+          ],
+          "subs": [
+            {
+              "n": 13,
+              "name": "D. Henderson",
+              "pos": "G"
+            },
+            {
+              "n": 23,
+              "name": "J. Trafford",
+              "pos": "G"
+            },
+            {
+              "n": 14,
+              "name": "J. Henderson",
+              "pos": "M"
+            },
+            {
+              "n": 15,
+              "name": "D. Burn",
+              "pos": "D"
+            },
+            {
+              "n": 19,
+              "name": "O. Watkins",
+              "pos": "F"
+            },
+            {
+              "n": 12,
+              "name": "T. Chalobah",
+              "pos": "D"
+            },
+            {
+              "n": 24,
+              "name": "R. James",
+              "pos": "D"
+            },
+            {
+              "n": 17,
+              "name": "M. Rogers",
+              "pos": "M"
+            },
+            {
+              "n": 7,
+              "name": "B. Saka",
+              "pos": "F"
+            },
+            {
+              "n": 16,
+              "name": "K. Mainoo",
+              "pos": "M"
+            },
+            {
+              "n": 22,
+              "name": "I. Toney",
+              "pos": "F"
+            },
+            {
+              "n": 11,
+              "name": "M. Rashford",
+              "pos": "F"
+            },
+            {
+              "n": 21,
+              "name": "E. Eze",
+              "pos": "M"
+            },
+            {
+              "n": 25,
+              "name": "D. Spence",
+              "pos": "D"
+            }
+          ]
+        }
+      }
     },
     "100": {
       "home": "Argentína",
       "away": "Svájc",
       "date": "2026-07-12 03:00",
-      "played": false,
+      "played": true,
       "pred_score": "2-0",
       "pred_winner": "Hazai",
       "pred_corners": 10,
-      "pred_yellows": 3
+      "pred_yellows": 3,
+      "act_score": "3-1",
+      "act_corners": 10,
+      "act_yellows": 5,
+      "stats": [
+        {
+          "label": "Labdabirtoklás",
+          "home": "59%",
+          "away": "41%"
+        },
+        {
+          "label": "Várható gól (xG)",
+          "home": "2.00",
+          "away": "0.53"
+        },
+        {
+          "label": "Összes lövés",
+          "home": 22,
+          "away": 11
+        },
+        {
+          "label": "Kaput eltaláló lövés",
+          "home": 7,
+          "away": 5
+        },
+        {
+          "label": "Kapu mellé lőtt lövés",
+          "home": 8,
+          "away": 3
+        },
+        {
+          "label": "Blokkolt lövés",
+          "home": 7,
+          "away": 3
+        },
+        {
+          "label": "Lövés a tizenhatoson belül",
+          "home": 12,
+          "away": 5
+        },
+        {
+          "label": "Lövés a tizenhatoson kívül",
+          "home": 10,
+          "away": 6
+        },
+        {
+          "label": "Szöglet",
+          "home": 8,
+          "away": 2
+        },
+        {
+          "label": "Les",
+          "home": 4,
+          "away": 3
+        },
+        {
+          "label": "Szabálytalanság",
+          "home": 14,
+          "away": 18
+        },
+        {
+          "label": "Sárga lap",
+          "home": 3,
+          "away": 2
+        },
+        {
+          "label": "Piros lap",
+          "home": 0,
+          "away": 1
+        },
+        {
+          "label": "Kapusvédés",
+          "home": 4,
+          "away": 4
+        },
+        {
+          "label": "Passzok száma",
+          "home": 692,
+          "away": 474
+        },
+        {
+          "label": "Pontos passz",
+          "home": 615,
+          "away": 399
+        },
+        {
+          "label": "Passzpontosság",
+          "home": "89%",
+          "away": "84%"
+        }
+      ],
+      "lineups": {
+        "home": {
+          "formation": "4-1-3-2",
+          "coach": "Lionel Scaloni",
+          "startXI": [
+            {
+              "n": 23,
+              "name": "E. Martinez",
+              "pos": "G"
+            },
+            {
+              "n": 26,
+              "name": "N. Molina",
+              "pos": "D"
+            },
+            {
+              "n": 13,
+              "name": "C. Romero",
+              "pos": "D"
+            },
+            {
+              "n": 6,
+              "name": "L. Martinez",
+              "pos": "D"
+            },
+            {
+              "n": 3,
+              "name": "N. Tagliafico",
+              "pos": "D"
+            },
+            {
+              "n": 5,
+              "name": "L. Paredes",
+              "pos": "M"
+            },
+            {
+              "n": 7,
+              "name": "R. de Paul",
+              "pos": "M"
+            },
+            {
+              "n": 24,
+              "name": "E. Fernandez",
+              "pos": "M"
+            },
+            {
+              "n": 20,
+              "name": "A. Mac Allister",
+              "pos": "M"
+            },
+            {
+              "n": 10,
+              "name": "L. Messi",
+              "pos": "F"
+            },
+            {
+              "n": 9,
+              "name": "J. Alvarez",
+              "pos": "F"
+            }
+          ],
+          "subs": [
+            {
+              "n": 12,
+              "name": "G. Rulli",
+              "pos": "G"
+            },
+            {
+              "n": 1,
+              "name": "J. Musso",
+              "pos": "G"
+            },
+            {
+              "n": 19,
+              "name": "N. Otamendi",
+              "pos": "D"
+            },
+            {
+              "n": 14,
+              "name": "E. Palacios",
+              "pos": "M"
+            },
+            {
+              "n": 4,
+              "name": "G. Montiel",
+              "pos": "D"
+            },
+            {
+              "n": 15,
+              "name": "N. Gonzalez",
+              "pos": "F"
+            },
+            {
+              "n": 17,
+              "name": "G. Simeone",
+              "pos": "F"
+            },
+            {
+              "n": 11,
+              "name": "G. Lo Celso",
+              "pos": "M"
+            },
+            {
+              "n": 22,
+              "name": "L. Martinez",
+              "pos": "F"
+            },
+            {
+              "n": 2,
+              "name": "M. Senesi",
+              "pos": "D"
+            },
+            {
+              "n": 25,
+              "name": "F. Medina",
+              "pos": "D"
+            },
+            {
+              "n": 16,
+              "name": "T. Almada",
+              "pos": "M"
+            },
+            {
+              "n": 21,
+              "name": "J. Lopez",
+              "pos": "F"
+            },
+            {
+              "n": 8,
+              "name": "V. Barco",
+              "pos": "M"
+            },
+            {
+              "n": 18,
+              "name": "N. Paz",
+              "pos": "F"
+            }
+          ]
+        },
+        "away": {
+          "formation": "4-2-3-1",
+          "coach": "Murat Yakin",
+          "startXI": [
+            {
+              "n": 1,
+              "name": "G. Kobel",
+              "pos": "G"
+            },
+            {
+              "n": 6,
+              "name": "D. Zakaria",
+              "pos": "D"
+            },
+            {
+              "n": 4,
+              "name": "N. Elvedi",
+              "pos": "D"
+            },
+            {
+              "n": 5,
+              "name": "M. Akanji",
+              "pos": "D"
+            },
+            {
+              "n": 13,
+              "name": "R. Rodriguez",
+              "pos": "D"
+            },
+            {
+              "n": 8,
+              "name": "R. Freuler",
+              "pos": "M"
+            },
+            {
+              "n": 10,
+              "name": "G. Xhaka",
+              "pos": "M"
+            },
+            {
+              "n": 15,
+              "name": "D. Sow",
+              "pos": "M"
+            },
+            {
+              "n": 22,
+              "name": "F. Rieder",
+              "pos": "M"
+            },
+            {
+              "n": 11,
+              "name": "D. Ndoye",
+              "pos": "M"
+            },
+            {
+              "n": 7,
+              "name": "B. Embolo",
+              "pos": "F"
+            }
+          ],
+          "subs": [
+            {
+              "n": 12,
+              "name": "Y. Mvogo",
+              "pos": "G"
+            },
+            {
+              "n": 21,
+              "name": "M. Keller",
+              "pos": "G"
+            },
+            {
+              "n": 3,
+              "name": "S. Widmer",
+              "pos": "D"
+            },
+            {
+              "n": 17,
+              "name": "R. Vargas",
+              "pos": "M"
+            },
+            {
+              "n": 19,
+              "name": "N. Okafor",
+              "pos": "F"
+            },
+            {
+              "n": 20,
+              "name": "M. Aebischer",
+              "pos": "M"
+            },
+            {
+              "n": 18,
+              "name": "E. Comert",
+              "pos": "D"
+            },
+            {
+              "n": 26,
+              "name": "C. Itten",
+              "pos": "F"
+            },
+            {
+              "n": 16,
+              "name": "C. Fassnacht",
+              "pos": "M"
+            },
+            {
+              "n": 2,
+              "name": "M. Muheim",
+              "pos": "D"
+            },
+            {
+              "n": 24,
+              "name": "A. Amenda",
+              "pos": "D"
+            },
+            {
+              "n": 23,
+              "name": "Z. Amdouni",
+              "pos": "F"
+            },
+            {
+              "n": 14,
+              "name": "A. Jashari",
+              "pos": "M"
+            },
+            {
+              "n": 25,
+              "name": "L. Jaquez",
+              "pos": "D"
+            }
+          ]
+        }
+      }
     },
     "101": {
       "home": "Franciaország",
@@ -38622,8 +40049,8 @@
             "home": "Franciaország",
             "away": "Marokkó",
             "pred": "2-0",
-            "act": "",
-            "played": false,
+            "act": "2-0",
+            "played": true,
             "win": "home",
             "pens": false
           },
@@ -38632,8 +40059,8 @@
             "home": "Spanyolország",
             "away": "Belgium",
             "pred": "2-0",
-            "act": "",
-            "played": false,
+            "act": "2-1",
+            "played": true,
             "win": "home",
             "pens": false
           },
@@ -38642,8 +40069,8 @@
             "home": "Norvégia",
             "away": "Anglia",
             "pred": "0-1",
-            "act": "",
-            "played": false,
+            "act": "1-2",
+            "played": true,
             "win": "away",
             "pens": false
           },
@@ -38652,8 +40079,8 @@
             "home": "Argentína",
             "away": "Svájc",
             "pred": "2-0",
-            "act": "",
-            "played": false,
+            "act": "3-1",
+            "played": true,
             "win": "home",
             "pens": false
           }
