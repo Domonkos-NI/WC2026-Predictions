@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15 08:21 (magyar idő)",
+  "generated_at": "2026-07-16 09:20 (magyar idő)",
   "rows": [
     {
       "Meccs": 1,
@@ -2029,16 +2029,16 @@
       "Hazai csapat": "Anglia",
       "Vendég csapat": "Argentína",
       "Eredmény (tipp)": "1-2",
-      "Eredmény (tény)": "",
-      "Találat": "",
+      "Eredmény (tény)": "1-2",
+      "Találat": "🎯 Pontos",
       "Győztes (tipp)": "Vendég",
       "Szögletek (tipp)": 11,
-      "Szögletek (tény)": "",
+      "Szögletek (tény)": 7,
       "Sárga lapok (tipp)": 4,
-      "Sárga lapok (tény)": "",
+      "Sárga lapok (tény)": 4,
       "Esély H/D/V (%)": "27 / 27 / 46",
-      "Státusz": "Előrejelzés",
-      "Pontosság (%)": "",
+      "Státusz": "Lejátszott",
+      "Pontosság (%)": "50%",
       "__mid": 102
     },
     {
@@ -39293,11 +39293,369 @@
       "home": "Anglia",
       "away": "Argentína",
       "date": "2026-07-15 21:00",
-      "played": false,
+      "played": true,
       "pred_score": "1-2",
       "pred_winner": "Vendég",
       "pred_corners": 11,
-      "pred_yellows": 4
+      "pred_yellows": 4,
+      "act_score": "1-2",
+      "act_corners": 7,
+      "act_yellows": 4,
+      "stats": [
+        {
+          "label": "Labdabirtoklás",
+          "home": "36%",
+          "away": "64%"
+        },
+        {
+          "label": "Várható gól (xG)",
+          "home": "0.53",
+          "away": "1.84"
+        },
+        {
+          "label": "Összes lövés",
+          "home": 5,
+          "away": 15
+        },
+        {
+          "label": "Kaput eltaláló lövés",
+          "home": 2,
+          "away": 5
+        },
+        {
+          "label": "Kapu mellé lőtt lövés",
+          "home": 1,
+          "away": 7
+        },
+        {
+          "label": "Blokkolt lövés",
+          "home": 2,
+          "away": 3
+        },
+        {
+          "label": "Lövés a tizenhatoson belül",
+          "home": 2,
+          "away": 7
+        },
+        {
+          "label": "Lövés a tizenhatoson kívül",
+          "home": 3,
+          "away": 8
+        },
+        {
+          "label": "Szöglet",
+          "home": 1,
+          "away": 6
+        },
+        {
+          "label": "Les",
+          "home": 1,
+          "away": 3
+        },
+        {
+          "label": "Szabálytalanság",
+          "home": 11,
+          "away": 15
+        },
+        {
+          "label": "Sárga lap",
+          "home": 1,
+          "away": 3
+        },
+        {
+          "label": "Kapusvédés",
+          "home": 3,
+          "away": 1
+        },
+        {
+          "label": "Passzok száma",
+          "home": 324,
+          "away": 590
+        },
+        {
+          "label": "Pontos passz",
+          "home": 272,
+          "away": 537
+        },
+        {
+          "label": "Passzpontosság",
+          "home": "84%",
+          "away": "91%"
+        }
+      ],
+      "lineups": {
+        "home": {
+          "formation": null,
+          "coach": "Thomas Tuchel",
+          "startXI": [
+            {
+              "n": 1,
+              "name": "Jordan Pickford",
+              "pos": "G"
+            },
+            {
+              "n": 24,
+              "name": "Reece James",
+              "pos": "D"
+            },
+            {
+              "n": 5,
+              "name": "John Stones",
+              "pos": "D"
+            },
+            {
+              "n": 6,
+              "name": "Marc Guéhi",
+              "pos": "D"
+            },
+            {
+              "n": 25,
+              "name": "Djed Spence",
+              "pos": "D"
+            },
+            {
+              "n": 4,
+              "name": "Declan Rice",
+              "pos": "M"
+            },
+            {
+              "n": 8,
+              "name": "Elliot Anderson",
+              "pos": "M"
+            },
+            {
+              "n": 17,
+              "name": "Morgan Rogers",
+              "pos": "M"
+            },
+            {
+              "n": 10,
+              "name": "Jude Bellingham",
+              "pos": "M"
+            },
+            {
+              "n": 18,
+              "name": "Anthony Gordon",
+              "pos": "M"
+            },
+            {
+              "n": 9,
+              "name": "Harry Kane",
+              "pos": "F"
+            }
+          ],
+          "subs": [
+            {
+              "n": 2,
+              "name": "Ezri Konsa",
+              "pos": "D"
+            },
+            {
+              "n": 3,
+              "name": "Nico O'Reilly",
+              "pos": "D"
+            },
+            {
+              "n": 15,
+              "name": "Dan Burn",
+              "pos": "D"
+            },
+            {
+              "n": 11,
+              "name": "Marcus Rashford",
+              "pos": "F"
+            },
+            {
+              "n": 22,
+              "name": "Ivan Toney",
+              "pos": "F"
+            },
+            {
+              "n": 23,
+              "name": "James Trafford",
+              "pos": "G"
+            },
+            {
+              "n": 13,
+              "name": "Dean Henderson",
+              "pos": "G"
+            },
+            {
+              "n": 12,
+              "name": "Trevoh Chalobah",
+              "pos": "D"
+            },
+            {
+              "n": 21,
+              "name": "Eberechi Eze",
+              "pos": "M"
+            },
+            {
+              "n": 14,
+              "name": "Jordan Henderson",
+              "pos": "M"
+            },
+            {
+              "n": 16,
+              "name": "Kobbie Mainoo",
+              "pos": "M"
+            },
+            {
+              "n": 7,
+              "name": "Bukayo Saka",
+              "pos": "F"
+            },
+            {
+              "n": 20,
+              "name": "Noni Madueke",
+              "pos": "F"
+            },
+            {
+              "n": 19,
+              "name": "Ollie Watkins",
+              "pos": "F"
+            }
+          ]
+        },
+        "away": {
+          "formation": null,
+          "coach": "Lionel Scaloni",
+          "startXI": [
+            {
+              "n": 23,
+              "name": "Emiliano Martínez",
+              "pos": "G"
+            },
+            {
+              "n": 26,
+              "name": "Nahuel Molina",
+              "pos": "D"
+            },
+            {
+              "n": 13,
+              "name": "Cristian Romero",
+              "pos": "D"
+            },
+            {
+              "n": 6,
+              "name": "Lisandro Martínez",
+              "pos": "D"
+            },
+            {
+              "n": 3,
+              "name": "Nicolás Tagliafico",
+              "pos": "D"
+            },
+            {
+              "n": 5,
+              "name": "Leandro Paredes",
+              "pos": "M"
+            },
+            {
+              "n": 17,
+              "name": "Giuliano Simeone",
+              "pos": "M"
+            },
+            {
+              "n": 24,
+              "name": "Enzo Fernández",
+              "pos": "M"
+            },
+            {
+              "n": 20,
+              "name": "Alexis Mac Allister",
+              "pos": "M"
+            },
+            {
+              "n": 9,
+              "name": "Julián Alvarez",
+              "pos": "M"
+            },
+            {
+              "n": 10,
+              "name": "Lionel Messi",
+              "pos": "F"
+            }
+          ],
+          "subs": [
+            {
+              "n": 15,
+              "name": "Nicolás González",
+              "pos": "F"
+            },
+            {
+              "n": 19,
+              "name": "Nicolás Otamendi",
+              "pos": "D"
+            },
+            {
+              "n": 4,
+              "name": "Gonzalo Montiel",
+              "pos": "D"
+            },
+            {
+              "n": 7,
+              "name": "Rodrigo De Paul",
+              "pos": "M"
+            },
+            {
+              "n": 22,
+              "name": "Lautaro Martínez",
+              "pos": "F"
+            },
+            {
+              "n": 1,
+              "name": "Juan Musso",
+              "pos": "G"
+            },
+            {
+              "n": 12,
+              "name": "Gerónimo Rulli",
+              "pos": "G"
+            },
+            {
+              "n": 25,
+              "name": "Facundo Medina",
+              "pos": "D"
+            },
+            {
+              "n": 2,
+              "name": "Marcos Senesi",
+              "pos": "D"
+            },
+            {
+              "n": 16,
+              "name": "Thiago Almada",
+              "pos": "M"
+            },
+            {
+              "n": 11,
+              "name": "Giovani Lo Celso",
+              "pos": "M"
+            },
+            {
+              "n": 14,
+              "name": "Exequiel Palacios",
+              "pos": "M"
+            },
+            {
+              "n": 18,
+              "name": "Nico Paz",
+              "pos": "F"
+            },
+            {
+              "n": 8,
+              "name": "Valentín Barco",
+              "pos": "M"
+            },
+            {
+              "n": 21,
+              "name": "José Manuel López",
+              "pos": "F"
+            }
+          ]
+        }
+      }
     },
     "103": {
       "home": "Franciaország",
@@ -40467,8 +40825,8 @@
             "home": "Anglia",
             "away": "Argentína",
             "pred": "1-2",
-            "act": "",
-            "played": false,
+            "act": "1-2",
+            "played": true,
             "win": "away",
             "pens": false
           }
